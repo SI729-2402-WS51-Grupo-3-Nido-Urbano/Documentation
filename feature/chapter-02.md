@@ -228,6 +228,17 @@ Preguntas principales:
 
 ### 2.3.4 Emphaty Mapping
 
+**Compradores Juveniles - Hanna Rojas**
+![image](https://cdn.discordapp.com/attachments/1101963075151745105/1276362318967734292/image.png?ex=66c9408a&is=66c7ef0a&hm=a5847939de87bd6d7a91865a3a1363612f2aa1acd5f6f1d705d9373c733f9506&)
+
+**Propietarios de Inmuebles Independientes - Mario Pérez**
+![image](https://cdn.discordapp.com/attachments/1101963075151745105/1276362442565357568/image.png?ex=66c940a7&is=66c7ef27&hm=8a78e0a2175373a5cffc7e0afd04d5fd185310457f93c6545f4d6777a055f0bd&)
+
 ### 2.3.5 As-Is Scenario Mapping
+
+**Compradores Juveniles - Hanna Rojas**
+![image]()
+**Propietarios de Inmuebles Independientes - Mario Pérez**
+![image]()
 
 ## 2.4 Ubiquitous Language:
