@@ -179,29 +179,29 @@ Organizar eventos exclusivos y seminarios sobre inversiones inmobiliarias, tende
 #### Segmento #1: Compradores primerizos
 Preguntas principales:
 
-¿Cuál es tu nombre, edad y situación actual (familia joven, estudiante universitario, persona sola, etc.)?
-¿Qué tipo de propiedad estás buscando (apartamento, casa, cuarto, etc.) y cuáles son tus preferencias de ubicación?
-¿Cuáles son tus principales prioridades al buscar una(precio, seguridad, cercanía, etc.)?
-¿Qué herramientas o métodos utilizas para buscar propiedades?
-¿Cuáles son los mayores desafíos que enfrentas al buscar un nuevo hogar?
-¿Qué características te gustaría ver en una aplicación de búsqueda de propiedades para satisfacer tus necesidades específicas?
-¿Qué tipo de información te gustaría poder acceder fácilmente desde una aplicación por si necesitas orientación?
-¿Cómo te gustaría organizar, filtrar y comparar las propiedades que encuentres?
-¿Tienes idea de como gestionar el apartado legal al momento de comprar o alquilar un inmueble?
-¿Qué esperas lograr al utilizar una aplicación como Nido Urbano para encontrar tu próximo hogar?
+¿Cuál es tu nombre, edad y situación actual (familia joven, estudiante universitario, persona sola, etc.)?<br>
+¿Qué tipo de propiedad estás buscando (apartamento, casa, cuarto, etc.) y cuáles son tus preferencias de ubicación?<br>
+¿Cuáles son tus principales prioridades al buscar una(precio, seguridad, cercanía, etc.)?<br>
+¿Qué herramientas o métodos utilizas para buscar propiedades?<br>
+¿Cuáles son los mayores desafíos que enfrentas al buscar un nuevo hogar?<br>
+¿Qué características te gustaría ver en una aplicación de búsqueda de propiedades para satisfacer tus necesidades específicas?<br>
+¿Qué tipo de información te gustaría poder acceder fácilmente desde una aplicación por si necesitas orientación?<br>
+¿Cómo te gustaría organizar, filtrar y comparar las propiedades que encuentres?<br>
+¿Tienes idea de como gestionar el apartado legal al momento de comprar o alquilar un inmueble?<br>
+¿Qué esperas lograr al utilizar una aplicación como Nido Urbano para encontrar tu próximo hogar?<br>
 
 #### Segmento #2: Propietarios de Inmuebles
 Preguntas principales:
-¿Cuál es tu nombre, edad y situación actual como propietario de inmuebles?
-¿Qué tipo de propiedad posees y cuáles son tus objetivos al alquilar y/o vender?
-¿Qué dispositivos usas para manejar la información y negocios relacionados a tus inmuebles? (Considerar preguntas adicionales)
-¿Qué estrategias utilizas actualmente para promocionar tus propiedades y gestionar las consultas de los clientes potenciales?
-¿Cuáles son los mayores desafíos que enfrentas como propietario de inmuebles y cómo crees que una aplicación podría ayudarte a superarlos?
-¿Qué características te gustaría ver en una aplicación de gestión de propiedades para satisfacer tus necesidades específicas?
-¿Qué tipo de información te gustaría poder acceder fácilmente desde dicha aplicación?
-¿Cómo te gustaría gestionar las solicitudes de visita y el proceso de alquiler o venta a través de una aplicación?
-¿Qué esperas lograr al utilizar una aplicación como Nido Urbano para gestionar tus propiedades?
-¿Qué mejoras esperas ver en la gestión de tus propiedades al implementar una aplicación como Nido Urbano?
+¿Cuál es tu nombre, edad y situación actual como propietario de inmuebles?<br>
+¿Qué tipo de propiedad posees y cuáles son tus objetivos al alquilar y/o vender?<br>
+¿Qué dispositivos usas para manejar la información y negocios relacionados a tus inmuebles?<br>
+¿Qué estrategias utilizas actualmente para promocionar tus propiedades y gestionar las consultas de los clientes potenciales?<br>
+¿Cuáles son los mayores desafíos que enfrentas como propietario de inmuebles y cómo crees que una aplicación podría ayudarte a superarlos?<br>
+¿Qué características te gustaría ver en una aplicación de gestión de propiedades para satisfacer tus necesidades específicas?<br>
+¿Qué tipo de información te gustaría poder acceder fácilmente desde dicha aplicación?<br>
+¿Cómo te gustaría gestionar las solicitudes de visita y el proceso de alquiler o venta a través de una aplicación?<br>
+¿Qué esperas lograr al utilizar una aplicación como Nido Urbano para gestionar tus propiedades?<br>
+¿Qué mejoras esperas ver en la gestión de tus propiedades al implementar una aplicación como Nido Urbano?<br>
 
 
 ### 2.2.2 Registro de entrevistas
