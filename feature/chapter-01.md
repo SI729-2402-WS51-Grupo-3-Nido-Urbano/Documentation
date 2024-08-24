@@ -10,10 +10,11 @@
 
 **Docente:** Juan Antonio Flores Moroco
 
-**Nombre del Startup**\
+**Nombre del Startup**
+Urban Nest
 
-**Nombre del Producto**\
-
+**Nombre del Producto**
+Nido Urbano
 
 **Grupo 3**
 
