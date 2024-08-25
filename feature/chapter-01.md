@@ -10,10 +10,10 @@
 
 **Docente:** Juan Antonio Flores Moroco
 
-**Nombre del Startup**
+**Nombre del Startup**\
 Urban Nest
 
-**Nombre del Producto**
+**Nombre del Producto**\
 Nido Urbano
 
 **Grupo 3**
@@ -263,7 +263,7 @@ Nido Urbano
 
 Nuestra startup "Urban Nest" se forma con el propósito de revolucionar el proceso de búsqueda de propiedades inmobiliarias para todo tipo de necesidades, desde aspectos financieros hasta la importancia de estar ubicado cerca a un determinado centro de trabajo u estudio. 
     
-Ante ello, el proyecto Nido Urbano es iniciado y presentado como una plataforma destinada a ofrecer una experiencia integral en la búsqueda de la viviendia ideal para cada usuario, evitando que este se exija en exceso durante el proceso de indagación de su mejor opción. Por ello, nos comprometemos a despejar la carga que conlleva dicho proceso y encargarnos de las tareas que pueden resultar más tediosas para el usuario. 
+Ante ello, el proyecto "Nido Urbano" es iniciado y presentado como una plataforma destinada a ofrecer una experiencia integral en la búsqueda de la viviendia ideal para cada usuario, evitando que este se exija en exceso durante el proceso de indagación de su mejor opción. Por ello, nos comprometemos a despejar la carga que conlleva dicho proceso y encargarnos de las tareas que pueden resultar más tediosas para el usuario. 
 
 <div class="text-center"><b>Logotipo de la Startup:</b> </div>
     
