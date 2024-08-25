@@ -10,10 +10,9 @@
 
 **Docente:** Juan Antonio Flores Moroco
 
-**Nombre del Startup**\
-NidoUrbano
-**Nombre del Producto**\
-UrbanNest
+**Nombre del Startup**: NidoUrbano
+
+**Nombre del Producto**: UrbanNest
 
 **Grupo 3**
 
@@ -25,9 +24,6 @@ UrbanNest
 - Quispe Tipo, Godofredo | U202120772
 
 **Agosto, 2024**  
-
-
-
 
 # REGISTRO DE VERSIONES DEL INFORME
 
