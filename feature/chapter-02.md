@@ -212,7 +212,7 @@ Preguntas principales:
 
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
-| Alfredo | Medina | 23 | 0:00 | 3:14 |
+| Alfredo | Medina | 23 | 0:00 | 5:24 |
 
 Descripción:
 
@@ -222,7 +222,7 @@ Descripción:
 
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
-| Ana | - | - | 3:15 | 3:25 |
+| Ana | - | - | 5:25 | 3:25 |
 
 Descripción:
 
@@ -232,7 +232,7 @@ Descripción:
 
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
-| John | Jimenez | - | 6:40 | 9:45 |
+| John | Jimenez | - | 8:50 | 9:45 |
 
  Descripción:
 
@@ -243,7 +243,7 @@ Descripción:
 
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
-| Eva Luz | Campos Rodas | 49 | 9:46 | 10:09 |
+| Eva Luz | Campos Rodas | 49 | 18:35 | 10:09 |
 
 Descripción:
 
@@ -253,7 +253,7 @@ Descripción:
 
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
-| Ray  | Arizona Esprilla | 20 | 9:46 | 6:14|
+| Ray  | Arizona Esprilla | 20 | 28:45 | 6:14|
 
 Descripción: 
 
