@@ -206,15 +206,56 @@ Preguntas principales:
 
 ### 2.2.2 Registro de entrevistas
 
-#### Entrevista 1
+#### Segmento 1 - Entrevista 1
 
-#### Entrevista 2
+[![1.png](https://i.postimg.cc/dDMps9hR/1.png)](https://postimg.cc/y3PvncXW)
 
-#### Entrevista 3
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Alfredo | Medina | 23 | 0:00 | 3:14 |
 
-#### Entrevista 4
+Descripción:
 
-#### Entrevista 5
+#### Segmento 1 - Entrevista 2
+
+[![2.png](https://i.postimg.cc/MTkdFH2F/2.png)](https://postimg.cc/GBQFBcpF)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Ana | - | - | 3:15 | 3:25 |
+
+Descripción:
+
+#### Segmento 1 - Entrevista 3
+
+[![3.png](https://i.postimg.cc/zG8qMsgz/3.png)](https://postimg.cc/mtpx16jJ)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| John | Jimenez | - | 6:40 | 9:45 |
+
+ Descripción:
+
+
+#### Segmento 2 - Entrevista 4
+
+[![4.png](https://i.postimg.cc/d0vD2WFX/4.png)](https://postimg.cc/SnTyqfJ7)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Eva Luz | Campos Rodas | 49 | 9:46 | 10:09 |
+
+Descripción:
+
+####  Segmento 2 - Entrevista 5
+
+[![5.png](https://i.postimg.cc/L8fS275W/5.png)](https://postimg.cc/w16Zkwh5)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Ray  | Arizona Esprilla | 20 | 9:46 | 6:14|
+
+Descripción: 
 
 ### 2.2.3 Análisis de entrevistas
 
