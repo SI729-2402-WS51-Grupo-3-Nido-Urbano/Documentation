@@ -238,7 +238,7 @@ Descripción:
 
 #### Segmento 1 - Entrevista 4
 
-[![4.png](https://i.postimg.cc/d0vD2WFX/4.png)](https://postimg.cc/SnTyqfJ7)
+[![6.png](https://i.postimg.cc/3RVrShhZ/6.png)](https://postimg.cc/qhcdq9zt)
 
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
