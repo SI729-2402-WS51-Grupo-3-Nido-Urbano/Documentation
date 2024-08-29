@@ -287,11 +287,11 @@ Ante ello, el proyecto "Nido Urbano" es iniciado y presentado como una plataform
 > [Imagen]
 
 ---
-#### Nombre: Cantoral Sedamano, Alexander ALberto | U20181b152
+#### Nombre: Cantoral Sedamano, Alexander Alberto | U20181b152
 
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
->
-> [Imagen]
+> Descripción, carrera, conocimientos técnicos, habilidades que puede aportar al equipo.
+>Estudiante de Ingeniería de Software con conocimientos técnicos de programación en C++, PHP, Python. Conocimientos intermedios de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas. 
+<img src="https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/foto%20alexander%5B797%5D.jpg" width="250" height="250">
 
 ---
 #### Nombre: Chirinos Zúñiga, Rodrigo Manuel | U202217804
