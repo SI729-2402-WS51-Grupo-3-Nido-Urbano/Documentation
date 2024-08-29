@@ -244,6 +244,8 @@ Descripción:
 |---------|-----------|------|--------|----------|
 | Gianmarco Fabian | Jiménez Guerra | 21 | 18:35 | 10:09 |
 
+Descripción:
+
 
 #### Segmento 2 - Entrevista 5
 
@@ -254,6 +256,7 @@ Descripción:
 | Eva Luz | Campos Rodas | 49 | 27:12 | 10:09 |
 
 Descripción:
+
 
 ####  Segmento 2 - Entrevista 6
 
