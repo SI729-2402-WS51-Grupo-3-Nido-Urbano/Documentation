@@ -236,24 +236,32 @@ Descripción:
 
  Descripción:
 
-
-#### Segmento 2 - Entrevista 4
+#### Segmento 1 - Entrevista 4
 
 [![4.png](https://i.postimg.cc/d0vD2WFX/4.png)](https://postimg.cc/SnTyqfJ7)
 
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
-| Eva Luz | Campos Rodas | 49 | 18:35 | 10:09 |
+| Gianmarco Fabian | Jiménez Guerra | 21 | 18:35 | 10:09 |
+
+
+#### Segmento 2 - Entrevista 5
+
+[![4.png](https://i.postimg.cc/d0vD2WFX/4.png)](https://postimg.cc/SnTyqfJ7)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Eva Luz | Campos Rodas | 49 | 27:12 | 10:09 |
 
 Descripción:
 
-####  Segmento 2 - Entrevista 5
+####  Segmento 2 - Entrevista 6
 
 [![5.png](https://i.postimg.cc/L8fS275W/5.png)](https://postimg.cc/w16Zkwh5)
 
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
-| Ray  | Arizona Esprilla | 20 | 28:45 | 6:14|
+| Ray  | Arizona Esprilla | 20 | 37:21 | 6:14|
 
 Descripción: 
 
