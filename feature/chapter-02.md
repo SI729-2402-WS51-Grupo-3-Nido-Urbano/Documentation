@@ -222,9 +222,10 @@ Descripción:
 
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
-| Ana | - | - | 5:25 | 3:25 |
+| Ana | Zúñiga | 56 | 5:25 | 3:25 |
 
 Descripción:
+Durante la entrevista, Ana nos comenta que consideraría usar una aplicación como NidoUrbano siempre y cuando el sistema de búsqueda sea adecuado y la información sobre los diferentes inmuebles sea verídica, como las imágenes, dimensiones y áreas comunes en caso de tratarse de un departamento. También añade que los filtros que más busca son el precio y la seguridad de la zona.
 
 #### Segmento 1 - Entrevista 3
 
