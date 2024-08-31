@@ -231,6 +231,24 @@ Preguntas principales:
 <img src="https://cdn.discordapp.com/attachments/1274549420616192020/1278599227110330399/Jhon_Fernando_Sebastian_Jimenez_Aguilar_1.png?ex=66d163d2&is=66d01252&hm=86f3b072b98e227943bbe4e468e40f7e04646afe329175314369ac086e8b1542&" />
 ### 2.3.2 User Task Matrix
 
+
+En esta seccion se presentan las tareas que realizaran los usuarios, teniendo en cuenta los segmentos de ARRENDATARIOS y ARRENDADOS. A continuacion se presentran los USER TASK MATRIX. Teninedo en cuenta los usuarios. Definimos un rango de Bajo,Medio y Alto.
+
+
+
+|Tareas	|ARRENDADOR (Frecuencia)	|ARRENDADOR (Importancia)	|ARRENDATARIO (Frecuencia)	|ARRENDATARIO (Importancia)|
+|:----------------:|:-----------:|:----------:|:----------:|:----------:|
+|Poner y ver carteles de alquiler y publicidad en folletos|Media	|Alta|	Media|	Alta|
+|Buscar por la zona casas que puedan estar en ventas o alquiler|	Baja	|Media |Alta |Alta|
+|Buscar casas en alquiler|	Media	|Media|	Alta|Alta|
+|Inspeccionar propiedades|	Media	|Alta |Alta|Alta|
+|Contactar propietarios o agentes inmobiliarios|	Media|	Alta|Alta	|Alta|
+|Visitar propiedades en persona|	Media	|Media	|Alta|	Alta|
+|Revisar y comparar precios y condiciones|	Alta	|Alta	|Alta	|Alta|
+|Llamar por teléfono a propietarios o agentes inmobiliarios|	Alta	|Alta	|Alta	|Alta|
+| Preguntar a conocidos o vecinos sobre casas en alquiler|Media|Alta|Alta|Alta|
+
+
 ### 2.3.3 User Journey Mapping
 
 ### 2.3.4 Emphaty Mapping
