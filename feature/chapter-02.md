@@ -206,15 +206,71 @@ Preguntas principales:
 
 ### 2.2.2 Registro de entrevistas
 
-#### Entrevista 1
+#### Segmento 1 - Entrevista 1
 
-#### Entrevista 2
+[![1.png](https://i.postimg.cc/dDMps9hR/1.png)](https://postimg.cc/y3PvncXW)
 
-#### Entrevista 3
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Alfredo | Medina | 23 | 0:00 | 5:24 |
 
-#### Entrevista 4
+Descripción:
 
-#### Entrevista 5
+#### Segmento 1 - Entrevista 2
+
+[![2.png](https://i.postimg.cc/MTkdFH2F/2.png)](https://postimg.cc/GBQFBcpF)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Ana | Zúñiga | 56 | 5:25 | 3:25 |
+
+Descripción:
+Durante la entrevista, Ana nos comenta que consideraría usar una aplicación como NidoUrbano siempre y cuando el sistema de búsqueda sea adecuado y la información sobre los diferentes inmuebles sea verídica, como las imágenes, dimensiones y áreas comunes en caso de tratarse de un departamento. También añade que los filtros que más busca son el precio y la seguridad de la zona.
+
+#### Segmento 1 - Entrevista 3
+
+[![3.png](https://i.postimg.cc/zG8qMsgz/3.png)](https://postimg.cc/mtpx16jJ)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| John | Jimenez | - | 8:50 | 9:45 |
+
+ Descripción:
+
+#### Segmento 1 - Entrevista 4
+
+[![6.png](https://i.postimg.cc/3RVrShhZ/6.png)](https://postimg.cc/qhcdq9zt)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Gianmarco Fabian | Jiménez Guerra | 21 | 18:35 | 10:09 |
+
+Descripción:
+
+
+#### Segmento 2 - Entrevista 5
+
+[![4.png](https://i.postimg.cc/d0vD2WFX/4.png)](https://postimg.cc/SnTyqfJ7)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Eva Luz | Campos Rodas | 49 | 27:12 | 10:09 |
+
+Descripción:
+
+
+####  Segmento 2 - Entrevista 6
+
+[![5.png](https://i.postimg.cc/L8fS275W/5.png)](https://postimg.cc/w16Zkwh5)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Ray  | Arizona Esprilla | 20 | 37:21 | 6:14|
+
+Descripción: 
+
+
+#### Link de entrevistas: https://acortar.link/7j4FOq
 
 ### 2.2.3 Análisis de entrevistas
 
