@@ -256,7 +256,12 @@ Descripción:
 |---------|-----------|------|--------|----------|
 | Eva Luz | Campos Rodas | 49 | 27:12 | 10:09 |
 
-Descripción:
+
+|||
+| ------------ | ------------ |
+| Descripción: | Eva Luz es propietaria de un inmueble que alquila habitaciones con el objetivo de generar ingresos económicos. Actualmente, gestiona los pagos de los alquileres y los contratos de forma manual, utilizando un cuaderno y boletas. El contrato lo realiza personalmente y no realiza publicidad, ya que prefiere evitar atraer a personas no deseadas. Por esta razón, ella misma selecciona a los inquilinos según un rango específico que considera apto para vivir en sus habitaciones disponibles para alquiler.<br> Los principales desafíos que enfrenta son la puntualidad en los pagos y el posible daño a la infraestructura de las habitaciones. Eva cree que una aplicación le ayudaría a llegar a inquilinos adecuados según los criterios que establezca y, al mismo tiempo, facilitaría la gestión de los pagos. Mencionó que la aplicación debería incluir información sobre los posibles inquilinos para evaluar si son aptos para alquilar, así como un recordatorio para que los inquilinos realicen sus pagos a tiempo.<br> Además, Eva mencionó que le gustaría que el proceso de visitas se gestionara internamente, pero que el aplicativo permita indicar la fecha y hora acordadas para realizar la visita. Espera que, al utilizar **Nido Urbano**, pueda gestionar de mejor manera los pagos, asegurar la responsabilidad de los inquilinos, proteger la infraestructura de las habitaciones y ver mejoras en sus ingresos económicos.                                                                                                                                                                                                                |
+
+
 
 
 ####  Segmento 2 - Entrevista 6
