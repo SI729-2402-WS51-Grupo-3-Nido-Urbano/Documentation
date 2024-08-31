@@ -307,6 +307,18 @@ En esta seccion se presentan las tareas que realizaran los usuarios, teniendo en
 
 ### 2.3.3 User Journey Mapping
 
+A continuacion se presentran los User Journey Mapping.
+
+SEGMENTO ARRENDADOR: Aquí para el segmento de arrendador se presenta el viaje del usuario con la aplicación '_'.
+
+<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1279290055893975100/Customer_journey_map_1.png?ex=66d3e735&is=66d295b5&hm=b2a05affe660a0c9280fe1bf058a2eb244884c5adef82ee1899849e6119d5b9f&"/>
+
+
+SEGMENTO ARRENDATARIO:  Aquí para el segmento de arrendatario se presenta el viaje del usuario con la aplicación '_____'.
+
+<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1279316744321765376/Customer_journey_map_1_1.png?ex=66d40010&is=66d2ae90&hm=aa6503d32c2b0bbb5c71d9ef9a405b066b3426ba23ee9f00474cb8f14e2e4a51&"/>
+
+
 ### 2.3.4 Emphaty Mapping
 
 **Compradores Juveniles - Hanna Rojas**
