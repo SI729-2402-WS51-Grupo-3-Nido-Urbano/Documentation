@@ -221,7 +221,14 @@ Preguntas principales:
 ### 2.3 Needfinding
 
 ### 2.3.1 User Personas
+  
+  En esta seccion se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuanta nuestro segmento predefinido, ARRENDATARIO y ARRENDADOR. A contunuación se presentra los user person: 
+  
+**ARRENDADOR:**
+<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1279233818024480860/Eva_Luz_Campos_Rodas.png?ex=66d3b2d5&is=66d26155&hm=6165e29e8e7fe605a1d7384cf079240abaadf5602d98f6a6571b9c7ac4b6deeb&"/>
 
+**ARRENDATARIO:**
+<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1278599227110330399/Jhon_Fernando_Sebastian_Jimenez_Aguilar_1.png?ex=66d163d2&is=66d01252&hm=86f3b072b98e227943bbe4e468e40f7e04646afe329175314369ac086e8b1542&" />
 ### 2.3.2 User Task Matrix
 
 ### 2.3.3 User Journey Mapping
