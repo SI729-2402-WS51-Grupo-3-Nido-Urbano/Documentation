@@ -272,7 +272,9 @@ Descripción:
 |---------|-----------|------|--------|----------|
 | Ray  | Arizona Esprilla | 20 | 37:21 | 6:14|
 
-Descripción: 
+|||
+| ------- | ------- |
+|Descripción: | Ray es propietario de dos inmuebles en los cuales alquila habitaciones con el objetivo de cubrir los servicios básicos y, al mismo tiempo, generar ingresos económicos adicionales. Menciona que utiliza boletas y una hoja de cálculo en Excel para gestionar los pagos y el control de sus alquileres. Como estrategias de promoción, Ray suele utilizar redes sociales y, además, coloca una pancarta en el exterior de sus inmuebles para indicar que hay habitaciones disponibles.<br> Uno de los problemas que enfrenta es que algunos inquilinos no realizan los pagos a tiempo. Ray espera que una plataforma digital lo ayude a gestionar este proceso de pagos de manera más eficiente y, además, le facilite la promoción de las habitaciones disponibles, atrayendo así a más inquilinos.<br>Ray también menciona que le gustaría acceder a información relevante como nóminas, reglas y leyes que beneficien tanto a los inquilinos como a él como propietario. Asimismo, desearía contar con una secuencia de pasos para gestionar las solicitudes de visita a las habitaciones y un proceso para la selección de inquilinos, incluyendo la posibilidad de revisar su historial como arrendatarios para determinar si son buenos inquilinos.<br>En cuanto a **Nido Urbano**, Ray espera que la plataforma ofrezca las características mencionadas y que sea rápida, accesible y con una interfaz fácil de usar. Además, espera contar con una gestión eficiente del proceso de pagos, con recordatorios sobre las fechas de pago, para mantener todo en orden. |
 
 
 #### Link de entrevistas: https://acortar.link/7j4FOq
