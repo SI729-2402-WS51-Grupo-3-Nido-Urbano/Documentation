@@ -176,7 +176,7 @@ Organizar eventos exclusivos y seminarios sobre inversiones inmobiliarias, tende
 
 <p> En esta sección del reporte se presentará las preguntas de las entrevistas y el análisis relacionado de cada entrevista. </p>
 
-#### Segmento #1: Compradores primerizos
+#### Segmento #1: Arrendatario (Compradores primerizos)
 Preguntas principales:
 
 ¿Cuál es tu nombre, edad y situación actual (familia joven, estudiante universitario, persona sola, etc.)?<br>
@@ -190,7 +190,7 @@ Preguntas principales:
 ¿Tienes idea de como gestionar el apartado legal al momento de comprar o alquilar un inmueble?<br>
 ¿Qué esperas lograr al utilizar una aplicación como Nido Urbano para encontrar tu próximo hogar?<br>
 
-#### Segmento #2: Propietarios de Inmuebles
+#### Segmento #2: Arrendador (Propietarios de Inmuebles)
 Preguntas principales:
 ¿Cuál es tu nombre, edad y situación actual como propietario de inmuebles?<br>
 ¿Qué tipo de propiedad posees y cuáles son tus objetivos al alquilar y/o vender?<br>
@@ -287,14 +287,14 @@ Descripción:
 ### 2.3.1 User Personas
   
   En esta seccion se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuanta nuestro segmento predefinido, ARRENDATARIO y ARRENDADOR. A contunuación se presentra los user person: 
-  
-**ARRENDADOR:**
-<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1279233818024480860/Eva_Luz_Campos_Rodas.png?ex=66d3b2d5&is=66d26155&hm=6165e29e8e7fe605a1d7384cf079240abaadf5602d98f6a6571b9c7ac4b6deeb&"/>
 
 **ARRENDATARIO:**
 <img src="https://cdn.discordapp.com/attachments/1274549420616192020/1278599227110330399/Jhon_Fernando_Sebastian_Jimenez_Aguilar_1.png?ex=66d35e12&is=66d20c92&hm=8260fe4f10b1caca9e8cc597963050154017f8ddd8474b94ffb156682b3c9845&"/>
-### 2.3.2 User Task Matrix
 
+**ARRENDADOR:**
+<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1279233818024480860/Eva_Luz_Campos_Rodas.png?ex=66d3b2d5&is=66d26155&hm=6165e29e8e7fe605a1d7384cf079240abaadf5602d98f6a6571b9c7ac4b6deeb&"/>
+
+### 2.3.2 User Task Matrix
 
 En esta seccion se presentan las tareas que realizaran los usuarios, teniendo en cuenta los segmentos de ARRENDATARIOS y ARRENDADOS. A continuacion se presentran los USER TASK MATRIX. Teninedo en cuenta los usuarios. Definimos un rango de Bajo,Medio y Alto.
 
@@ -317,14 +317,14 @@ En esta seccion se presentan las tareas que realizaran los usuarios, teniendo en
 
 A continuacion se presentran los User Journey Mapping.
 
+SEGMENTO ARRENDATARIO:  Aquí para el segmento de arrendatario se presenta el viaje del usuario con la aplicación '_____'.
+
+<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1279316744321765376/Customer_journey_map_1_1.png?ex=66d40010&is=66d2ae90&hm=aa6503d32c2b0bbb5c71d9ef9a405b066b3426ba23ee9f00474cb8f14e2e4a51&"/>
+
 SEGMENTO ARRENDADOR: Aquí para el segmento de arrendador se presenta el viaje del usuario con la aplicación '_'.
 
 <img src="https://cdn.discordapp.com/attachments/1274549420616192020/1279290055893975100/Customer_journey_map_1.png?ex=66d3e735&is=66d295b5&hm=b2a05affe660a0c9280fe1bf058a2eb244884c5adef82ee1899849e6119d5b9f&"/>
 
-
-SEGMENTO ARRENDATARIO:  Aquí para el segmento de arrendatario se presenta el viaje del usuario con la aplicación '_____'.
-
-<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1279316744321765376/Customer_journey_map_1_1.png?ex=66d40010&is=66d2ae90&hm=aa6503d32c2b0bbb5c71d9ef9a405b066b3426ba23ee9f00474cb8f14e2e4a51&"/>
 
 
 ### 2.3.4 Emphaty Mapping
