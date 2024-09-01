@@ -2,12 +2,12 @@
 
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines. 
-*Branding:*
+**Branding:**
 El logotipo de NidoUrbano evoca una sensación de seguridad y hogar, siendo representativo de nuestra misión de acompañar a los usuarios en decisiones importantes como la compra de bienes inmuebles. El diseño moderno y limpio refleja nuestra propuesta de valor: una plataforma confiable, moderna y fácil de usar para realizar inversiones a largo plazo.
 <br>
 ![](https://i.postimg.cc/nhrtq7St/Logo-Final.png)
 
-*Typography:*
+**Typography:**
 La tipografía seleccionada debe ser clara y legible, con una apariencia moderna que refleje la innovación y accesibilidad de la plataforma.
 
 - Poppins Font (Encabezados)
@@ -15,11 +15,12 @@ La tipografía seleccionada debe ser clara y legible, con una apariencia moderna
 
 - Roboto (Botones)
 [![roboto.png](https://i.postimg.cc/rFVWqZtg/roboto.png)](https://postimg.cc/YjPj33Rm)
+
 - Noto Sans (Cuerpo de texto)
 [![noto-sans.png](https://i.postimg.cc/7LGtmZHC/noto-sans.png)](https://postimg.cc/WDV74jJj)
 
-*Colors:*
-La paleta de colores debe transmitir tranquilidad, confianza y modernidad. Para ello se utlizará estos colores principalmente:
+**Colors:**
+La paleta de co*lores debe transmitir tranquilidad, confianza y modernidad. Para ello se utlizará estos colores principalmente:
 
 - #EE7B10(Tango)
 [![tango.png](https://i.postimg.cc/NjpRczmc/tango.png)](https://postimg.cc/v4x47X0q)
@@ -30,7 +31,7 @@ La paleta de colores debe transmitir tranquilidad, confianza y modernidad. Para 
 - #2B2B2B(Negro)
 [![negro.png](https://i.postimg.cc/xC3W9mGh/negro.png)](https://postimg.cc/gXrMDnTH)
 
-*Spacing:*
+**Spacing:**
 El espaciado en la plataforma web de NidoUrbano, dedicada a facilitar grandes inversiones inmobiliarias, debe centrarse en mejorar la legibilidad y la experiencia del usuario.
 
 **Para una plataforma web:**
@@ -56,7 +57,8 @@ El espaciado en la plataforma web de NidoUrbano, dedicada a facilitar grandes in
 - **Espaciado en el pie de página:**  
   Utilizar un margen superior e inferior de entre 40 y 60 píxeles.
 
-*Lenguaje y Tono de comunicación:*
+**Lenguaje y Tono de comunicación:**
+
 El tono que utilizaremos para comunicarnos en NidoUrbano será comprensivo y empático, mostrando una clara comprensión de las necesidades y preocupaciones de nuestros usuarios. Dado que tratamos con compras grandes o inversiones a largo plazo, es crucial que el lenguaje refleje compromiso, seguridad y confianza. Nuestra comunicación debe ser amigable y accesible, asegurando que incluso aquellos usuarios menos familiarizados con la tecnología o el sector inmobiliario se sientan cómodos y respaldados al interactuar con la plataforma.
 ### 4.1.2. Web Style Guidelines. 
 En esta sección, detallamos los estándares visuales y de interacción que se aplicarán a la interfaz web de NidoUrbano, asegurando una experiencia coherente y optimizada para todos los dispositivos, ya sean móviles, tabletas o computadoras de escritorio.
