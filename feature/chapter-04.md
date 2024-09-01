@@ -10,13 +10,13 @@ El logotipo de NidoUrbano evoca una sensación de seguridad y hogar, siendo repr
 **Typography:**
 La tipografía seleccionada debe ser clara y legible, con una apariencia moderna que refleje la innovación y accesibilidad de la plataforma.
 
-- Poppins Font (Encabezados)
+- Poppins Font (Encabezados)<br>
 [![poppins-font.jpg](https://i.postimg.cc/xdMZPZCL/poppins-font.jpg)](https://postimg.cc/XZNxjQ9v)
-
-- Roboto (Botones)
+<br>
+- Roboto (Botones)<br>
 [![roboto.png](https://i.postimg.cc/rFVWqZtg/roboto.png)](https://postimg.cc/YjPj33Rm)
-
-- Noto Sans (Cuerpo de texto)
+<br>
+- Noto Sans (Cuerpo de texto)<br>
 [![noto-sans.png](https://i.postimg.cc/7LGtmZHC/noto-sans.png)](https://postimg.cc/WDV74jJj)
 
 **Colors:**
