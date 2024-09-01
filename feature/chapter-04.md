@@ -4,32 +4,39 @@
 ### 4.1.1. General Style Guidelines. 
 **Branding:**
 El logotipo de NidoUrbano evoca una sensación de seguridad y hogar, siendo representativo de nuestra misión de acompañar a los usuarios en decisiones importantes como la compra de bienes inmuebles. El diseño moderno y limpio refleja nuestra propuesta de valor: una plataforma confiable, moderna y fácil de usar para realizar inversiones a largo plazo.
-<br>
-![](https://i.postimg.cc/nhrtq7St/Logo-Final.png)
+
+ <img src="https://i.postimg.cc/nhrtq7St/Logo-Final.png" alt="Purple - White" height="200" width="500">
 
 **Typography:**
 La tipografía seleccionada debe ser clara y legible, con una apariencia moderna que refleje la innovación y accesibilidad de la plataforma.
 
-- Poppins Font (Encabezados)<br>
-[![poppins-font.jpg](https://i.postimg.cc/xdMZPZCL/poppins-font.jpg)](https://postimg.cc/XZNxjQ9v)
-<br>
-- Roboto (Botones)<br>
-[![roboto.png](https://i.postimg.cc/rFVWqZtg/roboto.png)](https://postimg.cc/YjPj33Rm)
-<br>
-- Noto Sans (Cuerpo de texto)<br>
-[![noto-sans.png](https://i.postimg.cc/7LGtmZHC/noto-sans.png)](https://postimg.cc/WDV74jJj)
+- Poppins Font (Encabezados)
+
+ <img src="https://i.postimg.cc/xdMZPZCL/poppins-font.jpg" alt="Purple - White" height="250" width="250">
+
+- Roboto (Botones)
+
+ <img src="https://i.postimg.cc/rFVWqZtg/roboto.png" alt="Purple - White" height="250" width="250">
+
+- Noto Sans (Cuerpo de texto)
+
+ <img src="https://i.postimg.cc/7LGtmZHC/noto-sans.png" alt="Purple - White" height="250" width="250">
 
 **Colors:**
 La paleta de co*lores debe transmitir tranquilidad, confianza y modernidad. Para ello se utlizará estos colores principalmente:
 
 - #EE7B10(Tango)
-[![tango.png](https://i.postimg.cc/NjpRczmc/tango.png)](https://postimg.cc/v4x47X0q)
+
+<img src="https://i.postimg.cc/NjpRczmc/tango.png" alt="Purple - White" height="250" width="250">
 
 - #FFFFFF(Blanco)
-[![blanco.png](https://i.postimg.cc/5txtg4R5/blanco.png)](https://postimg.cc/9DnVFhVz)
+
+<img src="https://i.postimg.cc/5txtg4R5/blanco.png" alt="Purple - White" height="250" width="250">
+
 
 - #2B2B2B(Negro)
-[![negro.png](https://i.postimg.cc/xC3W9mGh/negro.png)](https://postimg.cc/gXrMDnTH)
+
+<img src="https://i.postimg.cc/xC3W9mGh/negro.png" alt="Purple - White" height="250" width="250">
 
 **Spacing:**
 El espaciado en la plataforma web de NidoUrbano, dedicada a facilitar grandes inversiones inmobiliarias, debe centrarse en mejorar la legibilidad y la experiencia del usuario.
