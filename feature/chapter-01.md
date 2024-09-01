@@ -466,24 +466,24 @@ La ausencia de información detallada y relevante puede llevar a los usuarios a 
     
 <div class="segmento">
     <h3>Descripción de cada segmento objetivo</h3>
-    <p><strong>Compradores Juveniles</strong></p>
+    <p><strong>Arrendatario (Compradores Juveniles)</strong></p>
     <p>El segmento objetivo de nuestra plataforma está dirigido a personas jóvenes y estudiantes universitarios que buscan encontrar un hogar que se adapte a sus necesidades y estilo de vida. Estos buscadores de hogares se caracterizan por su deseo de encontrar propiedades accesibles, seguras y cómodas en Perú. Están interesados en opciones de alquiler o compra que se ajusten a su presupuesto y preferencias, priorizando ubicaciones cercanas a instituciones educativas, servicios públicos y áreas de entretenimiento. Además, valoran la transparencia y confianza en el proceso de búsqueda de hogares, así como el acceso a información relevante para realizar buenas decisiones.</p>
-    <p><strong>Propietarios de Inmuebles Independientes</strong></p>
+    <p><strong>Arrendador (Propietarios de Inmuebles Independientes)</strong></p>
     <p>Este segmento objetivo de nuestra plataforma está dirigido a propietarios individuales de bienes raíces en Perú que se dedican a la gestión ética y sostenible de sus propiedades. Su principal enfoque radica en preservar la calidad y el buen estado de sus inmuebles, con el objetivo de ofrecer un experiencia agradable y asegurar la satisfacción de quienes adquieren sus espacios. </p>
     
 </div>
 
 <div class="segmento">
     <h3>Datos cuantitativos del problema para cada segmento</h3>
-    <p><strong>Compradores Juveniles</strong></p>
+    <p><strong>Arrendatario (Compradores Juveniles)</strong></p>
     <p>En el mercado inmobiliario peruano, las familias jóvenes y los estudiantes universitarios enfrentan desafíos relacionados con la falta de opciones de vivienda adecuadas y accesibles. Se ha identificado que el 40% de los jóvenes en el Perú tienen dificultades para encontrar propiedades que cumplan con sus necesidades y presupuesto, lo que resulta en una búsqueda prolongada y frustrante de un hogar adecuado. Además, la falta de transparencia y confiabilidad en el proceso de búsqueda de hogares puede generar incertidumbre y estrés en estos buscadores de hogares, afectando su bienestar emocional y financiero (ABBA del Perú, 2024).</p>
-    <p><strong>Propietarios de Inmuebles Independientes</strong></p>
+    <p><strong>Arrendador (Propietarios de Inmuebles Independientes)</strong></p>
     <p>Se han registrado numerosos incidentes en los que los propietarios de bienes raíces en Perú enfrentan desafíos significativos en la gestión y mantenimiento de sus propiedades debido a la falta de recursos económicos y conocimientos especializados en la materia. Esta situación ha llevado a una preocupación creciente por la seguridad y el bienestar de los inquilinos, así como por la rentabilidad a largo plazo de las inversiones inmobiliarias. Se estima que al menos el 20% de los propietarios enfrentan dificultades para mantener el estado óptimo de sus propiedades, lo que resulta en una disminución de la satisfacción del inquilino y una posible pérdida de ingresos. Asimismo, cabe resaltar que esta insatisfacción del cliente y los errores presentados por los agentes inmobiliarios son sancionados y, en casos extremos, son reportados a Indecopi. Sobre ello, se estimaron cifras ascendentes a las 1500 en el número de sanciones impuestas entre el año 2019 y el 2022, lo cual es un factor preocupante y a tener en cuenta por la mayoría de propietarios de inmuebles particulares (Plataforma Digital Única del Estado Peruano, 2022). </p>
 </div>
     
 <div class="segmento">
     <h3>Variables geográficas, demográficas y psicológicas para cada segmento</h3>
-      <p><strong>Compradores Juveniles</strong></p>
+    <p><strong>Arrendatario (Compradores Juveniles)</strong></p>
     <p>Variable geográfica:</p>
     <ul>
         <li>País: Perú</li>
@@ -507,7 +507,7 @@ La ausencia de información detallada y relevante puede llevar a los usuarios a 
             </ul>
         </li>
     </ul>
-    <p><strong>Propietarios de Inmuebles Independientes</strong></p>
+    <p><strong>Arrendador (Propietarios de Inmuebles Independientes)</strong></p>
     <p>Variable geográfica:</p>
     <ul>
         <li>País: Perú</li>
