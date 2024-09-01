@@ -331,17 +331,22 @@ SEGMENTO ARRENDADOR: Aquí para el segmento de arrendador se presenta el viaje d
 ### 2.3.4 Emphaty Mapping
 
 **Arrendatario - María Rojas**
-![image](https://i.postimg.cc/Dy1MSFr0/Arrendatario.png)
+
+<img src="https://i.postimg.cc/Dy1MSFr0/Arrendatario.png"/>
 
 **Arrendador - Gabriel Pérez**
-![image](https://i.postimg.cc/wBvsZZC6/Arrendador.png)
+
+<img src="https://i.postimg.cc/wBvsZZC6/Arrendador.png"/>
 
 ### 2.3.5 As-Is Scenario Mapping
 
 **Arrendatario - María Rojas**
-![image](https://i.postimg.cc/SRG22JDk/Arrendatario-As-Is-Scenario-Mapping.png)
+
+<img src="https://i.postimg.cc/SRG22JDk/Arrendatario-As-Is-Scenario-Mapping.png"/>
+
 **Arrendador - Gabriel Pérez**
-![image](https://i.postimg.cc/tTTmmxnm/Arrendador-As-Is-Scenario-Mapping.png)
+
+<img src="https://i.postimg.cc/tTTmmxnm/Arrendador-As-Is-Scenario-Mapping.png"/>
 
 ## 2.4 Ubiquitous Language:
 
