@@ -246,7 +246,8 @@ Durante la entrevista, Ana nos comenta que consideraría usar una aplicación co
 |---------|-----------|------|--------|----------|
 | Gianmarco Fabian | Jiménez Guerra | 21 | 18:35 | 10:09 |
 
-Descripción:
+**Descripción:** 
+El entrevistado es un estudiante universitario de 21 años que está buscando alquilar un cuarto cerca de la sede de la Universidad Peruana de Ciencias Aplicadas (UPC) en San Miguel, Lima. Su principal prioridad al buscar una propiedad es la cercanía a la universidad, seguida por el precio y, en menor medida, la seguridad. Ha intentado encontrar opciones a través de grupos de Facebook y sitios web, pero ha enfrentado desafíos como la desconfianza en los grupos y los altos costos en las páginas web. Le gustaría que una aplicación de búsqueda de propiedades ofrezca una amplia variedad de opciones, contacto directo con los propietarios, filtros avanzados de búsqueda (ubicación, precio, metros cuadrados), y reseñas de otros inquilinos. Además, menciona que sería útil contar con asesoramiento legal dentro de la aplicación para manejar contratos de arrendamiento y otros aspectos legales relacionados con el alquiler. Su principal expectativa al usar una aplicación como **Nido Urbano** es encontrar su próximo hogar de manera rápida y sencilla, con la posibilidad de mantener una comunicación efectiva con el arrendador y recibir asesoramiento legal.
 
 
 #### Segmento 2 - Entrevista 5
@@ -329,17 +330,111 @@ SEGMENTO ARRENDADOR: Aquí para el segmento de arrendador se presenta el viaje d
 
 ### 2.3.4 Emphaty Mapping
 
-**Compradores Juveniles - Hanna Rojas**
-![image](https://cdn.discordapp.com/attachments/1101963075151745105/1276362442565357568/image.png?ex=66c940a7&is=66c7ef27&hm=8a78e0a2175373a5cffc7e0afd04d5fd185310457f93c6545f4d6777a055f0bd&)
+**Arrendatario - María Rojas**
+![image](https://i.postimg.cc/Dy1MSFr0/Arrendatario.png)
 
-**Propietarios de Inmuebles Independientes - Mario Pérez**
-![image](https://cdn.discordapp.com/attachments/1101963075151745105/1276362318967734292/image.png?ex=66c9408a&is=66c7ef0a&hm=a5847939de87bd6d7a91865a3a1363612f2aa1acd5f6f1d705d9373c733f9506&)
+**Arrendador - Gabriel Pérez**
+![image](https://i.postimg.cc/wBvsZZC6/Arrendador.png)
 
 ### 2.3.5 As-Is Scenario Mapping
 
-**Compradores Juveniles - Hanna Rojas**
-![image](https://cdn.discordapp.com/attachments/1101963075151745105/1276381405579837580/image.png?ex=66c95251&is=66c800d1&hm=11d88d91be9464b8358b208c6593b3368862a55541efdebb08b5b53efeaf0bd9&)
-**Propietarios de Inmuebles Independientes - Mario Pérez**
-![image](https://cdn.discordapp.com/attachments/1101963075151745105/1276381527239950469/image.png?ex=66c9526e&is=66c800ee&hm=d9f317cfb3170453e14b3b3dd9607280b8ecd8ca10c5beb0ef50bcc1afc98c14&)
+**Arrendatario - María Rojas**
+![image](https://i.postimg.cc/SRG22JDk/Arrendatario-As-Is-Scenario-Mapping.png)
+**Arrendador - Gabriel Pérez**
+![image](https://i.postimg.cc/tTTmmxnm/Arrendador-As-Is-Scenario-Mapping.png)
 
 ## 2.4 Ubiquitous Language:
+
+### Ubiquitous Language for Property Buying/Renting
+
+1. **Property** (Propiedad): 
+   - Un bien inmueble disponible para la venta o alquiler, que puede incluir casas, apartamentos, oficinas, terrenos, entre otros.
+
+2. **Real Estate Market** (Mercado inmobiliario):
+   - El conjunto de compradores, vendedores, arrendadores y arrendatarios involucrados en la compra, venta y alquiler de propiedades.
+
+3. **Residential Property** (Propiedad residencial): 
+   - Inmuebles destinados a ser utilizados como vivienda, tales como casas, departamentos y condominios.
+
+4. **Commercial Property** (Propiedad comercial): 
+   - Inmuebles utilizados para actividades comerciales, como oficinas, tiendas, locales comerciales y edificios de oficinas.
+
+5. **Landlord** (Arrendador): 
+   - La persona o entidad que posee una propiedad y la alquila a otra persona o entidad.
+
+6. **Tenant** (Arrendatario): 
+   - La persona o entidad que alquila una propiedad para uso residencial o comercial.
+
+7. **Buyer** (Comprador): 
+   - La persona o entidad que adquiere una propiedad a través de una transacción de compra.
+
+8. **Seller** (Vendedor): 
+   - La persona o entidad que vende una propiedad a un comprador.
+
+9. **First-time Buyer** (Comprador primerizo): 
+   - Una persona que está comprando una propiedad por primera vez.
+
+10. **Mortgage** (Hipoteca): 
+    - Un préstamo a largo plazo que un comprador toma para financiar la compra de una propiedad, garantizado por el propio inmueble.
+
+11. **Down Payment** (Pago inicial): 
+    - La cantidad de dinero que un comprador paga al momento de comprar una propiedad, generalmente un porcentaje del precio total, con el resto financiado a través de una hipoteca.
+
+12. **Rental Price** (Precio de alquiler): 
+    - El monto que un arrendatario paga periódicamente al arrendador por el uso de una propiedad.
+
+13. **Purchase Price** (Precio de compra): 
+    - El monto total que un comprador paga para adquirir la propiedad de un vendedor.
+
+14. **Lease Agreement** (Contrato de arrendamiento): 
+    - Un contrato legal que detalla los términos y condiciones bajo los cuales una propiedad es alquilada.
+
+15. **Purchase Agreement** (Contrato de compra-venta): 
+    - Un contrato legal que establece los términos de la venta de una propiedad entre el comprador y el vendedor.
+
+16. **Real Estate Agent** (Agente inmobiliario): 
+    - Un profesional que facilita la compra, venta o alquiler de propiedades en representación de compradores, vendedores, arrendadores o arrendatarios.
+
+17. **Property Listing** (Listado de propiedades): 
+    - Una descripción detallada de una propiedad disponible para la venta o alquiler, generalmente publicada en plataformas online o en agencias inmobiliarias.
+
+18. **Market Value** (Valor de mercado): 
+    - El valor estimado de una propiedad basado en las condiciones actuales del mercado inmobiliario.
+
+19. **Appraisal** (Tasación): 
+    - Una evaluación profesional del valor de una propiedad, utilizada para determinar su precio de venta o para respaldar la financiación hipotecaria.
+
+20. **Title Deed** (Escritura de propiedad): 
+    - Un documento legal que certifica la propiedad de un inmueble.
+
+21. **Closing Costs** (Costos de cierre): 
+    - Gastos adicionales asociados con la compra o venta de una propiedad, que pueden incluir honorarios legales, impuestos, y costos de tasación.
+
+22. **Equity** (Capital en propiedad): 
+    - La diferencia entre el valor de mercado de una propiedad y el monto pendiente de cualquier hipoteca o deuda sobre la misma.
+
+23. **Property Management** (Administración de propiedades): 
+    - La gestión de una propiedad en nombre del propietario, que puede incluir la recolección de rentas, mantenimiento, y resolución de conflictos.
+
+24. **Foreclosure** (Ejecución hipotecaria): 
+    - El proceso legal por el cual un prestamista toma posesión de una propiedad después de que el propietario no haya cumplido con los pagos de la hipoteca.
+
+25. **Zoning** (Zonificación): 
+    - Regulaciones locales que determinan cómo se puede usar una propiedad en una determinada área, como residencial, comercial o industrial.
+
+26. **Home Inspection** (Inspección de la vivienda): 
+    - Una revisión detallada de una propiedad, generalmente realizada antes de su compra, para identificar problemas estructurales o de mantenimiento.
+
+27. **Property Tax** (Impuesto a la propiedad): 
+    - Un impuesto que los propietarios deben pagar al gobierno local, basado en el valor de la propiedad.
+
+28. **Homeowners Association (HOA)** (Asociación de propietarios): 
+    - Una organización en comunidades residenciales que gestiona áreas comunes y establece normas para los residentes.
+
+29. **Rental Yield** (Rendimiento de alquiler): 
+    - El retorno anual de una propiedad en alquiler en relación con su valor de mercado, expresado como un porcentaje.
+
+30. **Vacancy Rate** (Tasa de vacantes): 
+    - El porcentaje de propiedades disponibles para alquiler que están desocupadas en un momento dado.
+
+Este glosario expande el lenguaje común a todos los aspectos relacionados con la compra, venta y alquiler de propiedades, asegurando que todos los involucrados en el proceso comprendan y utilicen los términos de manera coherente.
