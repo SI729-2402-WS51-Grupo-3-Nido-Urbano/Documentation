@@ -350,8 +350,6 @@ SEGMENTO ARRENDADOR: Aquí para el segmento de arrendador se presenta el viaje d
 
 ## 2.4 Ubiquitous Language:
 
-### Ubiquitous Language for Property Buying/Renting
-
 1. **Property** (Propiedad): 
    - Un bien inmueble disponible para la venta o alquiler, que puede incluir casas, apartamentos, oficinas, terrenos, entre otros.
 
@@ -441,5 +439,3 @@ SEGMENTO ARRENDADOR: Aquí para el segmento de arrendador se presenta el viaje d
 
 30. **Vacancy Rate** (Tasa de vacantes): 
     - El porcentaje de propiedades disponibles para alquiler que están desocupadas en un momento dado.
-
-Este glosario expande el lenguaje común a todos los aspectos relacionados con la compra, venta y alquiler de propiedades, asegurando que todos los involucrados en el proceso comprendan y utilicen los términos de manera coherente.
