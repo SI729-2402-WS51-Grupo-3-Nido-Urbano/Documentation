@@ -214,7 +214,8 @@ Preguntas principales:
 |---------|-----------|------|--------|----------|
 | Alfredo | Medina | 23 | 0:00 | 5:24 |
 
-Descripción:
+Descripción: En la entrevista Alfredo nos cuenta que tiene algunas dificultades para encontrar una departamento y cree que la aplicación NidoUrbano pueda ser la solución a su problema actual. Además, sugiere que los filtros de búsqueda de búsqueda y la información legal de las propiedades serían una pieza clave para la aplicación.
+
 
 #### Segmento 1 - Entrevista 2
 
