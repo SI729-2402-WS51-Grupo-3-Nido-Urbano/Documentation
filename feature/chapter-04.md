@@ -93,16 +93,108 @@ El diseño de la plataforma es completamente adaptable a diferentes tamaños de 
 - **Formularios y Entradas de Datos:**  
   Los formularios están diseñados para ser fáciles de completar en cualquier dispositivo, con campos claramente definidos y controles táctiles optimizados para su uso en dispositivos móviles.
 
-## 4.2. Information Architecture. 
-### 4.2.1. Organization Systems. 
 
-### 4.2.2. Labeling Systems. 
-### 4.2.3. SEO Tags and Meta Tags 
+
+## 4.2. Information Architecture
+
+#### 4.2.1. Organization Systems
+Nido Urbano está diseñado para agilizar el proceso de búsqueda y adquisición de propiedades. Por lo tanto, es vital ofrecer una organización estructurada que permita a los usuarios navegar fácilmente por la plataforma y encontrar propiedades que se ajusten a criterios seleccionados por el usuario. Por ejemplo, se consideran factores como la ubicación, el tipo de vivienda (apartamento, casa, etc), el tamaño, las comodidades, cercanía a puntos de interés y el rango de precios. 
+
+[![Captura-de-pantalla-2024-09-06-031231.png](https://i.postimg.cc/63t9qBvx/Captura-de-pantalla-2024-09-06-031231.png)](https://postimg.cc/7CtvQ89K)
+
+#### 4.2.2. Labeling Systems
+El sistema de etiquetado de Nido Urbano garantiza claridad y coherencia en toda la plataforma. Cada propiedad está etiquetada con títulos descriptivos que reflejan fielmente sus características y atributos principales. Además, se emplean etiquetas adicionales para clasificar las propiedades según criterios de búsqueda comunes, lo que facilita a los usuarios encontrar listados relevantes de manera más eficiente.
+
+| Característica            | Descripción                                                  |
+|---------------------------|--------------------------------------------------------------|
+| Títulos Descriptivos      | Los títulos asignados a cada propiedad destacan de manera precisa y detallada las características clave, como el tipo de vivienda, el número de habitaciones, la ubicación y otros atributos importantes. Esto ayuda a los usuarios a obtener una visión clara y rápida de lo que ofrece cada propiedad.     |
+| Etiquetas Relevantes      | Las propiedades están categorizadas con etiquetas específicas que reflejan criterios de búsqueda comunes, como el rango de precios o la proximidad a puntos de interés. Estas etiquetas permiten que los usuarios filtren las propiedades de manera eficaz, encontrando fácilmente opciones que se ajusten a sus preferencias.  |
+| Consistencia              | El sistema de etiquetado sigue un formato uniforme en toda la plataforma, garantizando una experiencia de navegación fluida y coherente. Esta consistencia asegura que los usuarios puedan comparar listados de manera intuitiva, sin confusión, lo que mejora significativamente la usabilidad de la plataforma.  |
+
+[![Header.png](https://i.postimg.cc/509CV2Xr/Header.png)](https://postimg.cc/FfqRbmgb)
+[![Section-Viviendas.png](https://i.postimg.cc/CLnfYtKw/Section-Viviendas.png)](https://postimg.cc/tYygNBPc)
+
+#### 4.2.3. SEO Tags and Meta Tags 
+Nido Urbano utiliza etiquetas SEO y metaetiquetas para mejorar su visibilidad y clasificación en los resultados de los motores de búsqueda más frecuentados por los usuarios. Para ello, dichas etiquetas se incorporan estratégicamente de la siguiente manera:
+
+* **Etiquetas de Título** (Title Tags): Contienen el nombre de "NidoUrbano" y términos clave relevantes para propiedades inmobiliarias.
+* **Meta Descripciones:** Breve descripción que destaca los servicios de la aplicación junto a la misión y visión que comparte.
+* **Metaetiquetas de Palabras Clave:** Incluyen términos relacionados con bienes raíces y el proceso de arrendamiento, venta o compra de viviendas.
+
+Con ello, para encontrar rápidamente nuestra web, el usuario deberá utilizar palabras clave específicas como "Nido Urbano", "propiedades inmobiliarias", "búsqueda rápida viviendas", "Nido Urbano plataforma inmobiliaria", etc.
+
 ### 4.2.4. Searching Systems. 
-### 4.2.5. Navigation Systems. -
+
+El sistema de búsqueda implementado por Nido Urbano debe ser robusto y simple para el usuario. De esta manera, podrá encontrar rápidamente la vivienda con los detalles que busca. Para ello, se integrarán opciones de filtrado que permitan a los usuarios centrar sus opciones y agilizar sus resultados de búsqueda en función de factores como la ubicación, el precio, el número de habitaciones y las comodidades.
+
+[![buscar-por-tipo-vivienda.png](https://i.postimg.cc/Nj4P6Yyx/buscar-por-tipo-vivienda.png)](https://postimg.cc/hXXrnk1J)
+
+[![buscar-por-region.png](https://i.postimg.cc/GmW9j0ZH/buscar-por-region.png)](https://postimg.cc/JsQ11F7L)
+
+### 4.2.5. Navigation Systems.
+
+La navegación dentro de la plataforma de Nido Urbano deberá ser intuitiva y fluida para asegurar que el usuario reciba una experiencia agradable. Para ello, son necesarios los siguientes componentes:
+
+- Un menú claro y bien estructurado que permita a los usuarios navegar fácilmente entre diferentes secciones de la plataforma
+
+[![Group-1.png](https://i.postimg.cc/x8Lq76M9/Group-1.png)](https://postimg.cc/64594LMP)
+  
+- Listados de propiedades y búsquedas guardadas
+
+[![Section-Viviendas.png](https://i.postimg.cc/CLnfYtKw/Section-Viviendas.png)](https://postimg.cc/tYygNBPc)
+
+[![Desktop-19.png](https://i.postimg.cc/PrB8S8DX/Desktop-19.png)](https://postimg.cc/N5kMMFbS)
+
+- Barras de navegación (navbars) que proporcionen a los usuarios indicaciones contextuales, ayudándoles a comprender su ubicación actual dentro de la plataforma y facilitando la navegación entre páginas
+
+[![Header.png](https://i.postimg.cc/509CV2Xr/Header.png)](https://postimg.cc/FfqRbmgb)
+
+[![Captura-de-pantalla-2024-09-06-025525.png](https://i.postimg.cc/d3NGsHDr/Captura-de-pantalla-2024-09-06-025525.png)](https://postimg.cc/K3L1Q5P8)
+
 ## 4.3. Landing Page UI Design. 
+
+En las siguientes líneas se expresa el diseño realizado de la Landing Page del producto Nido Urbano, respetando los estilos, tipografía y formatos establecidos.
+
 ### 4.3.1. Landing Page Wireframe.
+
+Los diseños mostrados se encuentran en el siguiente enlace: https://www.figma.com/design/qDFiFfCrcEGIlfCgn3QmNA/Nido-Urbano?node-id=0-1&t=tRnMnBTIcl8lntVy-1
+
+- Inicio
+
+[![Incio.png](https://i.postimg.cc/5tnxXZqH/Incio.png)](https://postimg.cc/p95N7cSx)
+
+- Sobre nosotros
+
+[![Sobre.png](https://i.postimg.cc/PJZJvS5B/Sobre.png)](https://postimg.cc/zHz89SWj)
+
+- Contacto
+
+[![Contact.png](https://i.postimg.cc/SQ8xrtmP/Contact.png)](https://postimg.cc/RqSmCd61)
+
+- Centro de ayuda
+
+[![Help-center.png](https://i.postimg.cc/9fRhfrMk/Help-center.png)](https://postimg.cc/8FS3KkLd)
+
 ### 4.3.2. Landing Page Mock-up.
+
+Los diseños de los mock-ups se encuentran en el siguiente enlace: https://www.figma.com/design/qDFiFfCrcEGIlfCgn3QmNA/Nido-Urbano?node-id=35-582&t=tRnMnBTIcl8lntVy-1
+
+- Index.html
+
+[![Index-html.png](https://i.postimg.cc/PfMBTmyx/Index-html.png)](https://postimg.cc/PNP6MvBs)
+
+- About-us.html
+
+[![About-us-html.png](https://i.postimg.cc/YSfxYxhL/About-us-html.png)](https://postimg.cc/sBxSR7P3)
+
+- Contact.html
+
+[![Contact-html.png](https://i.postimg.cc/QCR7RBFr/Contact-html.png)](https://postimg.cc/7JnbzZ1B)
+
+- Help-center.html
+
+[![Help-center-html.png](https://i.postimg.cc/3ND4CKnf/Help-center-html.png)](https://postimg.cc/tnp49H0F)
+
 ## 4.4. Web Applications UX/UI Design. 
 ### 4.4.1. Web Applications Wireframes. 
 ### 4.4.2. Web Applications Wireflow Diagrams. 
