@@ -290,10 +290,12 @@ El entrevistado es un estudiante universitario de 21 años que está buscando al
   En esta seccion se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuanta nuestro segmento predefinido, ARRENDATARIO y ARRENDADOR. A contunuación se presentra los user person: 
 
 **ARRENDATARIO:**
-<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1278599227110330399/Jhon_Fernando_Sebastian_Jimenez_Aguilar_1.png?ex=66d35e12&is=66d20c92&hm=8260fe4f10b1caca9e8cc597963050154017f8ddd8474b94ffb156682b3c9845&"/>
+
+<img src="https://i.postimg.cc/43w556N2/Jhon-Fernando-Sebastian-Jimenez-Aguilar-1-User-Persona.png"/>
 
 **ARRENDADOR:**
-<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1279233818024480860/Eva_Luz_Campos_Rodas.png?ex=66d3b2d5&is=66d26155&hm=6165e29e8e7fe605a1d7384cf079240abaadf5602d98f6a6571b9c7ac4b6deeb&"/>
+
+<img src="https://i.postimg.cc/v84J4B0w/Eva-Luz-Campos-Rodas-User-Persona.png"/>
 
 ### 2.3.2 User Task Matrix
 
@@ -318,13 +320,13 @@ En esta seccion se presentan las tareas que realizaran los usuarios, teniendo en
 
 A continuacion se presentran los User Journey Mapping.
 
-SEGMENTO ARRENDATARIO:  Aquí para el segmento de arrendatario se presenta el viaje del usuario con la aplicación '_____'.
+**SEGMENTO ARRENDATARIO:**  Aquí para el segmento de arrendatario se presenta el viaje del usuario con la aplicación '_'.
 
-<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1279316744321765376/Customer_journey_map_1_1.png?ex=66d40010&is=66d2ae90&hm=aa6503d32c2b0bbb5c71d9ef9a405b066b3426ba23ee9f00474cb8f14e2e4a51&"/>
+<img src="https://i.postimg.cc/fbbH12FQ/Arrendatario-journey-map.png"/>
 
-SEGMENTO ARRENDADOR: Aquí para el segmento de arrendador se presenta el viaje del usuario con la aplicación '_'.
+**SEGMENTO ARRENDADOR:** Aquí para el segmento de arrendador se presenta el viaje del usuario con la aplicación '_'.
 
-<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1279290055893975100/Customer_journey_map_1.png?ex=66d3e735&is=66d295b5&hm=b2a05affe660a0c9280fe1bf058a2eb244884c5adef82ee1899849e6119d5b9f&"/>
+<img src="https://i.postimg.cc/Vs0hYhNY/Arrendador-journey-mapping.png"/>
 
 
 
