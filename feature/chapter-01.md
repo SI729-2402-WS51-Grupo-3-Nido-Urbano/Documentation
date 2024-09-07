@@ -314,9 +314,10 @@ necesidades.
 ---
 #### Nombre: Quispe Tipo, Godofredo | U202120772
 
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
+>  Mi nombre es Godofredo y actualmente me encuentro cursando la carrera de Ingeniería de Software, un campo que me apasiona profundamente. Mi interés por las nuevas tecnologías es constante, y estoy siempre al tanto de las últimas innovaciones que están redefiniendo el panorama tecnológico. Me considero un entusiasta de la programación, área en la que he adquirido un  dominio en diversos lenguajes, tales como Python, C++ y Assembler, lo que me ha permitido abordar una amplia gama de proyectos y desafíos técnicos.<br><br>Además, poseo un profundo conocimiento en el ámbito de la comunicación de redes, lo que me ha permitido comprender los complejos mecanismos detrás de la interconexión de sistemas y dispositivos. Mi formación en ciencia de datos, con un enfoque en Python, ha sido un pilar fundamental en mi desarrollo profesional, permitiéndome trabajar con grandes volúmenes de datos y obtener valiosos insights. Asimismo, cuento con experiencia en el manejo de Matlab, una herramienta clave en diversos proyectos de análisis y simulación.
 >
-> [Imagen]
+> ![Descripción de la imagen8](https://cdn.discordapp.com/attachments/1274549420616192020/1281799492122841199/Foto.jpg?ex=66dd084d&is=66dbb6cd&hm=bcd4be9f943779b285910e785e9a188797446366e9b532a2eb2be9dc1f6e4f8d&)
+
 
 ---
 
