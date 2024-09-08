@@ -283,6 +283,77 @@ El entrevistado es un estudiante universitario de 21 años que está buscando al
 
 ### 2.2.3 Análisis de entrevistas
 
+###### **Segmento #1: Arrendatario (Compradores primerizos)**
+
+###### Características Objetivas
+
+1. **Edad de los Entrevistados:**
+   - **50%** tienen entre 20 y 23 años.
+   - **25%** tienen más de 50 años.
+
+2. **Prioridades al Buscar una Vivienda:**
+   - **100%** mencionan el precio y la seguridad como factores clave.
+   - **75%** valoran la proximidad a su lugar de trabajo o estudios.
+
+3. **Uso de Herramientas de Búsqueda:**
+   - **75%** utilizan aplicaciones o sitios web para buscar propiedades.
+   - **50%** mencionan problemas con la veracidad de la información en las plataformas actuales.
+
+4. **Preferencias de Funcionalidades:**
+   - **100%** desean filtros avanzados para personalizar la búsqueda (ubicación, precio, seguridad).
+   - **50%** prefieren contacto directo con arrendadores.
+
+###### Características Subjetivas
+
+1. **Desafíos en la Búsqueda:**
+   - **50%** mencionan desconfianza en plataformas tradicionales como Facebook y problemas con la información inexacta de los inmuebles.
+
+2. **Expectativas en la Aplicación:**
+   - **100%** están dispuestos a usar la aplicación si ofrece filtros precisos y seguridad en la información.
+
+###### Relación con las Entrevistas
+- **Alfredo y John** buscan mejorar la búsqueda con filtros y precios accesibles.
+- **Ana y Gianmarco** comparten la necesidad de información verificada y seguridad en la zona.
+
+
+
+###### **Segmento #2: Arrendador (Propietarios de Inmuebles)**
+
+###### Características Objetivas
+
+1. **Edad de los Entrevistados:**
+   - **50%** tienen entre 20 y 30 años.
+   - **50%** tienen entre 40 y 50 años.
+
+2. **Métodos de Gestión Actual:**
+   - **100%** usan métodos manuales o semi-manuales para gestionar los pagos y la selección de inquilinos.
+   - **50%** promocionan sus propiedades en redes sociales y mediante pancartas.
+
+3. **Problemas Comunes:**
+   - **100%** mencionan problemas con la puntualidad de los pagos de los inquilinos.
+   - **50%** enfrentan desafíos relacionados con el daño a la infraestructura.
+
+4. **Funcionalidades Esperadas:**
+   - **100%** quieren una aplicación que les permita gestionar pagos y evaluar la idoneidad de los inquilinos.
+   - **50%** desean acceso a información legal y financiera para una mejor gestión.
+
+###### Características Subjetivas
+
+1. **Selección de Inquilinos:**
+   - **100%** prefieren un proceso de selección riguroso basado en criterios personales o información relevante sobre el historial del inquilino.
+   
+2. **Deseo de Mejora en la Gestión:**
+   - **100%** esperan que una aplicación facilite tanto la gestión de pagos como la promoción de sus propiedades, mejorando la eficiencia y reduciendo los riesgos de impago.
+
+###### Relación con las Entrevistas
+- **Eva Luz** busca un control estricto sobre sus inquilinos y una gestión más eficiente de los pagos.
+- **Ray** se enfoca en la promoción de sus propiedades y en mejorar la gestión de sus alquileres a través de la automatización de procesos.
+
+###### **Conclusiones Generales**
+
+- **Tendencias por Segmento:** Los inquilinos destacan la importancia de los filtros y la seguridad, mientras que los propietarios priorizan la eficiencia en la gestión de pagos y la selección de inquilinos.
+- **Oportunidades para NidoUrbano:** Existe un consenso en ambos segmentos sobre la necesidad de una aplicación que ofrezca transparencia, control y facilidad de uso en la búsqueda y gestión de propiedades.
+
 ### 2.3 Needfinding
 
 ### 2.3.1 User Personas
