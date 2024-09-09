@@ -273,14 +273,38 @@ Una vez completados estos pasos y realizada la configuración, y tras un breve p
 
 #### 5.2.1.5. Execution Evidence for Sprint Review. 
 
+Para este sprint nos concentramos en los capítulos anteriores y en el desarrollo y despliegue de la Landing Page.
 
+Link de vídeo de demostración: https://acortar.link/CJ6Uvj
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review. 
 
+Hasta el momento, no se ha realizado ningún avance en la implementación de endpoints, por lo que no se incluye ningún detalle de documentación.
 
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review. 
 
+Durante el sprint, se llevaron a cabo las actividades necesarias para el despliegue de los productos. A continuación, se describen las acciones realizadas para cada uno de ellos:
+
+## Landing Page
+
+Para desplegar nuestra Landing Page, el equipo completo llevó a cabo las configuraciones requeridas en GitHub, como se detalla a continuación:
+
+1. Todos los integrantes del equipo necesitaron acceso a GitHub mediante sus cuentas personales.
+
+2. Un miembro fue responsable de crear una organización en GitHub, facilitando la colaboración en un entorno centralizado.
+
+3. Los demás miembros se unieron a la organización a través de una invitación por correo.
+
+4. Dentro de la organización, se creó el repositorio "Documentation", donde se documentó el proyecto inicialmente utilizando Markdown.
+
+5. Posteriormente, se generó un repositorio específico para el desarrollo de la Landing Page.
+
+6. Un integrante del equipo subió los archivos iniciales necesarios para comenzar el desarrollo en dicho repositorio, y verificó que tenía los permisos de edición adecuados.
+
+7. Todos los miembros colaboraron tanto en el desarrollo como en la documentación de los repositorios, siguiendo las convenciones acordadas.
+
+8. Una vez que el desarrollo alcanzó un nivel avanzado, un miembro del equipo procedió con el despliegue de la Landing Page, siguiendo los pasos previamente definidos.
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
@@ -289,12 +313,18 @@ Una vez completados estos pasos y realizada la configuración, y tras un breve p
 # Conclusiones
 ## Conclusiones y recomendaciones
 
+
+
 # Bibliografía
-
-
 
 # Anexos
 
-# Entrevistas
+## Entrevistas
+
+Link de entrevistas: https://acortar.link/7j4FOq
 
 ## Repositories
+
+* [Nido Urbano - Organization](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano)
+* [Nido Urbano - Landing Page](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page)
+* [Nido Urbano - Documentation](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Documentation)
