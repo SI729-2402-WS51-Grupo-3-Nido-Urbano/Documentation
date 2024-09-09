@@ -59,3 +59,39 @@
 
 ## 3.4. Product Backlog
 
+### Product Backlog
+
+| Orden | User Story ID | Título                              | Descripción                                                                                                 | Story Points |
+|-------|---------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------|
+| 1     | US001         | Página de Inicio                    | Como visitante deseo ser dirigido a la página inicial del sitio web de la aplicación para tener un acercamiento general sobre esta. | 3            |
+| 2     | US002         | Pestaña “Sobre”                      | Como visitante, quiero poder acceder a la pestaña "Sobre" para obtener más información sobre la aplicación. | 3            |
+| 3     | US003         | Pestaña “Contacto”                   | Como visitante, quiero poder acceder a la pestaña “Contacto” para ponerme en contacto con el equipo de la aplicación. | 3            |
+| 4     | US004         | Envío de correos                     | Como visitante, quiero estar siempre informado por eso quiero que me envíen correos para comprender más las funcionalidades de la aplicación. | 5            |
+| 5     | US005         | Pestaña de ayuda al usuario          | Como visitante, quiero contar con una sección de ayuda en el sitio web para poder resolver dudas frecuentes. | 5            |
+| 6     | US006         | Registro de nuevos usuarios         | Como visitante, quiero poder registrarme como usuario para acceder a todas las funcionalidades de la aplicación. | 5            |
+| 7     | US007         | Creación de usuario                 | Como administrador, quiero poder agregar nuevos usuarios al sistema para permitirles acceder a las funcionalidades de la plataforma. | 5            |
+| 8     | US008         | Iniciar sesión en la aplicación web | Como visitante, quiero poder acceder a mi cuenta de usuario existente para utilizar las funcionalidades de la aplicación. | 3            |
+| 9     | US009         | Actualizar usuario                  | Como administrador, quiero poder actualizar la información de un usuario existente en el sistema para corregir datos incorrectos o desactualizados. | 5            |
+| 10    | US010         | Eliminar usuario                    | Como administrador, quiero poder eliminar un usuario del sistema si ya no es necesario o si incumple las políticas de la plataforma. | 5            |
+| 11    | US011         | Agregar propiedad                   | Como arrendador, quiero poder publicar una propiedad que tenga disponible para ponerla en venta o en alquiler. | 8            |
+| 12    | US012         | Ver propiedad como arrendatario     | Como arrendatario, quiero ver propiedades de mi interés para poder encontrar la vivienda que busco. | 5            |
+| 13    | US013         | Ver propiedad como arrendador       | Como arrendador, quiero observar las propiedades que tengo a disposición para saber cuales debo actualizar, eliminar o realizar mantenimiento de estas. | 8            |
+| 14    | US014         | Editar propiedad                    | Como arrendador, quiero editar la información de mis propiedades para evitar dar información desactualizada a mis clientes. | 5            |
+| 15    | US015         | Eliminar propiedad como arrendador  | Como arrendador, quiero quitar propiedades que ya no están a la venta y/o alquiler para evitar confusiones con los clientes. | 5            |
+| 16    | US016         | Eliminar propiedad como administrador | Como administrador quiero eliminar propiedades publicadas que ya no estén disponibles para mantener actualizada la información del catálogo. | 5            |
+| 17    | US017         | Filtro de búsqueda                  | Como usuario, quiero poder filtrar propiedades según diferentes criterios (precio, ubicación, tamaño, etc.) para refinar mi búsqueda. | 8            |
+| 18    | US018         | Búsqueda por palabras clave         | Como usuario, quiero poder buscar propiedades ingresando palabras clave para encontrar opciones específicas. | 8            |
+| 19    | US019         | Disponibilidad de citas             | Como usuario, quiero poder ver la disponibilidad de citas para ver una propiedad en persona, para elegir un horario conveniente. | 5            |
+| 20    | US020         | Agendar cita                        | Como usuario, quiero poder reservar una cita para ver una propiedad seleccionando una fecha y hora disponibles, para confirmar mi interés en la propiedad. | 5            |
+| 21    | US021         | Ver citas reservadas                | Como usuario, quiero poder ver todas las citas que he reservado para ver propiedades, para llevar un registro de mis futuras visitas. | 3            |
+| 22    | US022         | Cancelar cita                       | Como usuario, quiero poder cancelar una cita que he reservado para ver una propiedad si ya no puedo asistir, para liberar ese horario para otros usuarios. | 5            |
+| 23    | US023         | Generación de contrato              | Como usuario, quiero generar un contrato para formalizar un acuerdo de alquiler o venta. | 8            |
+| 24    | US024         | Negociación de contrato             | Como usuario, quiero negociar los términos del contrato para llegar a un acuerdo que beneficie a ambas partes. | 8            |
+| 25    | US025         | Revisión y confirmación de datos de contrato | Como usuario, quiero revisar y confirmar los datos del contrato para asegurarme de que toda la información sea correcta antes de firmarlo. | 8            |
+| 26    | US026         | Cancelación de acuerdos             | Como usuario, quiero cancelar un acuerdo para liberar a ambas partes de las obligaciones del contrato.  | 8            |
+| 27    | US027         | Cierre de contrato                  | Como usuario, quiero cerrar un contrato para finalizar oficialmente el acuerdo y las obligaciones asociadas.  | 8            |
+| 28    | US028         | Renovación del contrato             | Como usuario, Quiero renovar el contrato antes de su expiración, Para continuar con los términos acordados sin interrupciones y mantener el acuerdo vigente sin necesidad de negociar un nuevo contrato desde cero. | 8            |
+| 29    | US029         | Realizar pago en plataforma web     | Como usuario, quiero realizar un pago en la plataforma para completar una transacción de forma segura.| 8            |
+| 30    | US030         | Selección de método de pago         | Como usuario, quiero seleccionar mi método de pago preferido para facilitar futuras transacciones.| 5            |
+| 31    | US031         | Confirmación del pago                | Como usuario, quiero recibir una confirmación de que mi pago fue exitoso para asegurarme de que la transacción se completó correctamente.  | 5            |
+| 32    | US032         | Cancelación del pago                 | Como usuario, quiero cancelar un pago que he iniciado para evitar transacciones no deseadas.  | 8            |
