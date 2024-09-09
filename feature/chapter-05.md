@@ -137,39 +137,127 @@ A continuación, se describe la configuración necesaria para realizar el despli
 
 1. Subir los archivos que contienen el código fuente de la Landing Page al repositorio en GitHub.
 
-<p align="" alt="Subir archivos al repositorio" />
-</p>
+[![1.png](https://i.postimg.cc/Z5C21JjH/1.png)](https://postimg.cc/cvGF3ypt)
 
 2. Acceder a la página de configuración del repositorio que contiene el código fuente.
 
-<p align="" alt="Acceder a configuración del repositorio" />
-</p>
+[![2.png](https://i.postimg.cc/Yq6nmh0h/2.png)](https://postimg.cc/BXvcrZx0)
 
 3. En la página de configuración, seleccionar la opción `Pages` en el menú de opciones. Esto mostrará todas las configuraciones disponibles para GitHub Pages.
 
-<p align="center">
-    <img src="" alt="Seleccionar opción Pages" />
-</p>
+[![3.png](https://i.postimg.cc/YC1H0rK3/3.png)](https://postimg.cc/pmX71tdh)
 
 4. En la sección de GitHub Pages, configurar la opción `Branch` eligiendo la rama que contiene el código que se desea publicar. Luego, hacer clic en el botón `Save`.
 
-<p align="center">
-    <img src="" alt="Configurar Branch y guardar" />
-</p>
+[![4.png](https://i.postimg.cc/25bXyTZf/4.png)](https://postimg.cc/gwpKBVsM)
 
 Una vez completados estos pasos y realizada la configuración, y tras un breve período de espera, la Landing Page estará publicada y accesible a través de la URL mostrada en la parte superior de la página.
 
-<p align="center">
-    <img src="" alt="URL de la Landing Page publicada" />
-</p>
-
-<br>
+[![5.png](https://i.postimg.cc/13TJk6Y7/5.png)](https://postimg.cc/w1XXJtzD)
 
 ## 5.2. Landing Page, Services & Applications Implementation. 
 ### 5.2.1. Sprint 1 
+
+## Sprint #1
+
 #### 5.2.1.1. Sprint Planning 1. 
+
+| **Aspecto**                      | **Detalles**                                                                                                           |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                        |
+| **Date**                         | 26/08/2024                                                                                                             |
+| **Time**                         | 3:00 pm                                                                                                                |
+| **Location**                     | La reunión se realizó de forma virtual por la plataforma Discord                                                        |
+| **Prepared By**                  | TechMinds                                                                                                              |
+| **Attendees (to planning meeting)** | Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Gomez Hurtado, Miguel Angel / Quispe Tipo, Godofredo |
+| **Sprint n – 1 Review Summary**  | Dado que se trata del primer sprint, no se dispone de resúmenes ni resultados previos.                                 |
+| **Sprint n – 1 Retrospective Summary** | Dado que este es el primer sprint, a continuación se presentan las opiniones de los miembros del equipo: <br> - Todo el equipo coincide en la importancia de considerar las aportaciones de todos sus miembros y de trabajar de manera colaborativa. <br> - Todos destacaron la relevancia del flujo de trabajo establecido para el desarrollo de la Landing Page, así como las diversas consideraciones que deben tenerse en cuenta. |
+| **Sprint Goal & User Stories**   |                                                                                                                        |
+| **Sprint 1 Goal**                | Terminar de desarrollar la Landing Page                                                                              |
+| **Sprint 1 Velocity**            | 15 puntos de historia completados en el Sprint 1. Esto se basa en la suma de los puntos asignados a las historias de usuario que fueron completadas durante este sprint.                                                                             |
+| **Sum of Story Points**          | 15 puntos de historia                                                                   |
+
 #### 5.2.1.2. Sprint Backlog 1. 
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #</td>
+            <td colspan="7" >Sprint 1</td>
+        </tr>
+        <tr>
+            <td colspan="2" > User Story</td>
+            <td colspan="6" > Work-Item / Task </td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Id </td>
+            <td> Title </td>
+            <td> Description </td>
+            <td> Estimation (Hours) </td>
+            <td> Assigned To </td>
+            <td> Status (To-do / In-Process / To-Review / Done) </td>
+        </tr>
+        <tr>
+            <td> US001 </td>
+          	<td> Página de Inicio </td>
+          	<td> 01 </td>
+          	<td> Inicio del desarrollo de la Landing Page </td>
+            <td> Esta tarea marca el inicio del desarrollo de la Landing Page relacionada con nuestro producto final. </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> Done  </td>
+        </tr>
+        <tr>
+            <td> US002 </td>
+          	<td> Pestaña“Sobre” </td>
+          	<td> 02 </td>
+          	<td> Desarrollo de sencción "Sobre" en la Landing Page </td>
+            <td> Esta tarea se centra en el desarrollo de la sección interna "Sobre" de nuestra Landing Page, donde se proporciona información detallada sobre el proyecto </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> US003 </td>
+          	<td> Pestaña “Contacto”</td>
+          	<td> 03 </td>
+          	<td> Desarrollo de la sección "Contacto" </td>
+            <td> Esta tarea se enfoca en el desarrollo de la sección "Contacto", que proporciona información detallada sobre cómo ponerse en contacto con los responsables del proyecto. </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> Done </td>
+        </tr>
+        <tr>
+            <td> US003 </td>
+          	<td> Envío de correos</td>
+          	<td> 03 </td>
+          	<td> Desarrollo de la sección de correos </td>
+            <td> Esta tarea se enfoca en el desarrollo de la sección correos, donde el usuario puede enviar correos directamente a nosotros al correo de la empresa </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> To-Review </td>
+        </tr>
+        <tr>
+            <td> US004 </td>
+          	<td> Pestaña de ayuda al usuario </td>
+          	<td> 01 </td>
+          	<td> Desarrollo de la sección ayuda al usuario </td>
+            <td> Esta tarea se enfoca en desarrollar la sección interna de la Landing Page que proporciona información relevante y útil para los usuarios que puedan tener dudas sobre el proyecto. </td>
+            <td> 04 </td>
+            <td> Aranda Vallejos, Oscar Gabriel </td>
+            <td> Done </td>
+        </tr>
+    </tbody>
+</table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review. 
+
+
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
 #### 5.2.1.5. Execution Evidence for Sprint Review. 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review. 
