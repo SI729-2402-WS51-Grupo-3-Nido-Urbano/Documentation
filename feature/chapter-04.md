@@ -195,12 +195,122 @@ Los diseños de los mock-ups se encuentran en el siguiente enlace: https://www.f
 
 [![Help-center-html.png](https://i.postimg.cc/3ND4CKnf/Help-center-html.png)](https://postimg.cc/tnp49H0F)
 
+
 ## 4.4. Web Applications UX/UI Design. 
+
+Em esta sección se expresa el diseño para nuestro aplicación web utilizando wireframes y mock-ups en la herramienta de Figma.
+
 ### 4.4.1. Web Applications Wireframes. 
+
+Los wireframes fueron desarrollados en el siguiente enlace: https://www.figma.com/design/FkpZl25682ylB3MvRBf9rp/OPEN-SOURCE-(Copy)?node-id=2009-22&t=ozwaPgxgh7FGTMmy-1
+
+Interfaz para arrendatarios
+
+[![Teenant-Flow-2.png](https://i.postimg.cc/RFnnrS1c/Teenant-Flow-2.png)](https://postimg.cc/r0MpxLPm)
+
+[![Teenant-Flow-3.png](https://i.postimg.cc/8zPJpBBk/Teenant-Flow-3.png)](https://postimg.cc/7fdYXzWj)
+
+[![Teenant-Flow-4-2.png](https://i.postimg.cc/7LzxwfcY/Teenant-Flow-4-2.png)](https://postimg.cc/VSYyFLm3)
+
+[![Teenant-Flow-5-2.png](https://i.postimg.cc/tgFH88Zs/Teenant-Flow-5-2.png)](https://postimg.cc/1gRTqCKS)
+
+[![Teenant-Flow-6-2.png](https://i.postimg.cc/PxhkHKY2/Teenant-Flow-6-2.png)](https://postimg.cc/cKDzMRDn)
+
+[![Teenant-Flow-7-2.png](https://i.postimg.cc/Gtmw82MD/Teenant-Flow-7-2.png)](https://postimg.cc/ftpg1wQW)
+
+[![Teenant-Flow-8-2.png](https://i.postimg.cc/J0YwbLg2/Teenant-Flow-8-2.png)](https://postimg.cc/FkSn42hy)
+
+Interfaz para arrendadores
+
+<a href="https://postimg.cc/r0MpxLPm" target="_blank"><img src="https://i.postimg.cc/RFnnrS1c/Teenant-Flow-2.png" alt="Teenant-Flow-2"/></a><br/><br/>
+
+<a href="https://postimg.cc/7fdYXzWj" target="_blank"><img src="https://i.postimg.cc/8zPJpBBk/Teenant-Flow-3.png" alt="Teenant-Flow-3"/></a><br/><br/>
+
+<a href="https://postimg.cc/cvhk07Gb" target="_blank"><img src="https://i.postimg.cc/LsKckvC2/Landlord-Flow-4.png" alt="Landlord-Flow-4"/></a><br/><br/>
+
+<a href="https://postimg.cc/RW4pksyt" target="_blank"><img src="https://i.postimg.cc/QdTLWvqf/Landlord-Flow-5.png" alt="Landlord-Flow-5"/></a><br/><br/>
+
+<a href="https://postimg.cc/F7jnn5Wm" target="_blank"><img src="https://i.postimg.cc/3J65N32y/Landlord-Flow-6.png" alt="Landlord-Flow-6"/></a><br/><br/>
+
 ### 4.4.2. Web Applications Wireflow Diagrams. 
-### 4.4.2. Web Applications Mock-ups. 
-### 4.4.3. Web Applications User Flow Diagrams. 
+
+Los Wireflow diagramas se encuentran disponibles en el siguiente enlace: https://www.figma.com/design/FkpZl25682ylB3MvRBf9rp/OPEN-SOURCE-(Copy)?node-id=2014-41&t=ozwaPgxgh7FGTMmy-1
+
+Wireflow User Goal 1
+
+* Como arrendatario quiero encontrar un cuarto en alquiler cerca de la zona donde estudio.
+
+User Task 1 & 2
+
+[![Captura-de-pantalla-2024-09-08-233913.png](https://i.postimg.cc/FzmbDXyh/Captura-de-pantalla-2024-09-08-233913.png)](https://postimg.cc/9R8qQSgk)
+
+User Task 3 & 4
+
+[![Captura-de-pantalla-2024-09-08-235025.png](https://i.postimg.cc/mDS1Zz9G/Captura-de-pantalla-2024-09-08-235025.png)](https://postimg.cc/phpLqdk0)
+
+User Task 4 & 5
+
+[![Captura-de-pantalla-2024-09-08-235100.png](https://i.postimg.cc/prG98wkG/Captura-de-pantalla-2024-09-08-235100.png)](https://postimg.cc/N2XfvP3m)
+
+User Task 6
+
+[![Captura-de-pantalla-2024-09-08-235131.png](https://i.postimg.cc/pXShdtmy/Captura-de-pantalla-2024-09-08-235131.png)](https://postimg.cc/ykFYftXz)
+
+
+Wireflow User Goal 2
+
+- Como arrendador deseo obtener ganancias favorables a través del alquiler en un proceso eficiente y rentable.
+
+User Task 1 & 2
+
+[![Captura-de-pantalla-2024-09-08-235504.png](https://i.postimg.cc/sX0QZFTn/Captura-de-pantalla-2024-09-08-235504.png)](https://postimg.cc/9RZFvk5T)
+
+User Task 3 & 4
+
+[![Captura-de-pantalla-2024-09-08-235610.png](https://i.postimg.cc/KvTk4HBN/Captura-de-pantalla-2024-09-08-235610.png)](https://postimg.cc/hfSP5MCz)
+
+### 4.4.3. Web Applications Mock-ups.
+
+Los Mock-ups fueron desarrollados en el siguiente enlace: https://www.figma.com/design/FkpZl25682ylB3MvRBf9rp/OPEN-SOURCE-(Copy)?node-id=0-1&t=ozwaPgxgh7FGTMmy-1
+
+Inicio y Registro
+
+<a href="https://postimg.cc/Hrk40fF6" target="_blank"><img src="https://i.postimg.cc/SxWT44db/Acceso-1.png" alt="Acceso-1"/></a><br/><br/>
+
+<a href="https://postimg.cc/bsT9tzVG" target="_blank"><img src="https://i.postimg.cc/YCcnT01x/Registro-1.png" alt="Registro-1"/></a><br/><br/>
+
+Interfaz para arrendatarios
+
+<a href="https://postimg.cc/Jyw3wGG2" target="_blank"><img src="https://i.postimg.cc/6QqMvZwt/Desktop-19-1.png" alt="Desktop-19-1"/></a><br/><br/>
+
+<a href="https://postimg.cc/v4x7SWHn" target="_blank"><img src="https://i.postimg.cc/52nPy3hs/Desktop-32.png" alt="Desktop-32"/></a><br/><br/>
+
+<a href="https://postimg.cc/HVBPC4gP" target="_blank"><img src="https://i.postimg.cc/52VcLnk1/Desktop-20.png" alt="Desktop-20"/></a><br/><br/>
+
+<a href="https://postimg.cc/XpVDh1TC" target="_blank"><img src="https://i.postimg.cc/28vR1PG2/Desktop-33.png" alt="Desktop-33"/></a><br/><br/>
+
+<a href="https://postimg.cc/MX0F9Jrw" target="_blank"><img src="https://i.postimg.cc/2jgN8zQ1/Desktop-21.png" alt="Desktop-21"/></a><br/><br/>
+
+<a href="https://postimg.cc/t7Gcd4kD" target="_blank"><img src="https://i.postimg.cc/HWrCgJyG/Desktop-22.png" alt="Desktop-22"/></a><br/><br/>
+
+<a href="https://postimg.cc/BPCHHgpW" target="_blank"><img src="https://i.postimg.cc/mkvjxpFr/Desktop-23.png" alt="Desktop-23"/></a><br/><br/>
+
+Interfaz para arrendadores
+
+<a href="https://postimg.cc/7fFJhjwC" target="_blank"><img src="https://i.postimg.cc/P5xW3k7M/Desktop-26.png" alt="Desktop-26"/></a><br/><br/>
+
+<a href="https://postimg.cc/tYZVX9QQ" target="_blank"><img src="https://i.postimg.cc/hPM81G2j/Desktop-27.png" alt="Desktop-27"/></a><br/><br/>
+
+<a href="https://postimg.cc/z3PgZVQF" target="_blank"><img src="https://i.postimg.cc/sD39WW9q/Desktop-28.png" alt="Desktop-28"/></a><br/><br/>
+
 ## 4.5. Web Applications Prototyping. 
+
+[![Captura-de-pantalla-2024-09-09-013148.png](https://i.postimg.cc/90gdV8R9/Captura-de-pantalla-2024-09-09-013148.png)](https://postimg.cc/ctYgBcc1)
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/Ed2TJRn8kkRDkIrPiir7aJwBYO0kpM1KNY7-zuVpbJGVHg?e=YQZayF&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+En el video se muestran los flujos o caminos que tomará el usuario arrendatario y arrendador en la aplicación. Para ello, se realizaron la implementación de los prototipos observados y se encuentran disponibles en el siguiente enlace: https://www.figma.com/design/FkpZl25682ylB3MvRBf9rp/OPEN-SOURCE---Web-Application-Figma---Nido-Urbano?node-id=2011-1029&t=ozwaPgxgh7FGTMmy-1
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram. 
 
