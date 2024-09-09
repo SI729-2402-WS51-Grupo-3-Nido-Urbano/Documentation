@@ -256,11 +256,45 @@ Una vez completados estos pasos y realizada la configuración, y tras un breve p
 
 #### 5.2.1.3. Development Evidence for Sprint Review. 
 
-
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | 0cb8378 | Update about-us.html | Actualización a la sección de about us| 08/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | a396a2f | Update contact-page.html | Actualización a la sección de contacto | 08/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | d5cc9bd | Update help-center.html | Actualización a la sección de ayuda | 08/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | f849100 | Update script.js | Actualización archivo script.js | 08/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | 5cec3ac | Update index.html| Actualización al archivo index.html | 08/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | main | 70552763 | Merge pull request #1 fromSI729-2402-WS51-Grupo-3-Nido-Urbano/dev| Merge del dev al main| 09/09/2024 |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| main | f8954d5 | docs: Added US01-US05 feature | - | 09/09/24 |
+
 #### 5.2.1.5. Execution Evidence for Sprint Review. 
+
+
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review. 
+
+
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review. 
+
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 	
+
+# Conclusiones
+## Conclusiones y recomendaciones
+
+# Bibliografía
+
+
+
+# Anexos
+
+# Entrevistas
+
+## Repositories
