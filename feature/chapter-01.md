@@ -282,23 +282,21 @@ Ante ello, el proyecto "Nido Urbano" es iniciado y presentado como una plataform
     
 #### Nombre: Aranda Vallejos, Oscar Gabriel | U202218167
 
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
->
-> [Imagen]
+> Tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, poseo conocimientos básicos en Unity, C++ y diseño web. Me considero una persona preparada y perseverante en cumplir con los objetivos del proyecto; además, siempre estoy dispuesto a aprender nuevos conceptos.
+<img src="https://i.postimg.cc/6qRCcvNF/Captura-de-pantalla-2024-09-08-151747.png">
 
 ---
 #### Nombre: Cantoral Sedamano, Alexander Alberto | U20181b152
 
 > Descripción, carrera, conocimientos técnicos, habilidades que puede aportar al equipo.
->Estudiante de Ingeniería de Software con conocimientos técnicos de programación en C++, PHP, Python. Conocimientos intermedios de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas. 
+>Estudiante de Ingeniería de Software con conocimientos técnicos de programación en C++, PHP, Python. Conocimientos intermedios de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas.
 <img src="https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/foto%20alexander%5B797%5D.jpg" width="250" height="250">
 
 ---
 #### Nombre: Chirinos Zúñiga, Rodrigo Manuel | U202217804
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
->
-> [Imagen]
+> Tengo 20 años, soy un estudiante de la carrera de Ingeniería de Software, considero que soy una persona responsable y de escucha activa. Estoy comprometido con mis compañeros en realizar un buen trabajo y así aprender todos en el proceso. También tengo conocimientos en programación en C++, HTML, CSS y JavaScript.
 
+<img src = "https://github.com/user-attachments/assets/9895e794-a88f-4436-a332-8d5c8112f9cb">
 
 ---
 #### Nombre: Gomez Hurtado, Miguel Angel | U202220294
