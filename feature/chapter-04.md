@@ -326,7 +326,7 @@ En el video se muestran los flujos o caminos que tomará el usuario arrendatario
 
 ## 4.7. Software Object-Oriented Design. 
 ### 4.7.1. Class Diagrams. 
-<img src="https://cdn.discordapp.com/attachments/1274549420616192020/1282499673851953255/DiagramClass.png?ex=66df9465&is=66de42e5&hm=73b9662c4ede83f79c4a7336b1589bcf493732b29367f26d556f050c248c9232&">
+[![Diagram-Class.png](https://i.postimg.cc/hPj3vZHd/Diagram-Class.png)](https://postimg.cc/fkGvgCWz)
 <p>La URL del diagrama de clase: <a>https://lucid.app/lucidchart/a52bb7bd-e7eb-41fc-8c23-2c871c52d177/edit?viewport_loc=-2031%2C-622%2C4603%2C2129%2C0_0&invitationId=inv_9dc4edc6-7d89-4ec0-862e-7909b074d9fd</a></p>
 
 ### 4.7.2. Class Dictionary. 
