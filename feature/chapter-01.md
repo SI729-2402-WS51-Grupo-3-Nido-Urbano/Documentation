@@ -64,13 +64,13 @@ Nido Urbano
 |---------------------------------|------------------------------------------------------------------------------------------------------|
 | Número de commits por autor     | [Imagen] |
 | Historial de cambios            | [![historial-de-activos.png](https://i.postimg.cc/jdPcVZH5/historial-de-activos.png)](https://postimg.cc/RNCKK1b5) |
-| Distribución de trabajo         | [Imagen] |
+| Distribución de trabajo         | [![respo-3.png](https://i.postimg.cc/9Fw5MCQJ/respo-3.png)](https://postimg.cc/ykKrpq9Z) |
 
 #### 4. Participación de Todos los Miembros del Equipo
 
 | Evidencia                       | Descripción                                                                                          |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
-| Contribuciones en GitHub       | [Imagen] |
+| Contribuciones en GitHub       | Todos los participantes subieron sus responsabilidades a github y a su vez ayudaron a revisar las de los demás. |
 | Discusiones y actividades      | Se prepararon reuniones virtuales para comunicar los avances, dudas y problemas que surjan con el desarrollo de cada actividad. |
 | Exposiciones anticipadas       | Realizamos reuniones para exponer cada actividad desarrollada y prepararanos para la presentación final. |
 
