@@ -158,9 +158,6 @@ Para mantener una ventaja competitiva y enfrentar eficazmente a nuestros competi
 * **Especialización en Nichos de Mercado:**
 Ofrecer un portafolio especializado en bienes raíces ecológicos o sostenibles, destacando las certificaciones medioambientales y beneficios para el medio ambiente. Crear una sección dedicada a propiedades de lujo con características exclusivas, como servicios personalizados y ubicaciones premium.
 
-* **Innovación tecnológica:**
-Continuaremos invirtiendo en el desarrollo de tecnologías innovadoras que mejoren la eficiencia y la seguridad del proceso de búsqueda y adquisición de propiedades. Implementar visitas virtuales en 360 grados y recorridos en realidad aumentada para que los usuarios puedan explorar las propiedades de forma inmersiva desde sus hogares.
-
 * **Mejora de la Experiencia del Cliente:**
 Implementar una herramienta que permita a los usuarios comparar propiedades basadas en diferentes criterios como precio, ubicación, y características. Ofrecer calculadoras de préstamos hipotecarios y estimaciones de costos para ayudar a los usuarios a entender mejor sus opciones de financiamiento.
 
