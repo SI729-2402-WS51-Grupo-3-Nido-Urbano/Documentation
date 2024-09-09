@@ -309,10 +309,20 @@ Para desplegar nuestra Landing Page, el equipo completo llevó a cabo las config
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 	
+## Landing Page
+
+- **Evidencias de participación en el repositorio de la Landing Page**
+
+
+
+- **Evidencias de participación en el repositorio "Documentation"**
+
+
 
 # Conclusiones
 ## Conclusiones y recomendaciones
 
+- 
 
 
 # Bibliografía
