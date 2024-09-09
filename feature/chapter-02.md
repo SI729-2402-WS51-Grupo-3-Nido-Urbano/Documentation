@@ -361,8 +361,7 @@ El entrevistado es un estudiante universitario de 21 años que está buscando al
   En esta seccion se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuanta nuestro segmento predefinido, ARRENDATARIO y ARRENDADOR. A contunuación se presentra los user person: 
 
 **ARRENDATARIO:**
-
-<img src="https://i.postimg.cc/43w556N2/Jhon-Fernando-Sebastian-Jimenez-Aguilar-1-User-Persona.png"/>
+[![Jhon-Fernando-Sebasti-n-Jim-nez-Aguilar-1.png](https://i.postimg.cc/9fM3hFCv/Jhon-Fernando-Sebasti-n-Jim-nez-Aguilar-1.png)](https://postimg.cc/FY2CbvfZ)
 
 **ARRENDADOR:**
 
