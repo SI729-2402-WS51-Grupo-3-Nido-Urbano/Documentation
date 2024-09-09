@@ -62,7 +62,7 @@ Nido Urbano
 
 | Métrica                         | Descripción                                                                                          |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
-| Número de commits por autor     | [Imagen] |
+| Número de commits por autor     | [![commits-por-autor.png](https://i.postimg.cc/sgCsHhvC/commits-por-autor.png)](https://postimg.cc/jLcpLCHM) |
 | Historial de cambios            | [![historial-de-activos.png](https://i.postimg.cc/jdPcVZH5/historial-de-activos.png)](https://postimg.cc/RNCKK1b5) |
 | Distribución de trabajo         | [![respo-3.png](https://i.postimg.cc/9Fw5MCQJ/respo-3.png)](https://postimg.cc/ykKrpq9Z) |
 
