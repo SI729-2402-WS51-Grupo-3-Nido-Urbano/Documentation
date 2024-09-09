@@ -392,7 +392,7 @@ A continuacion se presentran los User Journey Mapping.
 
 **SEGMENTO ARRENDATARIO:**  Aquí para el segmento de arrendatario se presenta el viaje del usuario con la aplicación NidoUrbano.
 
-<img src="https://i.postimg.cc/fbbH12FQ/Arrendatario-journey-map.png"/>
+[![Customer-journey-map-1-1.png](https://i.postimg.cc/Vs3b0dhW/Customer-journey-map-1-1.png)](https://postimg.cc/dDj0ztwh)
 
 **SEGMENTO ARRENDADOR:** Aquí para el segmento de arrendador se presenta el viaje del usuario con la aplicación NidoUrbano.
 
