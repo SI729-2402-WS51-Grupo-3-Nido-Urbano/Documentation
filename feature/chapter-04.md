@@ -211,5 +211,19 @@ Los diseños de los mock-ups se encuentran en el siguiente enlace: https://www.f
 <p>La URL del diagrama de clase: <a>https://lucid.app/lucidchart/a52bb7bd-e7eb-41fc-8c23-2c871c52d177/edit?viewport_loc=-2031%2C-622%2C4603%2C2129%2C0_0&invitationId=inv_9dc4edc6-7d89-4ec0-862e-7909b074d9fd</a></p>
 
 ### 4.7.2. Class Dictionary. 
+Acontinuación se presenta el diccionario de clases correspondiente al diagrama de clases de **NidoUrbano**
+
+| **Clase** | **Descripción**|
+|-|-|
+|**Usuario**|Representa a cualquier usuario que utiliza la plataforma, ya sea un arrendador o arrendatario.<br>Arrendador y Arrendatario: Son subclases que heredan de Usuario. Se relacionan porque ambos son tipos de usuarios que interactúan de manera diferente en la plataforma.|
+|**Arrendador**|Es un tipo de usuario que puede listar propiedades para alquiler o venta. Gestiona las propiedades que posee y las transacciones de pagos. <br> Se relaciona con Propiedad,Cita,Transacción,Verificación|
+|**Arrendatario**|Es el usuario que busca propiedades para alquilar o comprar. Puede marcar propiedades como favoritas y programar citas para visitarlas.<br> Se relaciona con Propiedades_favoritas,Cita,Transacción.|
+|**Propiedad**| Representa un inmueble que puede ser alquilado o vendido. Contiene información sobre su tipo, estado, ubicación, y precio. <br> Se relaciona con Arrendador,Fotos y Video,Cita,Contrato,Verificación.|
+|**Cita**|Es el acuerdo entre arrendador y arrendatario para visitar una propiedad. Contiene la fecha y hora de la visita.<br> Se relaciona con Propiedad,Arrendador y Arrendatario.|
+|**Contrato**|Documento que formaliza el acuerdo entre arrendador y arrendatario para el alquiler o venta de una propiedad.<br> Se relaciona con Pago,Arrendador, Arrendatario, y Propiedad.|
+|**Pago**|Representa los pagos que el arrendatario realiza al arrendador en base al contrato firmado.<br> Se relaciona con Contrato,Arrendador y Arrendatario.|
+|**Transacion**|Gestiona los detalles de los pagos que se realizan en base a un contrato.<br> Se relaciona con Contrato,Arrendador y Arrendatario.|
+|**Verificacion**|Proceso que confirma la autenticidad del arrendador y la propiedad que está listando.<br> Se relaciona con Arrendador y Propiedad.|
+|**Calificacion**|Permite que arrendadores y arrendatarios se califiquen mutuamente con estrellas y comentarios. <br> Se relaciona con Usuario y Contrato. |
 ## 4.8. Database Design. 
 ### 4.8.1. Database Diagram. 
