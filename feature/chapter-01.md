@@ -10,9 +10,17 @@
 
 **Docente:** Juan Antonio Flores Moroco
 
+
+**Nombre del Startup**\
+Urban Nest
+
+**Nombre del Producto**\
+Nido Urbano
+
 **Nombre del Startup**: NidoUrbano
 
 **Nombre del Producto**: UrbanNest
+
 
 **Grupo 3**
 
@@ -30,6 +38,7 @@
 | Versión | Fecha      | Autor                                                    | Descripción                                                                                       |
 |---------|------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | 1.0       | 22/08/2024 | Aranda Vallejos, Oscar Gabriel <br><br> Chirinos Zuñiga, Rodrigo Manuel <br><br> Cantoral Sedamano, Alexander ALberto <br><br> Quispe Tipo, Godofredo <br><br> Gomez Hurtado, Miguel Angel | Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo.<br><br> Se completó la sección de Competidores (Incluyendo un análisis competitivo y tácticas frente a competidores). <br><br> Se realizó el diseño de entrevistas, el to-be scenario mapping y el impact mapping. <br><br> Se realizó el Needfinding para obtener las user personas, los user task matrix y el user journey mapping. <br><br> Se completó el Needfinding para obtener el emphaty mapping, el as-is scenario mapping y el lenguaje ubicuo. |
+| 1.0       | 22/08/2024 | Aranda Vallejos, Oscar Gabriel <br><br> Chirinos Zuñiga, Rodrigo Manuel <br><br> Cantoral Sedamano, Alexander ALberto <br><br> Quispe Tipo, Godofredo <br><br> Gomez Hurtado, Miguel Angel | Se concretó con el Requirements Specification,  Product Design y Product Implementation, Validation & Deployment |
 
 
 # PROJECT REPORT COLLABORATION INSIGHTS
@@ -56,15 +65,15 @@
 
 | Métrica                         | Descripción                                                                                          |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
-| Número de commits por autor     | [Imagen] |
-| Historial de cambios            | [Imagen] |
-| Distribución de trabajo         | [Imagen] |
+| Número de commits por autor     | [![commits-por-autor.png](https://i.postimg.cc/sgCsHhvC/commits-por-autor.png)](https://postimg.cc/jLcpLCHM) |
+| Historial de cambios            | [![historial-de-activos.png](https://i.postimg.cc/jdPcVZH5/historial-de-activos.png)](https://postimg.cc/RNCKK1b5) |
+| Distribución de trabajo         | [![respo-3.png](https://i.postimg.cc/9Fw5MCQJ/respo-3.png)](https://postimg.cc/ykKrpq9Z) |
 
 #### 4. Participación de Todos los Miembros del Equipo
 
 | Evidencia                       | Descripción                                                                                          |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
-| Contribuciones en GitHub       | [Imagen] |
+| Contribuciones en GitHub       | Todos los participantes subieron sus responsabilidades a github y a su vez ayudaron a revisar las de los demás. |
 | Discusiones y actividades      | Se prepararon reuniones virtuales para comunicar los avances, dudas y problemas que surjan con el desarrollo de cada actividad. |
 | Exposiciones anticipadas       | Realizamos reuniones para exponer cada actividad desarrollada y prepararanos para la presentación final. |
 
@@ -246,8 +255,8 @@
 
 | Criterio específico                                                                                           | Acciones realizadas   | Conclusiones |
 |--------------------------------------------------------------------------------------------------------------|------------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Aranda Vallejos, Oscar Gabriel**<br><a class="italic">TB1</a><br> ... <br><br>**Cantoral Sedamano, Alexander ALberto**<br><a class="italic">TB1</a><br> ... <br><br> **Chirinos Zúñiga, Rodrigo Manuel**<br><a class="italic">TB1</a><br> ... <br><br> **Gomez Hurtado, Miguel Angel**<br><a class="italic">TB1</a><br> ... <br><br> **Quispe Tipo, Godofredo**<br><a class="italic">TB1</a><br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
-| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Aranda Vallejos, Oscar Gabriel**<br><a class="italic">TB1</a><br> ... <br><br>**Cantoral Sedamano, Alexander ALberto**<br><a class="italic">TB1</a><br> ... <br><br> **Chirinos Zúñiga, Rodrigo Manuel**<br><a class="italic">TB1</a><br> ... <br><br> **Gomez Hurtado, Miguel Angel**<br><a class="italic">TB1</a><br> ... <br><br> **Quispe Tipo, Godofredo**<br><a class="italic">TB1</a><br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Aranda Vallejos, Oscar Gabriel**<br><a class="italic">TB1</a><br> Comunicó de manera oral los avances en el diseño de la landing page y el web application. <br><br>**Cantoral Sedamano, Alexander ALberto**<br><a class="italic">TB1</a><br> Empleó de forma exitosa la entrevista y se encuentra preparado para la exposición del desarrollo del review del sprint 1 <br><br> **Chirinos Zúñiga, Rodrigo Manuel**<br><a class="italic">TB1</a><br> Comunicó de manera rápida los criterios de aceptación para tener un mejor proceso de abstracción.  <br><br> **Gomez Hurtado, Miguel Angel**<br><a class="italic">TB1</a><br> He coordinado las reuniones del grupo de trabajao y hemos presentado de manera constante pequeños avances en reuniones presenciales despues de clases y reuniones virtuales durante la semana. <br><br> **Quispe Tipo, Godofredo**<br><a class="italic">TB1</a><br> Durante el desarrollo del entregable, me aseguré de comunicarme de manera efectiva con diferentes rangos de audiencia. En las entrevistas, adapté mi lenguaje según el perfil de cada entrevistado, asegurándome de que comprendieran claramente las preguntas y confirmando los puntos clave al finalizar. Al elaborar el trabajo, presenté la información de forma accesible para diferentes audiencias, profundizando en aspectos técnicos con el equipo especializado y enfocándome en resultados claros. Además, coordiné reuniones en las que utilicé formatos visuales y fomenté la interacción para asegurar que todos los involucrados comprendieran los avances y objetivos. <br><br>  |<br>El equipo ha mejorado la capacidad de adaptar el lenguaje según la audiencia, usando un vocabulario accesible para no técnicos y técnico en discusiones especializadas.<br><br>Hemos logrado comunicar ideas técnicas complejas de forma clara y estructurada, asegurando que los puntos principales sean comprendidos.<br><br>El uso de herramientas visuales como diagramas y presentaciones ha facilitado la comprensión y mejorado la comunicación con diferentes audiencias.<br>|
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Aranda Vallejos, Oscar Gabriel**<br><a class="italic">TB1</a><br> Comunicó y registró por escrito las entrevistas de usuario de manera efectiva. <br><br>**Cantoral Sedamano, Alexander ALberto**<br><a class="italic">TB1</a><br> Siguiendo lo enseñado en cursos anteriores y consiguió que de desarrolle de manera exitosa sus responsabilidades establecidas para el Sprint número 1 . <br><br> **Chirinos Zúñiga, Rodrigo Manuel**<br><a class="italic">TB1</a><br> Solicitó a cada entrevistador que compartiera las necesidades identificadas para avanzar con los User Stories, destacando la importancia de considerar a nuestros competidores en el análisis para mejorar nuestra estrategia. Estableció revisar las respuestas en conjunto para obtener aprobación y avanzar en el proyecto, manteniendo un tono profesional y accesible. <br><br> **Gomez Hurtado, Miguel Angel**<br><a class="italic">TB1</a><br> Entrege mis partes del trabajo, como los diagramas de C4, el impact mapping, ubiquitous languague, empathy mapping. <br><br> **Quispe Tipo, Godofredo**<br><a class="italic">TB1</a><br>Me comuniqué con algunos entrevistados a través de WhatsApp, donde coordiné de manera clara y efectiva la fecha y hora de las entrevistas, ajustando el tono y detalle de los mensajes según el perfil del entrevistado. Para la gestión de algunas tareas, utilicé el chat grupal en WhatsApp, donde dejaba por escrito las asignaciones, asegurándome de que todos los miembros del equipo entendieran sus responsabilidades. Además, mantuve un seguimiento activo, informando por escrito cuando las tareas estaban completadas y listas para su revisión, garantizando una comunicación fluida y efectiva entre los diferentes integrantes del grupo. <br><br>  |<br>El equipo ha mejorado en la redacción de informes técnicos detallados para audiencias especializadas y resúmenes ejecutivos simplificados para stakeholders no técnicos.<br><br>Hemos aprendido a estructurar documentos de manera clara y concisa, lo que facilita la comprensión de ideas complejas por parte de diferentes tipos de lectores.<br><br>La revisión colaborativa de los textos ha permitido asegurar la coherencia y efectividad en la comunicación escrita, ajustando el nivel de detalle según la audiencia destinataria.<br>|
 
 
 # Capítulo I: Introducción
@@ -256,14 +265,14 @@
 ### 1.1.1. Descripción del Startup
 <div class="text-justify">
 
-Nuestra startup "Nido Urbano" se forma con el propósito de revolucionar el proceso de búsqueda de propiedades inmobiliarias para todo tipo de necesidades, desde aspectos financieros hasta la importancia de estar ubicado cerca a un determinado centro de trabajo u estudio. 
+Nuestra startup "Urban Nest" se forma con el propósito de revolucionar el proceso de búsqueda de propiedades inmobiliarias para todo tipo de necesidades, desde aspectos financieros hasta la importancia de estar ubicado cerca a un determinado centro de trabajo u estudio. 
     
-Ante ello, el proyecto UrbanNest es iniciado y presentado como una plataforma destinada a ofrecer una experiencia integral en la búsqueda de la viviendia ideal para cada usuario, evitando que este se exija en exceso durante el proceso de indagación de su mejor opción. Por ello, nos comprometemos a despejar la carga que conlleva dicho proceso y encargarnos de las tareas que pueden resultar más tediosas para el usuario. 
+Ante ello, el proyecto "Nido Urbano" es iniciado y presentado como una plataforma destinada a ofrecer una experiencia integral en la búsqueda de la viviendia ideal para cada usuario, evitando que este se exija en exceso durante el proceso de indagación de su mejor opción. Por ello, nos comprometemos a despejar la carga que conlleva dicho proceso y encargarnos de las tareas que pueden resultar más tediosas para el usuario. 
 
 <div class="text-center"><b>Logotipo de la Startup:</b> </div>
     
 <div style="text-align:center;">
-    <img src="https://i.postimg.cc/nhrtq7St/Logo-Final.png" alt="UrbanNest" >
+    <img src="https://i.postimg.cc/nhrtq7St/Logo-Final.png" alt="NidoUrbano" >
 </div><br>
 
 **Visión:** Crear un entorno en el que todos puedan hallar su hogar ideal de manera sencilla y segura, aprovechando la tecnología para facilitar el proceso de búsqueda y estadía por el tiempo que el huésped desee.
@@ -277,41 +286,44 @@ Ante ello, el proyecto UrbanNest es iniciado y presentado como una plataforma de
     
 #### Nombre: Aranda Vallejos, Oscar Gabriel | U202218167
 
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
->
-> [Imagen]
+> Tengo 19 años y soy estudiante de la carrera de Ingeniería de Software, poseo conocimientos básicos en Unity, C++ y diseño web. Me considero una persona preparada y perseverante en cumplir con los objetivos del proyecto; además, siempre estoy dispuesto a aprender nuevos conceptos.
+<img src="https://i.postimg.cc/6qRCcvNF/Captura-de-pantalla-2024-09-08-151747.png">
 
 ---
-#### Nombre: Cantoral Sedamano, Alexander ALberto | U20181b152
+#### Nombre: Cantoral Sedamano, Alexander Alberto | U20181b152
 
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
->
-> [Imagen]
+> Descripción, carrera, conocimientos técnicos, habilidades que puede aportar al equipo.
+>Estudiante de Ingeniería de Software con conocimientos técnicos de programación en C++, PHP, Python. Conocimientos intermedios de frontend en HTML. Usuario frecuente tanto de Visual Studio como Visual Studio Code. Habilidades mixtas en otros programas usuales para el desarrollo de trabajos universitarios. Además, mis habilidades blandas van desde saber trabajar en equipo, tener una tendencia a ser ordenado y ser comprometido con todas las entregas.
+<img src="https://raw.githubusercontent.com/AlexlmL/ImagesforOpenSource/main/foto%20alexander%5B797%5D.jpg" width="250" height="250">
 
 ---
 #### Nombre: Chirinos Zúñiga, Rodrigo Manuel | U202217804
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
->
-> [Imagen]
+> Tengo 20 años, soy un estudiante de la carrera de Ingeniería de Software, considero que soy una persona responsable y de escucha activa. Estoy comprometido con mis compañeros en realizar un buen trabajo y así aprender todos en el proceso. También tengo conocimientos en programación en C++, HTML, CSS y JavaScript.
 
+<img src = "https://github.com/user-attachments/assets/9895e794-a88f-4436-a332-8d5c8112f9cb">
 
 ---
 #### Nombre: Gomez Hurtado, Miguel Angel | U202220294
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
+> Tengo 21 años y estoy estudiando la carrera de Ingeniería Informática.
+Me encuentro en mi segundo ciclo en la UPC Sede San Miguel. Soy una
+persona académica y siempre estoy abierto al diálogo. Me apasiona mi
+carrera y siempre estoy dispuesto a aprender sobre este curso para
+brindar a mis futuros usuarios un buen producto acorde a sus
+necesidades.
 >
-> [Imagen]
+> ![Descripción de la imagen](https://i.postimg.cc/0N1330v8/Miguel-Foto.png)
 
 ---
 #### Nombre: Quispe Tipo, Godofredo | U202120772
 
-> Descripción, carrera, habilidades técnicas, habilidades blandas.
+>  Mi nombre es Godofredo y actualmente me encuentro cursando la carrera de Ingeniería de Software, un campo que me apasiona profundamente. Mi interés por las nuevas tecnologías es constante, y estoy siempre al tanto de las últimas innovaciones que están redefiniendo el panorama tecnológico. Me considero un entusiasta de la programación, área en la que he adquirido un  dominio en diversos lenguajes, tales como Python, C++ y Assembler, lo que me ha permitido abordar una amplia gama de proyectos y desafíos técnicos.<br><br>Además, poseo un profundo conocimiento en el ámbito de la comunicación de redes, lo que me ha permitido comprender los complejos mecanismos detrás de la interconexión de sistemas y dispositivos. Mi formación en ciencia de datos, con un enfoque en Python, ha sido un pilar fundamental en mi desarrollo profesional, permitiéndome trabajar con grandes volúmenes de datos y obtener valiosos insights. Asimismo, cuento con experiencia en el manejo de Matlab, una herramienta clave en diversos proyectos de análisis y simulación.
 >
-> [Imagen]
+> [![Foto.jpg](https://i.postimg.cc/rF0Ldp4c/Foto.jpg)](https://postimg.cc/PPj79TKF)
 
 ---
 
 ## 1.2. Solution Profile
-Mediante "UrbanNest" nos comprometemos con la misión de revolucionar la búsqueda y adquisición de propiedades inmobiliarias, utilizando una innovadora propuesta de desarrollo de software. Para ello, nos encargaremos de ofrecer una experiencia gratificante y rápida para la búsqueda de viviendas, con el objetivo de implementar un proceso eficiente, fácil y seguro. Además, se prioriza que las necesidades individuales de cada usuario sean tomadas en cuenta para brindar opciones personalizadas con filtros de búsqueda y una navegación tanto cómoda como intuitiva. Por consiguiente, información detallada sobre cada propiedad será revelada para garantizar que el procedimiento sea transparente y satisfactorio para todos.
+Mediante "Nido Urbano" nos comprometemos con la misión de revolucionar la búsqueda y adquisición de propiedades inmobiliarias, utilizando una innovadora propuesta de desarrollo de software. Para ello, nos encargaremos de ofrecer una experiencia gratificante y rápida para la búsqueda de viviendas, con el objetivo de implementar un proceso eficiente, fácil y seguro. Además, se prioriza que las necesidades individuales de cada usuario sean tomadas en cuenta para brindar opciones personalizadas con filtros de búsqueda y una navegación tanto cómoda como intuitiva. Por consiguiente, información detallada sobre cada propiedad será revelada para garantizar que el procedimiento sea transparente y satisfactorio para todos.
     
 ### 1.1.2. Antecedentes y Problemática
 Hoy en día, la búsqueda de propiedades inmobiliarias a menudo se convierte en un proceso complicado y agotador. Los usuarios se ven obligados a recorrer varias plataformas, enfrentándose a información que con frecuencia es inexacta o incompleta, y a procesos de verificación que resultan confusos. Esta situación puede causar frustración y, en algunos casos, llevar a decisiones de inversión que no cumplen con las expectativas de los usuarios.
@@ -448,7 +460,7 @@ La ausencia de información detallada y relevante puede llevar a los usuarios a 
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Problema del negocio**                                                                                           |Los usuarios enfrentan dificultades para encontrar propiedades inmobiliarias que se ajusten a sus necesidades y preferencias, lo que resulta en una experiencia de búsqueda poco eficiente y frustrante.                                                                                                                                                                                |
 | **Resultados del negocio**                                                                                            |<ul><li>Aumentar la eficiencia y la satisfacción del usuario en la búsqueda y adquisición de propiedades.</li><li>Mejorar la retención de usuarios y la lealtad a la plataforma.</li><li>Establecer asociaciones sólidas con agentes inmobiliarios y propietarios para ampliar la base de datos de propiedades.</li></ul>                                                                                                                                                                                    |
-| **Usuarios y Clientes**                                                                                                |<ul><li>Usuarios: Personas en búsqueda de propiedades inmobiliarias para alquilar o comprar.</li><li>Clientes: NidoUrbano, agentes inmobiliarios, propietarios de propiedades.</li></ul>                                                                                                                                                                                                |
+| **Usuarios y Clientes**                                                                                                |<ul><li>Usuarios: Personas en búsqueda de propiedades inmobiliarias para alquilar o comprar.</li><li>Clientes: Urban Nest, agentes inmobiliarios, propietarios de propiedades.</li></ul>                                                                                                                                                                                                |
 | **Resultados del usuario**                                                                                            |<ul><li>Mayor facilidad para encontrar propiedades que se ajusten a sus necesidades y preferencias.</li><li>Aumento de la confianza en la plataforma debido a la transparencia y la precisión de la información proporcionada.</li><li>Mayor satisfacción al encontrar una propiedad adecuada en menos tiempo.</li></ul>                                                                                                                                                                                              |
 | **Soluciones**                                                                                                        |<ul><li>Mejorar la interfaz de usuario y las herramientas de filtrado para simplificar el proceso de búsqueda.</li><li>Personalizar la experiencia del usuario y ofrecer opciones de búsqueda relevantes.</li><li>Proporcionar información detallada y precisa sobre cada propiedad.</li><li>Mejorar la comunicación y la transparencia durante el proceso de adquisición de viviendas.</li><li>Ampliar la base de datos de propiedades mediante asociaciones con agentes inmobiliarios y propietarios.</li></ul>                                                                                                                                                                                                                                  |
 | **Hipótesis**                                                                                                          |<ul><li>Creemos que mejorar la satisfacción y eficiencia del usuario en la búsqueda y adquisión de propiedades puede ser logrado si el usuario alcanza mayor facilidad para encontrar propiedades que cumplan con sus necesidades al proporcionarle opciones de búsqueda relevantes y herramientas de filtrado con un funcionamiento intuitivo para simplificar el proceso.</li><li>Creemos que aumentar la fidelidad de los clientes y mejorar la retención de usuarios puede ser logrado si el usuario alcanza mayor confianza con la plataforma mediante la mejora de la comunicación y la transparencia durante el proceso de adquisición de viviendas y el proporcionamiento de información precisa sobre cada propiedad.</li></ul>                                                                                                                                                                                                                                                    |    
@@ -461,48 +473,24 @@ La ausencia de información detallada y relevante puede llevar a los usuarios a 
     
 <div class="segmento">
     <h3>Descripción de cada segmento objetivo</h3>
-        <p><strong>Propietarios de Inmuebles Independientes</strong></p>
-    <p>Este segmento objetivo de nuestra plataforma está dirigido a propietarios individuales de bienes raíces en Perú que se dedican a la gestión ética y sostenible de sus propiedades. Su principal enfoque radica en preservar la calidad y el buen estado de sus inmuebles, con el objetivo de ofrecer un experiencia agradable y asegurar la satisfacción de quienes adquieren sus espacios. </p>
-    <p><strong>Compradores Juveniles</strong></p>
+    <p><strong>Arrendatario (Compradores Juveniles)</strong></p>
     <p>El segmento objetivo de nuestra plataforma está dirigido a personas jóvenes y estudiantes universitarios que buscan encontrar un hogar que se adapte a sus necesidades y estilo de vida. Estos buscadores de hogares se caracterizan por su deseo de encontrar propiedades accesibles, seguras y cómodas en Perú. Están interesados en opciones de alquiler o compra que se ajusten a su presupuesto y preferencias, priorizando ubicaciones cercanas a instituciones educativas, servicios públicos y áreas de entretenimiento. Además, valoran la transparencia y confianza en el proceso de búsqueda de hogares, así como el acceso a información relevante para realizar buenas decisiones.</p>
+    <p><strong>Arrendador (Propietarios de Inmuebles Independientes)</strong></p>
+    <p>Este segmento objetivo de nuestra plataforma está dirigido a propietarios individuales de bienes raíces en Perú que se dedican a la gestión ética y sostenible de sus propiedades. Su principal enfoque radica en preservar la calidad y el buen estado de sus inmuebles, con el objetivo de ofrecer un experiencia agradable y asegurar la satisfacción de quienes adquieren sus espacios. </p>
     
 </div>
 
 <div class="segmento">
     <h3>Datos cuantitativos del problema para cada segmento</h3>
-    <p><strong>Propietarios de Inmuebles Independientes</strong></p>
-    <p>Se han registrado numerosos incidentes en los que los propietarios de bienes raíces en Perú enfrentan desafíos significativos en la gestión y mantenimiento de sus propiedades debido a la falta de recursos económicos y conocimientos especializados en la materia. Esta situación ha llevado a una preocupación creciente por la seguridad y el bienestar de los inquilinos, así como por la rentabilidad a largo plazo de las inversiones inmobiliarias. Se estima que al menos el 20% de los propietarios enfrentan dificultades para mantener el estado óptimo de sus propiedades, lo que resulta en una disminución de la satisfacción del inquilino y una posible pérdida de ingresos. Asimismo, cabe resaltar que esta insatisfacción del cliente y los errores presentados por los agentes inmobiliarios son sancionados y, en casos extremos, son reportados a Indecopi. Sobre ello, se estimaron cifras ascendentes a las 1500 en el número de sanciones impuestas entre el año 2019 y el 2022, lo cual es un factor preocupante y a tener en cuenta por la mayoría de propietarios de inmuebles particulares (Plataforma Digital Única del Estado Peruano, 2022). </p>
-    <p><strong>Compradores Juveniles</strong></p>
+    <p><strong>Arrendatario (Compradores Juveniles)</strong></p>
     <p>En el mercado inmobiliario peruano, las familias jóvenes y los estudiantes universitarios enfrentan desafíos relacionados con la falta de opciones de vivienda adecuadas y accesibles. Se ha identificado que el 40% de los jóvenes en el Perú tienen dificultades para encontrar propiedades que cumplan con sus necesidades y presupuesto, lo que resulta en una búsqueda prolongada y frustrante de un hogar adecuado. Además, la falta de transparencia y confiabilidad en el proceso de búsqueda de hogares puede generar incertidumbre y estrés en estos buscadores de hogares, afectando su bienestar emocional y financiero (ABBA del Perú, 2024).</p>
+    <p><strong>Arrendador (Propietarios de Inmuebles Independientes)</strong></p>
+    <p>Se han registrado numerosos incidentes en los que los propietarios de bienes raíces en Perú enfrentan desafíos significativos en la gestión y mantenimiento de sus propiedades debido a la falta de recursos económicos y conocimientos especializados en la materia. Esta situación ha llevado a una preocupación creciente por la seguridad y el bienestar de los inquilinos, así como por la rentabilidad a largo plazo de las inversiones inmobiliarias. Se estima que al menos el 20% de los propietarios enfrentan dificultades para mantener el estado óptimo de sus propiedades, lo que resulta en una disminución de la satisfacción del inquilino y una posible pérdida de ingresos. Asimismo, cabe resaltar que esta insatisfacción del cliente y los errores presentados por los agentes inmobiliarios son sancionados y, en casos extremos, son reportados a Indecopi. Sobre ello, se estimaron cifras ascendentes a las 1500 en el número de sanciones impuestas entre el año 2019 y el 2022, lo cual es un factor preocupante y a tener en cuenta por la mayoría de propietarios de inmuebles particulares (Plataforma Digital Única del Estado Peruano, 2022). </p>
 </div>
     
 <div class="segmento">
     <h3>Variables geográficas, demográficas y psicológicas para cada segmento</h3>
-    <p><strong>Propietarios de Inmuebles Independientes</strong></p>
-    <p>Variable geográfica:</p>
-    <ul>
-        <li>País: Perú</li>
-        <li>Ciudad: Zonas urbanas</li>
-    </ul>
-    <p>Variable demográfica:</p>
-    <ul>
-        <li>Género: Femenino / Masculino.</li>
-        <li>Ocupación: Todas las ocupaciones</li>
-        <li>Estado civil: Todos los estados</li>
-        <li>Edad y etapa de ciclo de vida: Ciudadanos mayores a 25 años.</li>
-    </ul>
-    <p>Variable psicográfica:</p>
-    <ul>
-        <li>Nivel Socioeconómico (NSE): Nivel A y B</li>
-        <li>Características de personalidad:
-            <ul>
-                <li>Asertivo</li>
-                <li>Transparente</li>
-                <li>Honesto</li>
-            </ul>
-        </li>
-    </ul>
-    <p><strong>Compradores Juveniles</strong></p>
+    <p><strong>Arrendatario (Compradores Juveniles)</strong></p>
     <p>Variable geográfica:</p>
     <ul>
         <li>País: Perú</li>
@@ -523,6 +511,30 @@ La ausencia de información detallada y relevante puede llevar a los usuarios a 
                 <li>Responsable</li>
                 <li>Perseverante</li>
                 <li>Sincero</li>
+            </ul>
+        </li>
+    </ul>
+    <p><strong>Arrendador (Propietarios de Inmuebles Independientes)</strong></p>
+    <p>Variable geográfica:</p>
+    <ul>
+        <li>País: Perú</li>
+        <li>Ciudad: Zonas urbanas</li>
+    </ul>
+    <p>Variable demográfica:</p>
+    <ul>
+        <li>Género: Femenino / Masculino.</li>
+        <li>Ocupación: Todas las ocupaciones</li>
+        <li>Estado civil: Todos los estados</li>
+        <li>Edad y etapa de ciclo de vida: Ciudadanos mayores a 25 años.</li>
+    </ul>
+    <p>Variable psicográfica:</p>
+    <ul>
+        <li>Nivel Socioeconómico (NSE): Nivel A y B</li>
+        <li>Características de personalidad:
+            <ul>
+                <li>Asertivo</li>
+                <li>Transparente</li>
+                <li>Honesto</li>
             </ul>
         </li>
     </ul>
