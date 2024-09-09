@@ -203,8 +203,17 @@ Los diseños de los mock-ups se encuentran en el siguiente enlace: https://www.f
 ## 4.5. Web Applications Prototyping. 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram. 
+
+![Context.png](https://i.postimg.cc/59S0n6rr/structurizr-88274-System-Context-001.png)
+
 ### 4.6.2. Software Architecture Container Diagrams. 
+
+![Container.png](https://i.postimg.cc/2SM8Vvq1/structurizr-88274-Container-001-1.png)
+
 ### 4.6.3. Software Architecture Components Diagrams. 
+
+![Component.png](https://i.postimg.cc/vmn89B93/structurizr-88274-Component-001.png)
+
 ## 4.7. Software Object-Oriented Design. 
 ### 4.7.1. Class Diagrams. 
 <img src="https://cdn.discordapp.com/attachments/1274549420616192020/1282499673851953255/DiagramClass.png?ex=66df9465&is=66de42e5&hm=73b9662c4ede83f79c4a7336b1589bcf493732b29367f26d556f050c248c9232&">
