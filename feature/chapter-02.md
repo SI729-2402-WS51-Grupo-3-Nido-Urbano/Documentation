@@ -231,9 +231,10 @@ Durante la entrevista, Ana nos comenta que consideraría usar una aplicación co
 
 | Nombres | Apellidos | Edad | Inicio | Duración |
 |---------|-----------|------|--------|----------|
-| John | Jimenez | - | 8:50 | 9:45 |
+| John | Jimenez | 20 | 8:50 | 9:45 |
 
- Descripción:
+Descripción:
+John nos comenta en su entrevista la necesidad que presenta de vivir cerca a su universidad, lo cual se convierte en un factor importante para decidir su vivienda de destino al momento de buscar un espacio para alquilar. También nos menciona la falta de un seguro de confianza para el momento de adquisición de la vivienda; sin embargo, aclara que la necesidad de un contrato no es tan necesaria si dificulta o entorperce el proceso.
 
 #### Segmento 1 - Entrevista 4
 
