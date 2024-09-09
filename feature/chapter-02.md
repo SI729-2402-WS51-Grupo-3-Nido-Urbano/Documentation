@@ -158,9 +158,6 @@ Para mantener una ventaja competitiva y enfrentar eficazmente a nuestros competi
 * **Especialización en Nichos de Mercado:**
 Ofrecer un portafolio especializado en bienes raíces ecológicos o sostenibles, destacando las certificaciones medioambientales y beneficios para el medio ambiente. Crear una sección dedicada a propiedades de lujo con características exclusivas, como servicios personalizados y ubicaciones premium.
 
-* **Innovación tecnológica:**
-Continuaremos invirtiendo en el desarrollo de tecnologías innovadoras que mejoren la eficiencia y la seguridad del proceso de búsqueda y adquisición de propiedades. Implementar visitas virtuales en 360 grados y recorridos en realidad aumentada para que los usuarios puedan explorar las propiedades de forma inmersiva desde sus hogares.
-
 * **Mejora de la Experiencia del Cliente:**
 Implementar una herramienta que permita a los usuarios comparar propiedades basadas en diferentes criterios como precio, ubicación, y características. Ofrecer calculadoras de préstamos hipotecarios y estimaciones de costos para ayudar a los usuarios a entender mejor sus opciones de financiamiento.
 
@@ -361,12 +358,11 @@ El entrevistado es un estudiante universitario de 21 años que está buscando al
   En esta seccion se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuanta nuestro segmento predefinido, ARRENDATARIO y ARRENDADOR. A contunuación se presentra los user person: 
 
 **ARRENDATARIO:**
-
-<img src="https://i.postimg.cc/43w556N2/Jhon-Fernando-Sebastian-Jimenez-Aguilar-1-User-Persona.png"/>
+[![Jhon-Fernando-Sebasti-n-Jim-nez-Aguilar-1.png](https://i.postimg.cc/9fM3hFCv/Jhon-Fernando-Sebasti-n-Jim-nez-Aguilar-1.png)](https://postimg.cc/FY2CbvfZ)
 
 **ARRENDADOR:**
 
-<img src="https://i.postimg.cc/v84J4B0w/Eva-Luz-Campos-Rodas-User-Persona.png"/>
+[![Eva-Luz-Campos-Rodas.png](https://i.postimg.cc/v85NC654/Eva-Luz-Campos-Rodas.png)](https://postimg.cc/jCdc72gT)
 
 ### 2.3.2 User Task Matrix
 
@@ -391,14 +387,13 @@ En esta seccion se presentan las tareas que realizaran los usuarios, teniendo en
 
 A continuacion se presentran los User Journey Mapping.
 
-**SEGMENTO ARRENDATARIO:**  Aquí para el segmento de arrendatario se presenta el viaje del usuario con la aplicación '_'.
+**SEGMENTO ARRENDATARIO:**  Aquí para el segmento de arrendatario se presenta el viaje del usuario con la aplicación NidoUrbano.
 
-<img src="https://i.postimg.cc/fbbH12FQ/Arrendatario-journey-map.png"/>
+[![Customer-journey-map-1-1.png](https://i.postimg.cc/Vs3b0dhW/Customer-journey-map-1-1.png)](https://postimg.cc/dDj0ztwh)
 
-**SEGMENTO ARRENDADOR:** Aquí para el segmento de arrendador se presenta el viaje del usuario con la aplicación '_'.
+**SEGMENTO ARRENDADOR:** Aquí para el segmento de arrendador se presenta el viaje del usuario con la aplicación NidoUrbano.
 
-<img src="https://i.postimg.cc/Vs0hYhNY/Arrendador-journey-mapping.png"/>
-
+[![Customer-journey-map-1.png](https://i.postimg.cc/4yKNNQZR/Customer-journey-map-1.png)](https://postimg.cc/vxsd09c0)
 
 
 ### 2.3.4 Emphaty Mapping
