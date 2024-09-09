@@ -365,7 +365,7 @@ El entrevistado es un estudiante universitario de 21 años que está buscando al
 
 **ARRENDADOR:**
 
-<img src="https://i.postimg.cc/v84J4B0w/Eva-Luz-Campos-Rodas-User-Persona.png"/>
+[![Eva-Luz-Campos-Rodas.png](https://i.postimg.cc/v85NC654/Eva-Luz-Campos-Rodas.png)](https://postimg.cc/jCdc72gT)
 
 ### 2.3.2 User Task Matrix
 
