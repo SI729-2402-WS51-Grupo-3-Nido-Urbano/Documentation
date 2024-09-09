@@ -313,16 +313,16 @@ Para desplegar nuestra Landing Page, el equipo completo llevó a cabo las config
 
 - **Evidencias de participación en el repositorio de la Landing Page**
 
-
+[![respolp.png](https://i.postimg.cc/7ZB57hQ8/respolp.png)](https://postimg.cc/XrCN6jbQ)
 
 - **Evidencias de participación en el repositorio "Documentation"**
-
-
+<!--Early version of this one-->
+[![respodoc.png](https://i.postimg.cc/brKK4xJc/respodoc.png)](https://postimg.cc/7Jns2T0m)
 
 # Conclusiones
 ## Conclusiones y recomendaciones
 
-- 
+- TB1: Para concluir este trabajo se tuvo en cuenta el ddd y el enfoque de trabajo ágil en cual se hizo un enfasís en revisar diariamente el avance de cada uno en reuniones por discord. A su vez, se planea una retroalimentación de lo evaluado para la semana 5.
 
 
 # Bibliografía
