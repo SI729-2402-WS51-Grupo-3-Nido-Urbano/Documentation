@@ -176,69 +176,339 @@ Organizar eventos exclusivos y seminarios sobre inversiones inmobiliarias, tende
 
 <p> En esta sección del reporte se presentará las preguntas de las entrevistas y el análisis relacionado de cada entrevista. </p>
 
-#### Segmento #1: Compradores primerizos
+#### Segmento #1: Arrendatario (Compradores primerizos)
 Preguntas principales:
 
-¿Cuál es tu nombre, edad y situación actual (familia joven, estudiante universitario, persona sola, etc.)?
-¿Qué tipo de propiedad estás buscando (apartamento, casa, cuarto, etc.) y cuáles son tus preferencias de ubicación?
-¿Cuáles son tus principales prioridades al buscar una(precio, seguridad, cercanía, etc.)?
-¿Qué herramientas o métodos utilizas para buscar propiedades?
-¿Cuáles son los mayores desafíos que enfrentas al buscar un nuevo hogar?
-¿Qué características te gustaría ver en una aplicación de búsqueda de propiedades para satisfacer tus necesidades específicas?
-¿Qué tipo de información te gustaría poder acceder fácilmente desde una aplicación por si necesitas orientación?
-¿Cómo te gustaría organizar, filtrar y comparar las propiedades que encuentres?
-¿Tienes idea de como gestionar el apartado legal al momento de comprar o alquilar un inmueble?
-¿Qué esperas lograr al utilizar una aplicación como Nido Urbano para encontrar tu próximo hogar?
+¿Cuál es tu nombre, edad y situación actual (familia joven, estudiante universitario, persona sola, etc.)?<br>
+¿Qué tipo de propiedad estás buscando (apartamento, casa, cuarto, etc.) y cuáles son tus preferencias de ubicación?<br>
+¿Cuáles son tus principales prioridades al buscar una(precio, seguridad, cercanía, etc.)?<br>
+¿Qué herramientas o métodos utilizas para buscar propiedades?<br>
+¿Cuáles son los mayores desafíos que enfrentas al buscar un nuevo hogar?<br>
+¿Qué características te gustaría ver en una aplicación de búsqueda de propiedades para satisfacer tus necesidades específicas?<br>
+¿Qué tipo de información te gustaría poder acceder fácilmente desde una aplicación por si necesitas orientación?<br>
+¿Cómo te gustaría organizar, filtrar y comparar las propiedades que encuentres?<br>
+¿Tienes idea de como gestionar el apartado legal al momento de comprar o alquilar un inmueble?<br>
+¿Qué esperas lograr al utilizar una aplicación como Nido Urbano para encontrar tu próximo hogar?<br>
 
-#### Segmento #2: Propietarios de Inmuebles
+#### Segmento #2: Arrendador (Propietarios de Inmuebles)
 Preguntas principales:
-¿Cuál es tu nombre, edad y situación actual como propietario de inmuebles?
-¿Qué tipo de propiedad posees y cuáles son tus objetivos al alquilar y/o vender?
-¿Qué dispositivos usas para manejar la información y negocios relacionados a tus inmuebles? (Considerar preguntas adicionales)
-¿Qué estrategias utilizas actualmente para promocionar tus propiedades y gestionar las consultas de los clientes potenciales?
-¿Cuáles son los mayores desafíos que enfrentas como propietario de inmuebles y cómo crees que una aplicación podría ayudarte a superarlos?
-¿Qué características te gustaría ver en una aplicación de gestión de propiedades para satisfacer tus necesidades específicas?
-¿Qué tipo de información te gustaría poder acceder fácilmente desde dicha aplicación?
-¿Cómo te gustaría gestionar las solicitudes de visita y el proceso de alquiler o venta a través de una aplicación?
-¿Qué esperas lograr al utilizar una aplicación como Nido Urbano para gestionar tus propiedades?
-¿Qué mejoras esperas ver en la gestión de tus propiedades al implementar una aplicación como Nido Urbano?
+¿Cuál es tu nombre, edad y situación actual como propietario de inmuebles?<br>
+¿Qué tipo de propiedad posees y cuáles son tus objetivos al alquilar y/o vender?<br>
+¿Qué dispositivos usas para manejar la información y negocios relacionados a tus inmuebles?<br>
+¿Qué estrategias utilizas actualmente para promocionar tus propiedades y gestionar las consultas de los clientes potenciales?<br>
+¿Cuáles son los mayores desafíos que enfrentas como propietario de inmuebles y cómo crees que una aplicación podría ayudarte a superarlos?<br>
+¿Qué características te gustaría ver en una aplicación de gestión de propiedades para satisfacer tus necesidades específicas?<br>
+¿Qué tipo de información te gustaría poder acceder fácilmente desde dicha aplicación?<br>
+¿Cómo te gustaría gestionar las solicitudes de visita y el proceso de alquiler o venta a través de una aplicación?<br>
+¿Qué esperas lograr al utilizar una aplicación como Nido Urbano para gestionar tus propiedades?<br>
+¿Qué mejoras esperas ver en la gestión de tus propiedades al implementar una aplicación como Nido Urbano?<br>
 
 
 ### 2.2.2 Registro de entrevistas
 
-#### Entrevista 1
+#### Segmento 1 - Entrevista 1
 
-#### Entrevista 2
+[![1.png](https://i.postimg.cc/dDMps9hR/1.png)](https://postimg.cc/y3PvncXW)
 
-#### Entrevista 3
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Alfredo | Medina | 23 | 0:00 | 5:24 |
 
-#### Entrevista 4
+Descripción: En la entrevista Alfredo nos cuenta que tiene algunas dificultades para encontrar una departamento y cree que la aplicación NidoUrbano pueda ser la solución a su problema actual. Además, sugiere que los filtros de búsqueda de búsqueda y la información legal de las propiedades serían una pieza clave para la aplicación.
 
-#### Entrevista 5
+
+#### Segmento 1 - Entrevista 2
+
+[![2.png](https://i.postimg.cc/MTkdFH2F/2.png)](https://postimg.cc/GBQFBcpF)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Ana | Zúñiga | 56 | 5:25 | 3:25 |
+
+Descripción:
+Durante la entrevista, Ana nos comenta que consideraría usar una aplicación como NidoUrbano siempre y cuando el sistema de búsqueda sea adecuado y la información sobre los diferentes inmuebles sea verídica, como las imágenes, dimensiones y áreas comunes en caso de tratarse de un departamento. También añade que los filtros que más busca son el precio y la seguridad de la zona.
+
+#### Segmento 1 - Entrevista 3
+
+[![3.png](https://i.postimg.cc/zG8qMsgz/3.png)](https://postimg.cc/mtpx16jJ)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| John | Jimenez | - | 8:50 | 9:45 |
+
+ Descripción:
+
+#### Segmento 1 - Entrevista 4
+
+[![6.png](https://i.postimg.cc/3RVrShhZ/6.png)](https://postimg.cc/qhcdq9zt)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Gianmarco Fabian | Jiménez Guerra | 21 | 18:35 | 10:09 |
+
+**Descripción:** 
+El entrevistado es un estudiante universitario de 21 años que está buscando alquilar un cuarto cerca de la sede de la Universidad Peruana de Ciencias Aplicadas (UPC) en San Miguel, Lima. Su principal prioridad al buscar una propiedad es la cercanía a la universidad, seguida por el precio y, en menor medida, la seguridad. Ha intentado encontrar opciones a través de grupos de Facebook y sitios web, pero ha enfrentado desafíos como la desconfianza en los grupos y los altos costos en las páginas web. Le gustaría que una aplicación de búsqueda de propiedades ofrezca una amplia variedad de opciones, contacto directo con los propietarios, filtros avanzados de búsqueda (ubicación, precio, metros cuadrados), y reseñas de otros inquilinos. Además, menciona que sería útil contar con asesoramiento legal dentro de la aplicación para manejar contratos de arrendamiento y otros aspectos legales relacionados con el alquiler. Su principal expectativa al usar una aplicación como **Nido Urbano** es encontrar su próximo hogar de manera rápida y sencilla, con la posibilidad de mantener una comunicación efectiva con el arrendador y recibir asesoramiento legal.
+
+
+#### Segmento 2 - Entrevista 5
+
+[![4.png](https://i.postimg.cc/d0vD2WFX/4.png)](https://postimg.cc/SnTyqfJ7)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Eva Luz | Campos Rodas | 49 | 27:12 | 10:09 |
+
+
+|||
+| ------------ | ------------ |
+| Descripción: | Eva Luz es propietaria de un inmueble que alquila habitaciones con el objetivo de generar ingresos económicos. Actualmente, gestiona los pagos de los alquileres y los contratos de forma manual, utilizando un cuaderno y boletas. El contrato lo realiza personalmente y no realiza publicidad, ya que prefiere evitar atraer a personas no deseadas. Por esta razón, ella misma selecciona a los inquilinos según un rango específico que considera apto para vivir en sus habitaciones disponibles para alquiler.<br> Los principales desafíos que enfrenta son la puntualidad en los pagos y el posible daño a la infraestructura de las habitaciones. Eva cree que una aplicación le ayudaría a llegar a inquilinos adecuados según los criterios que establezca y, al mismo tiempo, facilitaría la gestión de los pagos. Mencionó que la aplicación debería incluir información sobre los posibles inquilinos para evaluar si son aptos para alquilar, así como un recordatorio para que los inquilinos realicen sus pagos a tiempo.<br> Además, Eva mencionó que le gustaría que el proceso de visitas se gestionara internamente, pero que el aplicativo permita indicar la fecha y hora acordadas para realizar la visita. Espera que, al utilizar **Nido Urbano**, pueda gestionar de mejor manera los pagos, asegurar la responsabilidad de los inquilinos, proteger la infraestructura de las habitaciones y ver mejoras en sus ingresos económicos.                                                                                                                                                                                                                |
+
+
+
+
+####  Segmento 2 - Entrevista 6
+
+[![5.png](https://i.postimg.cc/L8fS275W/5.png)](https://postimg.cc/w16Zkwh5)
+
+| Nombres | Apellidos | Edad | Inicio | Duración |
+|---------|-----------|------|--------|----------|
+| Ray  | Arizona Esprilla | 20 | 37:21 | 6:14|
+
+|||
+| ------- | ------- |
+|Descripción: | Ray es propietario de dos inmuebles en los cuales alquila habitaciones con el objetivo de cubrir los servicios básicos y, al mismo tiempo, generar ingresos económicos adicionales. Menciona que utiliza boletas y una hoja de cálculo en Excel para gestionar los pagos y el control de sus alquileres. Como estrategias de promoción, Ray suele utilizar redes sociales y, además, coloca una pancarta en el exterior de sus inmuebles para indicar que hay habitaciones disponibles.<br> Uno de los problemas que enfrenta es que algunos inquilinos no realizan los pagos a tiempo. Ray espera que una plataforma digital lo ayude a gestionar este proceso de pagos de manera más eficiente y, además, le facilite la promoción de las habitaciones disponibles, atrayendo así a más inquilinos.<br>Ray también menciona que le gustaría acceder a información relevante como nóminas, reglas y leyes que beneficien tanto a los inquilinos como a él como propietario. Asimismo, desearía contar con una secuencia de pasos para gestionar las solicitudes de visita a las habitaciones y un proceso para la selección de inquilinos, incluyendo la posibilidad de revisar su historial como arrendatarios para determinar si son buenos inquilinos.<br>En cuanto a **Nido Urbano**, Ray espera que la plataforma ofrezca las características mencionadas y que sea rápida, accesible y con una interfaz fácil de usar. Además, espera contar con una gestión eficiente del proceso de pagos, con recordatorios sobre las fechas de pago, para mantener todo en orden. |
+
+
+#### Link de entrevistas: https://acortar.link/7j4FOq
 
 ### 2.2.3 Análisis de entrevistas
+
+###### **Segmento #1: Arrendatario (Compradores primerizos)**
+
+###### Características Objetivas
+
+1. **Edad de los Entrevistados:**
+   - **50%** tienen entre 20 y 23 años.
+   - **25%** tienen más de 50 años.
+
+2. **Prioridades al Buscar una Vivienda:**
+   - **100%** mencionan el precio y la seguridad como factores clave.
+   - **75%** valoran la proximidad a su lugar de trabajo o estudios.
+
+3. **Uso de Herramientas de Búsqueda:**
+   - **75%** utilizan aplicaciones o sitios web para buscar propiedades.
+   - **50%** mencionan problemas con la veracidad de la información en las plataformas actuales.
+
+4. **Preferencias de Funcionalidades:**
+   - **100%** desean filtros avanzados para personalizar la búsqueda (ubicación, precio, seguridad).
+   - **50%** prefieren contacto directo con arrendadores.
+
+###### Características Subjetivas
+
+1. **Desafíos en la Búsqueda:**
+   - **50%** mencionan desconfianza en plataformas tradicionales como Facebook y problemas con la información inexacta de los inmuebles.
+
+2. **Expectativas en la Aplicación:**
+   - **100%** están dispuestos a usar la aplicación si ofrece filtros precisos y seguridad en la información.
+
+###### Relación con las Entrevistas
+- **Alfredo y John** buscan mejorar la búsqueda con filtros y precios accesibles.
+- **Ana y Gianmarco** comparten la necesidad de información verificada y seguridad en la zona.
+
+
+
+###### **Segmento #2: Arrendador (Propietarios de Inmuebles)**
+
+###### Características Objetivas
+
+1. **Edad de los Entrevistados:**
+   - **50%** tienen entre 20 y 30 años.
+   - **50%** tienen entre 40 y 50 años.
+
+2. **Métodos de Gestión Actual:**
+   - **100%** usan métodos manuales o semi-manuales para gestionar los pagos y la selección de inquilinos.
+   - **50%** promocionan sus propiedades en redes sociales y mediante pancartas.
+
+3. **Problemas Comunes:**
+   - **100%** mencionan problemas con la puntualidad de los pagos de los inquilinos.
+   - **50%** enfrentan desafíos relacionados con el daño a la infraestructura.
+
+4. **Funcionalidades Esperadas:**
+   - **100%** quieren una aplicación que les permita gestionar pagos y evaluar la idoneidad de los inquilinos.
+   - **50%** desean acceso a información legal y financiera para una mejor gestión.
+
+###### Características Subjetivas
+
+1. **Selección de Inquilinos:**
+   - **100%** prefieren un proceso de selección riguroso basado en criterios personales o información relevante sobre el historial del inquilino.
+   
+2. **Deseo de Mejora en la Gestión:**
+   - **100%** esperan que una aplicación facilite tanto la gestión de pagos como la promoción de sus propiedades, mejorando la eficiencia y reduciendo los riesgos de impago.
+
+###### Relación con las Entrevistas
+- **Eva Luz** busca un control estricto sobre sus inquilinos y una gestión más eficiente de los pagos.
+- **Ray** se enfoca en la promoción de sus propiedades y en mejorar la gestión de sus alquileres a través de la automatización de procesos.
+
+###### **Conclusiones Generales**
+
+- **Tendencias por Segmento:** Los inquilinos destacan la importancia de los filtros y la seguridad, mientras que los propietarios priorizan la eficiencia en la gestión de pagos y la selección de inquilinos.
+- **Oportunidades para NidoUrbano:** Existe un consenso en ambos segmentos sobre la necesidad de una aplicación que ofrezca transparencia, control y facilidad de uso en la búsqueda y gestión de propiedades.
 
 ### 2.3 Needfinding
 
 ### 2.3.1 User Personas
+  
+  En esta seccion se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuanta nuestro segmento predefinido, ARRENDATARIO y ARRENDADOR. A contunuación se presentra los user person: 
+
+**ARRENDATARIO:**
+
+<img src="https://i.postimg.cc/43w556N2/Jhon-Fernando-Sebastian-Jimenez-Aguilar-1-User-Persona.png"/>
+
+**ARRENDADOR:**
+
+<img src="https://i.postimg.cc/v84J4B0w/Eva-Luz-Campos-Rodas-User-Persona.png"/>
 
 ### 2.3.2 User Task Matrix
 
+En esta seccion se presentan las tareas que realizaran los usuarios, teniendo en cuenta los segmentos de ARRENDATARIOS y ARRENDADOS. A continuacion se presentran los USER TASK MATRIX. Teninedo en cuenta los usuarios. Definimos un rango de Bajo,Medio y Alto.
+
+
+
+|Tareas	|ARRENDADOR (Frecuencia)	|ARRENDADOR (Importancia)	|ARRENDATARIO (Frecuencia)	|ARRENDATARIO (Importancia)|
+|:----------------:|:-----------:|:----------:|:----------:|:----------:|
+|Poner y ver carteles de alquiler y publicidad en folletos|Media	|Alta|	Media|	Alta|
+|Buscar por la zona casas que puedan estar en ventas o alquiler|	Baja	|Media |Alta |Alta|
+|Buscar casas en alquiler|	Media	|Media|	Alta|Alta|
+|Inspeccionar propiedades|	Media	|Alta |Alta|Alta|
+|Contactar propietarios o agentes inmobiliarios|	Media|	Alta|Alta	|Alta|
+|Visitar propiedades en persona|	Media	|Media	|Alta|	Alta|
+|Revisar y comparar precios y condiciones|	Alta	|Alta	|Alta	|Alta|
+|Llamar por teléfono a propietarios o agentes inmobiliarios|	Alta	|Alta	|Alta	|Alta|
+| Preguntar a conocidos o vecinos sobre casas en alquiler|Media|Alta|Alta|Alta|
+
+
 ### 2.3.3 User Journey Mapping
+
+A continuacion se presentran los User Journey Mapping.
+
+**SEGMENTO ARRENDATARIO:**  Aquí para el segmento de arrendatario se presenta el viaje del usuario con la aplicación '_'.
+
+<img src="https://i.postimg.cc/fbbH12FQ/Arrendatario-journey-map.png"/>
+
+**SEGMENTO ARRENDADOR:** Aquí para el segmento de arrendador se presenta el viaje del usuario con la aplicación '_'.
+
+<img src="https://i.postimg.cc/Vs0hYhNY/Arrendador-journey-mapping.png"/>
+
+
 
 ### 2.3.4 Emphaty Mapping
 
-**Compradores Juveniles - Hanna Rojas**
-![image](https://cdn.discordapp.com/attachments/1101963075151745105/1276362442565357568/image.png?ex=66c940a7&is=66c7ef27&hm=8a78e0a2175373a5cffc7e0afd04d5fd185310457f93c6545f4d6777a055f0bd&)
+**Arrendatario - María Rojas**
 
-**Propietarios de Inmuebles Independientes - Mario Pérez**
-![image](https://cdn.discordapp.com/attachments/1101963075151745105/1276362318967734292/image.png?ex=66c9408a&is=66c7ef0a&hm=a5847939de87bd6d7a91865a3a1363612f2aa1acd5f6f1d705d9373c733f9506&)
+<img src="https://i.postimg.cc/Dy1MSFr0/Arrendatario.png"/>
+
+**Arrendador - Gabriel Pérez**
+
+<img src="https://i.postimg.cc/wBvsZZC6/Arrendador.png"/>
 
 ### 2.3.5 As-Is Scenario Mapping
 
-**Compradores Juveniles - Hanna Rojas**
-![image](https://cdn.discordapp.com/attachments/1101963075151745105/1276381405579837580/image.png?ex=66c95251&is=66c800d1&hm=11d88d91be9464b8358b208c6593b3368862a55541efdebb08b5b53efeaf0bd9&)
-**Propietarios de Inmuebles Independientes - Mario Pérez**
-![image](https://cdn.discordapp.com/attachments/1101963075151745105/1276381527239950469/image.png?ex=66c9526e&is=66c800ee&hm=d9f317cfb3170453e14b3b3dd9607280b8ecd8ca10c5beb0ef50bcc1afc98c14&)
+**Arrendatario - María Rojas**
+
+<img src="https://i.postimg.cc/SRG22JDk/Arrendatario-As-Is-Scenario-Mapping.png"/>
+
+**Arrendador - Gabriel Pérez**
+
+<img src="https://i.postimg.cc/tTTmmxnm/Arrendador-As-Is-Scenario-Mapping.png"/>
 
 ## 2.4 Ubiquitous Language:
+
+1. **Property** (Propiedad): 
+   - Un bien inmueble disponible para la venta o alquiler, que puede incluir casas, apartamentos, oficinas, terrenos, entre otros.
+
+2. **Real Estate Market** (Mercado inmobiliario):
+   - El conjunto de compradores, vendedores, arrendadores y arrendatarios involucrados en la compra, venta y alquiler de propiedades.
+
+3. **Residential Property** (Propiedad residencial): 
+   - Inmuebles destinados a ser utilizados como vivienda, tales como casas, departamentos y condominios.
+
+4. **Commercial Property** (Propiedad comercial): 
+   - Inmuebles utilizados para actividades comerciales, como oficinas, tiendas, locales comerciales y edificios de oficinas.
+
+5. **Landlord** (Arrendador): 
+   - La persona o entidad que posee una propiedad y la alquila a otra persona o entidad.
+
+6. **Tenant** (Arrendatario): 
+   - La persona o entidad que alquila una propiedad para uso residencial o comercial.
+
+7. **Buyer** (Comprador): 
+   - La persona o entidad que adquiere una propiedad a través de una transacción de compra.
+
+8. **Seller** (Vendedor): 
+   - La persona o entidad que vende una propiedad a un comprador.
+
+9. **First-time Buyer** (Comprador primerizo): 
+   - Una persona que está comprando una propiedad por primera vez.
+
+10. **Mortgage** (Hipoteca): 
+    - Un préstamo a largo plazo que un comprador toma para financiar la compra de una propiedad, garantizado por el propio inmueble.
+
+11. **Down Payment** (Pago inicial): 
+    - La cantidad de dinero que un comprador paga al momento de comprar una propiedad, generalmente un porcentaje del precio total, con el resto financiado a través de una hipoteca.
+
+12. **Rental Price** (Precio de alquiler): 
+    - El monto que un arrendatario paga periódicamente al arrendador por el uso de una propiedad.
+
+13. **Purchase Price** (Precio de compra): 
+    - El monto total que un comprador paga para adquirir la propiedad de un vendedor.
+
+14. **Lease Agreement** (Contrato de arrendamiento): 
+    - Un contrato legal que detalla los términos y condiciones bajo los cuales una propiedad es alquilada.
+
+15. **Purchase Agreement** (Contrato de compra-venta): 
+    - Un contrato legal que establece los términos de la venta de una propiedad entre el comprador y el vendedor.
+
+16. **Real Estate Agent** (Agente inmobiliario): 
+    - Un profesional que facilita la compra, venta o alquiler de propiedades en representación de compradores, vendedores, arrendadores o arrendatarios.
+
+17. **Property Listing** (Listado de propiedades): 
+    - Una descripción detallada de una propiedad disponible para la venta o alquiler, generalmente publicada en plataformas online o en agencias inmobiliarias.
+
+18. **Market Value** (Valor de mercado): 
+    - El valor estimado de una propiedad basado en las condiciones actuales del mercado inmobiliario.
+
+19. **Appraisal** (Tasación): 
+    - Una evaluación profesional del valor de una propiedad, utilizada para determinar su precio de venta o para respaldar la financiación hipotecaria.
+
+20. **Title Deed** (Escritura de propiedad): 
+    - Un documento legal que certifica la propiedad de un inmueble.
+
+21. **Closing Costs** (Costos de cierre): 
+    - Gastos adicionales asociados con la compra o venta de una propiedad, que pueden incluir honorarios legales, impuestos, y costos de tasación.
+
+22. **Equity** (Capital en propiedad): 
+    - La diferencia entre el valor de mercado de una propiedad y el monto pendiente de cualquier hipoteca o deuda sobre la misma.
+
+23. **Property Management** (Administración de propiedades): 
+    - La gestión de una propiedad en nombre del propietario, que puede incluir la recolección de rentas, mantenimiento, y resolución de conflictos.
+
+24. **Foreclosure** (Ejecución hipotecaria): 
+    - El proceso legal por el cual un prestamista toma posesión de una propiedad después de que el propietario no haya cumplido con los pagos de la hipoteca.
+
+25. **Zoning** (Zonificación): 
+    - Regulaciones locales que determinan cómo se puede usar una propiedad en una determinada área, como residencial, comercial o industrial.
+
+26. **Home Inspection** (Inspección de la vivienda): 
+    - Una revisión detallada de una propiedad, generalmente realizada antes de su compra, para identificar problemas estructurales o de mantenimiento.
+
+27. **Property Tax** (Impuesto a la propiedad): 
+    - Un impuesto que los propietarios deben pagar al gobierno local, basado en el valor de la propiedad.
+
+28. **Homeowners Association (HOA)** (Asociación de propietarios): 
+    - Una organización en comunidades residenciales que gestiona áreas comunes y establece normas para los residentes.
+
+29. **Rental Yield** (Rendimiento de alquiler): 
+    - El retorno anual de una propiedad en alquiler en relación con su valor de mercado, expresado como un porcentaje.
+
+30. **Vacancy Rate** (Tasa de vacantes): 
+    - El porcentaje de propiedades disponibles para alquiler que están desocupadas en un momento dado.
