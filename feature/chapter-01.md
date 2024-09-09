@@ -35,6 +35,7 @@ Nido Urbano
 | Versión | Fecha      | Autor                                                    | Descripción                                                                                       |
 |---------|------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------|
 | 1.0       | 22/08/2024 | Aranda Vallejos, Oscar Gabriel <br><br> Chirinos Zuñiga, Rodrigo Manuel <br><br> Cantoral Sedamano, Alexander ALberto <br><br> Quispe Tipo, Godofredo <br><br> Gomez Hurtado, Miguel Angel | Se redactó la descripción de la startup, los antecedentes y la problemática. Además, se desarrolló el Lean UX Process y se delimitó el segmento objetivo.<br><br> Se completó la sección de Competidores (Incluyendo un análisis competitivo y tácticas frente a competidores). <br><br> Se realizó el diseño de entrevistas, el to-be scenario mapping y el impact mapping. <br><br> Se realizó el Needfinding para obtener las user personas, los user task matrix y el user journey mapping. <br><br> Se completó el Needfinding para obtener el emphaty mapping, el as-is scenario mapping y el lenguaje ubicuo. |
+| 1.0       | 22/08/2024 | Aranda Vallejos, Oscar Gabriel <br><br> Chirinos Zuñiga, Rodrigo Manuel <br><br> Cantoral Sedamano, Alexander ALberto <br><br> Quispe Tipo, Godofredo <br><br> Gomez Hurtado, Miguel Angel | Se concretó con el Requirements Specification,  Product Design y Product Implementation, Validation & Deployment |
 
 
 # PROJECT REPORT COLLABORATION INSIGHTS
@@ -62,7 +63,7 @@ Nido Urbano
 | Métrica                         | Descripción                                                                                          |
 |---------------------------------|------------------------------------------------------------------------------------------------------|
 | Número de commits por autor     | [Imagen] |
-| Historial de cambios            | [Imagen] |
+| Historial de cambios            | [![historial-de-activos.png](https://i.postimg.cc/jdPcVZH5/historial-de-activos.png)](https://postimg.cc/RNCKK1b5) |
 | Distribución de trabajo         | [Imagen] |
 
 #### 4. Participación de Todos los Miembros del Equipo
@@ -251,8 +252,8 @@ Nido Urbano
 
 | Criterio específico                                                                                           | Acciones realizadas   | Conclusiones |
 |--------------------------------------------------------------------------------------------------------------|------------------------|--------------|
-| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Aranda Vallejos, Oscar Gabriel**<br><a class="italic">TB1</a><br> ... <br><br>**Cantoral Sedamano, Alexander ALberto**<br><a class="italic">TB1</a><br> ... <br><br> **Chirinos Zúñiga, Rodrigo Manuel**<br><a class="italic">TB1</a><br> ... <br><br> **Gomez Hurtado, Miguel Angel**<br><a class="italic">TB1</a><br> ... <br><br> **Quispe Tipo, Godofredo**<br><a class="italic">TB1</a><br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
-| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Aranda Vallejos, Oscar Gabriel**<br><a class="italic">TB1</a><br> ... <br><br>**Cantoral Sedamano, Alexander ALberto**<br><a class="italic">TB1</a><br> ... <br><br> **Chirinos Zúñiga, Rodrigo Manuel**<br><a class="italic">TB1</a><br> ... <br><br> **Gomez Hurtado, Miguel Angel**<br><a class="italic">TB1</a><br> ... <br><br> **Quispe Tipo, Godofredo**<br><a class="italic">TB1</a><br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. | **Aranda Vallejos, Oscar Gabriel**<br><a class="italic">TB1</a><br> ... <br><br>**Cantoral Sedamano, Alexander ALberto**<br><a class="italic">TB1</a><br> Empleó de forma exitosa la entrevista y se encuentra preparado para la exposición del desarrollo del review del sprint 1 <br><br> **Chirinos Zúñiga, Rodrigo Manuel**<br><a class="italic">TB1</a><br> ... <br><br> **Gomez Hurtado, Miguel Angel**<br><a class="italic">TB1</a><br> ... <br><br> **Quispe Tipo, Godofredo**<br><a class="italic">TB1</a><br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. | **Aranda Vallejos, Oscar Gabriel**<br><a class="italic">TB1</a><br> ... <br><br>**Cantoral Sedamano, Alexander ALberto**<br><a class="italic">TB1</a><br> Siguiendo lo enseñado en cursos anteriores y consiguió que de desarrolle de manera exitosa sus responsabilidades establecidas para el Sprint número 1 . <br><br> **Chirinos Zúñiga, Rodrigo Manuel**<br><a class="italic">TB1</a><br> ... <br><br> **Gomez Hurtado, Miguel Angel**<br><a class="italic">TB1</a><br> ... <br><br> **Quispe Tipo, Godofredo**<br><a class="italic">TB1</a><br> ... <br><br>  |<br>1ra Conclusion<br><br>2da Conclusion<br><br>3ra Conclusion<br>|
 
 
 # Capítulo I: Introducción
