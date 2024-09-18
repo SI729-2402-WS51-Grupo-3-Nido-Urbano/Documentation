@@ -172,7 +172,7 @@ Para este sprint se desarrolló las user stories relacionadas a la primera épic
 | **Attendees (to planning meeting)** | Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Gomez Hurtado, Miguel Angel / Quispe Tipo, Godofredo |
 | **Sprint n – 1 Review Summary**  | Durante el sprint anterior (Sprint 0), se lograron avances significativos en la creación de la estructura de la Landing Page, incluyendo la definición de los elementos visuales clave y la arquitectura del sitio. Se identificaron mejoras que serán implementadas en futuros sprints.                            |
 | **Sprint n – 1 Retrospective Summary** | En el sprint anterior, los miembros del equipo destacaron la importancia de mantener una comunicación clara y efectiva. Se resaltó el buen flujo de trabajo, pero se sugirió dedicar más tiempo a la revisión de cada módulo antes de integrarlo para evitar posibles problemas en la fase de desarrollo posterior. |
-| **Sprint Goal & User Stories**   |         Nuestro enfoque está en completar el desarrollo de la Landing Page. Creemos que esto ofrecerá un impacto significativo en la presentación inicial del producto a los usuarios potenciales, mejorando la experiencia de descubrimiento y generando interés en nuestros servicios. Esto se confirmará cuando la página esté completamente funcional y recibamos retroalimentación positiva de los usuarios durante las primeras pruebas de usabilidad.                                                             |
+| **Sprint Goal & User Stories**   |         **Our focus is on** *completar el desarrollo de la Landing Page.* **We believe it delivers** *un impacto significativo en la presentación inicial del producto*  **to**  *usuarios potenciales, mejorando la experiencia de descubrimiento y generando interés en nuestros servicios.* **This will be confirmed when** *la página esté completamente funcional y recibamos retroalimentación positiva de los usuarios durante las primeras pruebas de usabilidad.*                                                             |
 | **Sprint 1 Goal**                | Terminar de desarrollar la Landing Page                                                                              |
 | **Sprint 1 Velocity**            | Velocidad estimada de 19 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                             |
 | **Sum of Story Points**          | Se asignaron 19 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado sobre la Landing Page.|
@@ -203,6 +203,10 @@ El objetivo principal de este Sprint es completar el desarrollo inicial de la La
             <td> Assigned To </td>
             <td> Status (To-do / In-Process / To-Review / Done) </td>
         </tr>
+          <!-- Fila de separación para User Story 1 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US001</td>
+        </tr>
         <tr>
             <td> US001 </td>
           	<td> Página de Inicio </td>
@@ -212,6 +216,10 @@ El objetivo principal de este Sprint es completar el desarrollo inicial de la La
             <td> 04 </td>
             <td> Aranda Vallejos, Oscar Gabriel </td>
             <td> Done  </td>
+        </tr>
+          <!-- Fila de separación para User Story 2 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US002</td>
         </tr>
         <tr>
             <td> US002 </td>
@@ -223,6 +231,10 @@ El objetivo principal de este Sprint es completar el desarrollo inicial de la La
             <td> Aranda Vallejos, Oscar Gabriel </td>
             <td> Done </td>
         </tr>
+          <!-- Fila de separación para User Story 3 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US003</td>
+        </tr>
         <tr>
             <td> US003 </td>
           	<td> Pestaña “Contacto”</td>
@@ -233,18 +245,26 @@ El objetivo principal de este Sprint es completar el desarrollo inicial de la La
             <td> Aranda Vallejos, Oscar Gabriel </td>
             <td> Done </td>
         </tr>
+          <!-- Fila de separación para User Story 4 -->
         <tr>
-            <td> US003 </td>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US004</td>
+        </tr>
+        <tr>
+            <td> US004 </td>
           	<td> Envío de correos</td>
-          	<td> 03 </td>
+          	<td> 04 </td>
           	<td> Desarrollo de la sección de correos </td>
             <td> Esta tarea se enfoca en el desarrollo de la sección correos, donde el usuario puede enviar correos directamente a nosotros al correo de la empresa </td>
             <td> 04 </td>
             <td> Aranda Vallejos, Oscar Gabriel </td>
             <td> Done </td>
         </tr>
+          <!-- Fila de separación para User Story 5 -->
         <tr>
-            <td> US004 </td>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US005</td>
+        </tr>
+        <tr>
+            <td> US005 </td>
           	<td> Pestaña de ayuda al usuario </td>
           	<td> 01 </td>
           	<td> Desarrollo de la sección ayuda al usuario </td>
