@@ -55,7 +55,19 @@
 | US032 | Cancelación del pago | Como usuario, quiero cancelar un pago que he iniciado para evitar transacciones no deseadas. | **Escenario 1: Pago cancelado correctamente** **Dado que** el usuario ha iniciado un pago pero decide cancelarlo antes de que se complete la transacción, **Cuando** el usuario selecciona la opción de "Cancelar pago" y confirma la cancelación, **Entonces** el sistema debe detener el proceso de pago, mostrar un mensaje de confirmación de que el pago ha sido cancelado, y enviar una notificación al usuario confirmando que la transacción no se ha realizado. **Escenario 2: Error al cancelar el pago** **Dado que** el usuario intenta cancelar un pago en curso, **Cuando** el sistema no puede detener el proceso de pago porque ya ha sido completado o hay un error en la cancelación, **Entonces** el sistema debe mostrar un mensaje de error indicando que la cancelación no se pudo realizar, ofrecer opciones para contactar al soporte para resolver el problema, y proporcionar detalles sobre el estado actual del pago. | EPIC007 |
 ## 3.3. Impact Mapping
 
-![image](https://i.postimg.cc/ZRMcd6Tk/Impact-map-1-1.png)
+A continuación se cubrirán algunas User Story más importantes.
+
+### Arrendatario: 
+
+**URL de imagen:** [https://postimg.cc/066dKc3D](https://postimg.cc/066dKc3D)
+
+![image](https://i.postimg.cc/KYf9VWDq/Arrendatario-Impact-Map.png)
+
+### Arrendador: 
+
+**URL de imagen:** [https://postimg.cc/VrmqZmvB](https://postimg.cc/VrmqZmvB)
+
+![image](https://i.postimg.cc/Kzg0zYyV/Arrendador-Impact-Map.png)
 
 ## 3.4. Product Backlog
 
