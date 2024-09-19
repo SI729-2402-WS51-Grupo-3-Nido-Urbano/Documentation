@@ -157,7 +157,42 @@ En las siguientes líneas se expresa el diseño realizado de la Landing Page del
 
 ### 4.3.1. Landing Page Wireframe.
 
-Los diseños mostrados se encuentran en el siguiente enlace: https://www.figma.com/design/qDFiFfCrcEGIlfCgn3QmNA/Nido-Urbano?node-id=0-1&t=tRnMnBTIcl8lntVy-1
+Los diseños de los wireframes para la landing page se desarrollaron bajo la herramienta de trabajo de Figma en el siguiente enlace: https://www.figma.com/design/qDFiFfCrcEGIlfCgn3QmNA/Nido-Urbano?node-id=0-1&t=tRnMnBTIcl8lntVy-1
+
+Además, dichos modelos fueron trabajados bajo una estructura visual limpia y organizada, con un enfoque en la usabilidad y la jerarquía de la información. A continuación, se explican algunas de las decisiones de diseño y arquitectura de la información empleadas:
+
+### 1. **Encabezado claro y navegación visible:**
+El encabezado contiene el logotipo de la página en la esquina superior izquierda y un menú de navegación con secciones claves como "Inicio", "Sobre", "Contacto", "Centro de ayuda", "Registrarse" y "Acceder". Este diseño asegura que los usuarios puedan localizar fácilmente las secciones principales del sitio web, manteniendo un enfoque minimalista.
+
+### 2. **Estructura jerárquica del contenido:**
+El contenido está organizado en diferentes bloques que siguen una progresión lógica, lo que mejora la experiencia de usuario. La jerarquía visual permite al usuario navegar con facilidad:
+   - **Encabezado con imagen destacada y texto principal:** Aquí se introduce una llamada a la acción clara o un mensaje principal para captar la atención del usuario.
+   - **Sección de viviendas:** Se presenta un resumen visual con varias opciones de viviendas, cada una con un texto breve y un botón de "Ver más" para obtener información adicional.
+   - **Bloque secundario con descripción:** Incluye una pequeña sección con imágenes y un texto descriptivo que complementa el contenido de las viviendas.
+
+### 3. **Sección geográfica informativa:**
+Hay una sección destinada a destacar las regiones en las que se encuentran las propiedades, con imágenes representativas de las ciudades y el nombre de la ubicación debajo. Esto permite que los usuarios exploren rápidamente las opciones de vivienda en función de la ubicación geográfica.
+
+### 4. **Uso de botones de llamada a la acción:**
+En varias secciones (viviendas, información sobre la empresa, etc.), se utilizan botones de llamada a la acción con el texto "Ver más". Estos elementos son esenciales para guiar al usuario a interactuar con el contenido y obtener más información.
+
+### 5. **Sección “Quiénes Somos” para reforzar confianza:**
+El diseño incluye una breve descripción de la empresa con un botón adicional de "Ver más" para que el visitante pueda dirigirse a otra sección con información adicional acerca de nosotros. Esto fomenta la transparencia y ayuda a generar confianza con el usuario al proporcionar información sobre la compañía.
+
+### 6. **Sección "Contacto"** para comunicarse con la startup:**
+El diseño de esta sección incluye un formulario y una imagen que denota nuestro compromiso por garantizar que el usuario tenga una grata experiencia con nosotros y nuestros servicios. Además, esto permite que el usuario pueda mantenerse conectado con nosotros por correo electrónico para ofrecerle boletines con novedades, notificaciones importantes o para resolver sus dudas.
+
+### 7. **Sección "Centro de Ayuda"**
+Este diseño está enfocado a ofrecerle al usuario una guía de preguntas y respuestas frecuentes para solucionar dudas básicas sobre la aplicación y sus servicios. Además, se pone a disposición un enlace directo a la aplicación en uno de los bloques a modo de llamado de acción para el usuario.
+
+### 8. **Footer con enlaces complementarios:**
+El footer incluye enlaces rápidos a las principales secciones del sitio web, lo que facilita el acceso a esas páginas. Además, hay íconos para redes sociales, lo que promueve la conectividad fuera del sitio web.
+
+### 9. **Diseño adaptativo y accesible:**
+Las imágenes y los bloques de texto están alineados de manera que facilitan su adaptación a pantallas de diferentes tamaños para poder ofrecer un modelo responsive.
+
+### Conclusión:
+Este diseño prioriza la simplicidad, la usabilidad y la accesibilidad. Las decisiones tomadas en cuanto a la arquitectura de la información y el diseño visual facilitan la navegación, la búsqueda de viviendas y la exploración de las distintas secciones del sitio. Además, el uso de jerarquías visuales claras ayuda a dirigir la atención del usuario a las áreas clave, como la selección de viviendas y las regiones disponibles.
 
 - Inicio
 
