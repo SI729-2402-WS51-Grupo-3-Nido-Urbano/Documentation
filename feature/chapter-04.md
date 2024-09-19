@@ -161,74 +161,216 @@ Los diseños de los wireframes para la landing page se desarrollaron bajo la her
 
 Además, dichos modelos fueron trabajados bajo una estructura visual limpia y organizada, con un enfoque en la usabilidad y la jerarquía de la información. A continuación, se explican algunas de las decisiones de diseño y arquitectura de la información empleadas:
 
-### 1. **Encabezado claro y navegación visible:**
+1. **Encabezado claro y navegación visible:**
 El encabezado contiene el logotipo de la página en la esquina superior izquierda y un menú de navegación con secciones claves como "Inicio", "Sobre", "Contacto", "Centro de ayuda", "Registrarse" y "Acceder". Este diseño asegura que los usuarios puedan localizar fácilmente las secciones principales del sitio web, manteniendo un enfoque minimalista.
 
-### 2. **Estructura jerárquica del contenido:**
+2. **Estructura jerárquica del contenido:**
 El contenido está organizado en diferentes bloques que siguen una progresión lógica, lo que mejora la experiencia de usuario. La jerarquía visual permite al usuario navegar con facilidad:
    - **Encabezado con imagen destacada y texto principal:** Aquí se introduce una llamada a la acción clara o un mensaje principal para captar la atención del usuario.
    - **Sección de viviendas:** Se presenta un resumen visual con varias opciones de viviendas, cada una con un texto breve y un botón de "Ver más" para obtener información adicional.
    - **Bloque secundario con descripción:** Incluye una pequeña sección con imágenes y un texto descriptivo que complementa el contenido de las viviendas.
 
-### 3. **Sección geográfica informativa:**
+3. **Sección geográfica informativa:**
 Hay una sección destinada a destacar las regiones en las que se encuentran las propiedades, con imágenes representativas de las ciudades y el nombre de la ubicación debajo. Esto permite que los usuarios exploren rápidamente las opciones de vivienda en función de la ubicación geográfica.
 
-### 4. **Uso de botones de llamada a la acción:**
+4. **Uso de botones de llamada a la acción:**
 En varias secciones (viviendas, información sobre la empresa, etc.), se utilizan botones de llamada a la acción con el texto "Ver más". Estos elementos son esenciales para guiar al usuario a interactuar con el contenido y obtener más información.
 
-### 5. **Sección “Quiénes Somos” para reforzar confianza:**
+5. **Sección “Quiénes Somos” para reforzar confianza:**
 El diseño incluye una breve descripción de la empresa con un botón adicional de "Ver más" para que el visitante pueda dirigirse a otra sección con información adicional acerca de nosotros. Esto fomenta la transparencia y ayuda a generar confianza con el usuario al proporcionar información sobre la compañía.
 
-### 6. **Sección "Contacto"** para comunicarse con la startup:**
+6. **Sección "Contacto"** para comunicarse con la startup:**
 El diseño de esta sección incluye un formulario y una imagen que denota nuestro compromiso por garantizar que el usuario tenga una grata experiencia con nosotros y nuestros servicios. Además, esto permite que el usuario pueda mantenerse conectado con nosotros por correo electrónico para ofrecerle boletines con novedades, notificaciones importantes o para resolver sus dudas.
 
-### 7. **Sección "Centro de Ayuda"**
+7. **Sección "Centro de Ayuda"**
 Este diseño está enfocado a ofrecerle al usuario una guía de preguntas y respuestas frecuentes para solucionar dudas básicas sobre la aplicación y sus servicios. Además, se pone a disposición un enlace directo a la aplicación en uno de los bloques a modo de llamado de acción para el usuario.
 
-### 8. **Footer con enlaces complementarios:**
+8. **Footer con enlaces complementarios:**
 El footer incluye enlaces rápidos a las principales secciones del sitio web, lo que facilita el acceso a esas páginas. Además, hay íconos para redes sociales, lo que promueve la conectividad fuera del sitio web.
 
-### 9. **Diseño adaptativo y accesible:**
+9. **Diseño adaptativo y accesible:**
 Las imágenes y los bloques de texto están alineados de manera que facilitan su adaptación a pantallas de diferentes tamaños para poder ofrecer un modelo responsive.
 
-### Conclusión:
+**Conclusión:**
 Este diseño prioriza la simplicidad, la usabilidad y la accesibilidad. Las decisiones tomadas en cuanto a la arquitectura de la información y el diseño visual facilitan la navegación, la búsqueda de viviendas y la exploración de las distintas secciones del sitio. Además, el uso de jerarquías visuales claras ayuda a dirigir la atención del usuario a las áreas clave, como la selección de viviendas y las regiones disponibles.
+
+### Desktop Web Browser
+
+A continuación se presentan los diseños bajo la perspectiva de un navegador web que es utilizado desde una computadora, laptop u otro equipo de escritorio.
 
 - Inicio
 
 [![Incio.png](https://i.postimg.cc/5tnxXZqH/Incio.png)](https://postimg.cc/p95N7cSx)
 
+Esta imagen representa la sección inicial que el usuario observa al ingresar al sitio web del producto. Esta página cuenta con un bar de navegación en la parte superior, el cual dispone de enlaces directos a las diferentes secciones del sitio. Presenta un banner alegre y un titulo llamativo para captar la atención del usuario, el cual está situado en medio del banner y de manera superior a un botón que permitirá redirigir al usuario a nuestro frontend con la sección de registro. Para ello, contamos con dos botones adicionales en la barra de navegación (uno para iniciar sesión y otro para registrarse en la aplicación).<br><br>
+
 - Sobre nosotros
 
 [![Sobre.png](https://i.postimg.cc/PJZJvS5B/Sobre.png)](https://postimg.cc/zHz89SWj)
+
+Esta figura representa la sección con información acerca de la startup, sus valores y su equipo de desarrollo. Esta cuenta con un banner que refleja la convivencia saludable y la unidad. Además, el usuario puede visualizar un video de referencia para conocer el producto.<br><br>
 
 - Contacto
 
 [![Contact.png](https://i.postimg.cc/SQ8xrtmP/Contact.png)](https://postimg.cc/RqSmCd61)
 
+En esta sección del sitio web, el usuario puede enviar un correo electrónico a través de un formulario junto a un mensaje cálido que fomenta su ingreso a la comunidad de Nido Urbano.<br><br>
+
 - Centro de ayuda
 
 [![Help-center.png](https://i.postimg.cc/9fRhfrMk/Help-center.png)](https://postimg.cc/8FS3KkLd)
 
+En esta sección el usuario puede acudir para visualizar preguntas frecuentes y conocer más del producto. Para ello, este puede seleccionar el bloque con la pregunta de su interés y se desplegará un cuadro de texto junto a la respuesta que busca.<br><br>
+
+### Mobile Web Browser
+
+A continuación se presentan los diseños bajo la perspectiva de un navegador web que es utilizado desde un dispositivo móvil.
+
+- Inicio - División 1
+
+[![Captura-de-pantalla-2024-09-18-205307.png](https://i.postimg.cc/yYdb7ZzR/Captura-de-pantalla-2024-09-18-205307.png)](https://postimg.cc/Z0Gcc0nY)
+
+Esta imagen representa la primera segmentación de la sección inicial para dispositivos móviles. Dicha división es necesaria realizarla para su correcta visualización en la documentación; sin embargo, desde un dispositivo móvil esta división no existe y el usuario puede apreciar la sección en su totalidad. En esta división se puede observar el banner del sitio web y una barra de navegación con enlaces funcionales a excepción de los de inicio de sesión y registro, ya que dichas secciones aún se encuentran en desarrollo y formarán parte del frontend de la aplicación.<br><br>
+
+- Inicio - División 2
+
+[![Captura-de-pantalla-2024-09-18-205433.png](https://i.postimg.cc/NMsxb3sX/Captura-de-pantalla-2024-09-18-205433.png)](https://postimg.cc/94kTQNqX)
+
+Esta imagen representa la segunda segmentación de la sección inicial para dispositivos móviles. En esta se podrán visualizar viviendas que fueron seleccionadas para ofrecerle al usuario un vistazo rápido sobre los tipos de vivienda que puede encontrar.<br><br> 
+
+- Inicio - División 3
+
+[![Captura-de-pantalla-2024-09-18-210052.png](https://i.postimg.cc/4393qydk/Captura-de-pantalla-2024-09-18-210052.png)](https://postimg.cc/2qCmBzh2)
+
+Esta imagen representa la tercera segmentación de la sección inicial para dispositivos móviles. En ella se pueden visualizar mosaicos de las viviendas disponibles por región.<br><br>
+
+- Inicio - División 4
+
+[![Captura-de-pantalla-2024-09-18-210207.png](https://i.postimg.cc/gk7mpp1Y/Captura-de-pantalla-2024-09-18-210207.png)](https://postimg.cc/4mprvDJM)
+
+Esta imagen representa la última división de la sección inicial para dispositivos móviles de la landing page. En ella se puede visualizar un apartado ligero y simplificado de la sección "Nosotros" y el pie de página (footer) con enlaces adicionales a nuestras redes sociales.<br><br>
+
+- Sobre nosotros - División 1
+
+[![Captura-de-pantalla-2024-09-18-210718.png](https://i.postimg.cc/cHP2j1rj/Captura-de-pantalla-2024-09-18-210718.png)](https://postimg.cc/MMb9fS0b)
+
+Esta imagen representa la versión móvil de la sección acerca de nosotros. Esta sección presenta, en su mayoría, los mismos elementos y características que su versión para desktop. Aquello que lo diferencia de su versión para desktop sería la posición más centrada de los elementos y la reducción del tamaño de algunos cuadros de texto para no saturar al usuario. No obstante, la sección mostrado conforma solo una división de la página acerca de nosotros. En esta división se observará un banner que exprese un sentimiento de unión y alegría junto a un video ubicado en la parte inferior.<br><br>
+
+- Sobre nosotros - División 2
+
+[![Captura-de-pantalla-2024-09-18-210815.png](https://i.postimg.cc/Y9Ly1cbx/Captura-de-pantalla-2024-09-18-210815.png)](https://postimg.cc/gXdDW79w)
+
+Esta división conforma la descripción de nuestros valores junto a nuestra misión y visión como empresa.<br><br> 
+
+- Sobre nosotros - División 3
+
+[![Captura-de-pantalla-2024-09-18-211139.png](https://i.postimg.cc/52j5HBPB/Captura-de-pantalla-2024-09-18-211139.png)](https://postimg.cc/w18RZmYM)
+
+Esta división finaliza la sección "nosotros" con una imagen final que demuestre el cariño y apego que buscamos entre nuestros usuarios.<br><br>
+
+- Contacto
+
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/xdykxq8x/Mobile-Device-Contact.png' border='0' alt='Mobile-Device-Contact'/></a>
+
+Esta imagen representa la versión móvil de la sección donde el usuario puede rellenar un formulario para enviarnos un mensaje por correo electrónico y contactarse con nosotros. Para ello, se estableció el diseño responsive correspondiente y mostrado en la figura.<br><br>
+
+- Centro de ayuda
+  
+<a href='https://postimg.cc/yWHxyHB4' target='_blank'><img src='https://i.postimg.cc/zDLh5zcB/Mobile-Device-Help-Center.png' border='0' alt='Mobile-Device-Help-Center'/></a>
+
+Esta figura expresa el diseño para dispositivos móviles de la sección de preguntas frecuentes, manteniendo las características y elementos mencionados en su versión para escritorio y en la introducción de las decisiones de diseño presentadas.<br><br> 
+
 ### 4.3.2. Landing Page Mock-up.
 
-Los diseños de los mock-ups se encuentran en el siguiente enlace: https://www.figma.com/design/qDFiFfCrcEGIlfCgn3QmNA/Nido-Urbano?node-id=35-582&t=tRnMnBTIcl8lntVy-1
+Los diseños de los mock-ups se trabajaron en el siguiente enlace: https://www.figma.com/design/qDFiFfCrcEGIlfCgn3QmNA/Nido-Urbano?node-id=35-582&t=tRnMnBTIcl8lntVy-1
+
+Además, las decisiones de diseño y arquitectura de la información presentadas en los mockups se mantuvieron coherentes y equitativas a los wireframes, priorizando la usabilidad y la navegación intuitiva. Estos elementos fueron refinados mediante la aplicación de lineamientos de color y tipografía especificados en la documentación, lo que mejoró la legibilidad y generó un contraste visual efectivo. De esta manera podemos reforzar la identidad visual de la marca, asegurando una experiencia de usuario más atractiva y cómoda en todas las secciones del sitio.
+
+### Desktop Web Browser
 
 - Index.html
 
 [![Index-html.png](https://i.postimg.cc/PfMBTmyx/Index-html.png)](https://postimg.cc/PNP6MvBs)
 
+Esta figura representa el apartado visual de toda la sección de inicio desde un navegador web de escritorio.<br><br>
+
 - About-us.html
 
-[![About-us-html.png](https://i.postimg.cc/YSfxYxhL/About-us-html.png)](https://postimg.cc/sBxSR7P3)
+[![About-us-html.png](https://i.postimg.cc/YSfxYxhL/About-us-html.png)](https://postimg.cc/sBxSR7P3
+
+Esta figura representa el apartado visual de la sección "nosotros" desde un navegador web de escritorio.<br><br>
 
 - Contact.html
 
 [![Contact-html.png](https://i.postimg.cc/QCR7RBFr/Contact-html.png)](https://postimg.cc/7JnbzZ1B)
 
+Esta figura representa el apartado visual de la página del formulario de contacto desde un dispositivo de tipo desktop.<br><br>
+
 - Help-center.html
 
 [![Help-center-html.png](https://i.postimg.cc/3ND4CKnf/Help-center-html.png)](https://postimg.cc/tnp49H0F)
+
+Esta imagen expresa la sección de preguntas frecuentes desde la perspectiva de un navegador web desplegado en un equipo de escritorio.<br><br>
+
+### Mobile Web Browser
+
+- División 1 de Index.html
+
+[![Whats-App-Image-2024-09-18-at-9-21-27-PM.jpg](https://i.postimg.cc/MZVzSgqR/Whats-App-Image-2024-09-18-at-9-21-27-PM.jpg)](https://postimg.cc/dDsbRH7t)
+
+En este mockup se puede visualizar nuestro titulo, logo, barra de navegacion y banner implementados. Para ello se siguieron los lineamientos de colores y tipografía redactados en el presente informe.<br><br>
+
+- División 2 de Index.html
+
+[![Whats-App-Image-2024-09-18-at-9-30-34-PM.jpg](https://i.postimg.cc/L56DNrV7/Whats-App-Image-2024-09-18-at-9-30-34-PM.jpg)](https://postimg.cc/Pp91qV9z)
+
+En este mockup se puede visualizar rápidamente la información que contendrá una vivienda publicada para conocimiento del usuario.<br><br>
+
+- División 3 de Index.html
+
+[![Whats-App-Image-2024-09-18-at-9-22-04-PM.jpg](https://i.postimg.cc/85GtrFfT/Whats-App-Image-2024-09-18-at-9-22-04-PM.jpg)](https://postimg.cc/yJfFM8TG)
+
+Este mockup expresa una sección donde el usuario podrá explorar los tipos de cuarto según su preferencia (residencia, apartamento o todos).<br><br>
+
+- División 4 de index.html
+
+[![Whats-App-Image-2024-09-18-at-9-22-21-PM.jpg](https://i.postimg.cc/KcR0VgSs/Whats-App-Image-2024-09-18-at-9-22-21-PM.jpg)](https://postimg.cc/qgHc6q78)
+
+[![Whats-App-Image-2024-09-18-at-9-31-16-PM.jpg](https://i.postimg.cc/B6dHRbHd/Whats-App-Image-2024-09-18-at-9-31-16-PM.jpg)](https://postimg.cc/LY3J1HyT)
+
+[![Whats-App-Image-2024-09-18-at-9-22-42-PM.jpg](https://i.postimg.cc/4xJtDrHN/Whats-App-Image-2024-09-18-at-9-22-42-PM.jpg)](https://postimg.cc/YhshgDxJ)
+
+Este mockup refleja la sección donde el usuario podrá observar algunas de las regiones donde nos mantenemos activos.<br><br>
+
+- Division 5 de index.html
+
+[![Captura-de-pantalla-2024-09-18-214348.png](https://i.postimg.cc/PfYwPtm5/Captura-de-pantalla-2024-09-18-214348.png)](https://postimg.cc/c61HzG9p)
+
+Este diseño refleja el apartado simplificado de la página con información acerca de nosotros y el footer con enlaces a nuestras redes sociales y a otras secciones del sitio web.<br><br>
+
+- About-us.html División 1
+
+[![Captura-de-pantalla-2024-09-18-214624.png](https://i.postimg.cc/k4xgXgkr/Captura-de-pantalla-2024-09-18-214624.png)](https://postimg.cc/9RQhLCm1)
+
+En este diseño se ve reflejado el banner y el titulo correspondiente a la sección relacionada a nosotros como startup junto al video de presentación del producto.<br><br>
+
+- About-us.html División 2
+
+[![Captura-de-pantalla-2024-09-18-214736.png](https://i.postimg.cc/hP4tcgsw/Captura-de-pantalla-2024-09-18-214736.png)](https://postimg.cc/c6jSBpVM)
+
+En este diseño se expresan nuestros valores como empresa y se añade un footer con enlaces funcionales que actúan de manera similar a el de la sección de inicio.<br><br>
+
+- Contact.html
+
+[![Mobile-Device-Contact-1.png](https://i.postimg.cc/nh8SqVWS/Mobile-Device-Contact-1.png)](https://postimg.cc/4m51gGsp)
+
+En este diseño móvil se observa el formulario de manera responsive que permite mantener conectado al usuario con nuestro sistema y equipo de atención.<br><br>
+
+- Help-center.html
+
+[![Mobile-Device-Help-Center-1.png](https://i.postimg.cc/W41y1WCs/Mobile-Device-Help-Center-1.png)](https://postimg.cc/XrtL28nP)
+
+En esta imagen se observa el centro de preguntas frecuentes desde la perspectiva de un dispositivo móvil.<br><br>
 
 
 ## 4.4. Web Applications UX/UI Design. 
