@@ -463,38 +463,122 @@ Esta imagen muestra la interfaz de publicación de un inmueble con datos primord
 
 Los Wireflow diagramas se encuentran disponibles en el siguiente enlace: https://www.figma.com/design/FkpZl25682ylB3MvRBf9rp/OPEN-SOURCE-(Copy)?node-id=2014-41&t=ozwaPgxgh7FGTMmy-1
 
-Wireflow User Goal 1
+Wireflow User Goal 1: Este primer flujo hace referencia al primer user goal del segmento de arrendatarios.
 
-* Como arrendatario quiero encontrar un cuarto en alquiler cerca de la zona donde estudio.
+* Como arrendatario quiero tener variedad de opciones sobre cuartos disponibles en alquiler para encontrar una habitación cerca de la zona donde estudio.
 
 User Task 1 & 2
 
 [![Captura-de-pantalla-2024-09-08-233913.png](https://i.postimg.cc/FzmbDXyh/Captura-de-pantalla-2024-09-08-233913.png)](https://postimg.cc/9R8qQSgk)
 
+En la imagen se observan dos secciones:
+
+### User Task 1 (izquierda)
+- **Acción del arrendatario**: El arrendatario accede con una cuenta previamente creada.
+- **Elementos visibles**: El arrendatario ve una interfaz simple que incluye un título, una opción para iniciar sesión ("Log In") y otra para registrarse ("Register").
+
+### User Task 2 (derecha)
+- **Acción del arrendatario**: El arrendatario interactúa con una interfaz donde puede observar las publicaciones que han sido destinadas para su compra o alquiler, dependiendo de la modalidad (venta o renta).
+- **Elementos visibles**:
+  1. El arrendatario observa un **título descriptivo** que explica el propósito de la interfaz.
+  2. El arrendatario observa un encabezado sobre las viviendas destinadas para su compra, las cuales podrán ser desplegadas al hacer clic en el encabezado. Además podrá deslizar hacia la derecha para ver más opciones de viviendas.<br><br>
+
 User Task 3 & 4
 
 [![Captura-de-pantalla-2024-09-08-235025.png](https://i.postimg.cc/mDS1Zz9G/Captura-de-pantalla-2024-09-08-235025.png)](https://postimg.cc/phpLqdk0)
 
-User Task 4 & 5
+En la imagen se observan dos secciones:
+
+### User Task 3 (izquierda)
+- **Acción del arrendatario**: El arrendatario interactúa con una interfaz donde puede observar las publicaciones que han sido destinadas para su compra o alquiler, dependiendo de la modalidad (venta o renta).
+- **Elementos visibles**:
+  1. El arrendatario observa un **título descriptivo** que explica el propósito de la interfaz.
+  2. El arrendatario observa un encabezado sobre las viviendas destinadas para alquiler, las cuales podrán ser desplegadas al hacer clic en el encabezado.
+
+### User Task 4 (derecha)
+- **Acción del arrendatario**: El arrendatario selecciona una vivienda de su interés y selecciona el botón correspondiente (alquilar en este caso) para continuar.
+- **Elementos visibles**:
+  1. El arrendatario observa la cantidad de dormitorios disponibles, el tamaño del inmueble (expresado en metros cuadrados) y sitios de interés cercanos.<br><br>
+
+User Task 5 & 6
 
 [![Captura-de-pantalla-2024-09-08-235100.png](https://i.postimg.cc/prG98wkG/Captura-de-pantalla-2024-09-08-235100.png)](https://postimg.cc/N2XfvP3m)
 
-User Task 6
+En la imagen se observan dos secciones:
+
+### User Task 5 (izquierda)
+- **Acción del arrendatario**: El arrendatario interactúa con un calendario, seleccionando el tiempo de arrendamiento deseado en caso de querer alquilar un inmueble.
+- **Elementos visibles**:
+  1. El arrendatario observará un **título descriptivo** que explica el propósito de la interfaz.
+  2. El arrendatario observará un encabezado para el tiempo de arrendamiento y un cuadro de texto que le indique dicha información.
+  3. El arrendatario observa el botón de continuar y lo selecciona para continuar.
+
+### User Task 6 (derecha)
+- **Acción del arrendatario**: El arrendatario accede a la interfaz de realizar el pago por arrendamiento (alquilar en este caso) para completar sus datos y continuar.
+- **Elementos visibles**:
+  1. El arrendatario selecciona el método de pago en el primer cuadro de texto
+  1. El arrendatario observa los parámetros solicitados en los demás cuadros de texto y los completa.
+  1. El arrendatario observa un botón de acción para continuar con el pago al haber terminado de rellenar su información.<br><br>
+
+User Task 7
 
 [![Captura-de-pantalla-2024-09-08-235131.png](https://i.postimg.cc/pXShdtmy/Captura-de-pantalla-2024-09-08-235131.png)](https://postimg.cc/ykFYftXz)
 
+En la imagen se observa la siguiente sección:
 
-Wireflow User Goal 2
+### User Task 7
+- **Acción del arrendatario**: El arrendatario selecciona el botón de finalizar pago para confirmar su operación y observa que los detalles del pago estén correctos.
+- **Elementos visibles**:
+  1. El arrendatario observará un **título descriptivo** que explica el propósito de la interfaz.
+  2. El arrendatario observará un encabezado inferior con los detalles del pago.
+  3. El arrendatario observará un botón para finalizar la operación.<br><br>
 
-- Como arrendador deseo obtener ganancias favorables a través del alquiler en un proceso eficiente y rentable.
+Wireflow User Goal 2: Este primer flujo hace referencia al primer user goal del segmento de arrendadores.
+
+- Como arrendador, deseo que los arrendatarios puedan visualizar mis inmuebles de manera eficiente para obtener ganancias de manera favorable y rápida.
 
 User Task 1 & 2
 
 [![Captura-de-pantalla-2024-09-08-235504.png](https://i.postimg.cc/sX0QZFTn/Captura-de-pantalla-2024-09-08-235504.png)](https://postimg.cc/9RZFvk5T)
 
+En la imagen se observan dos secciones:
+
+#### User Task 1 (izquierda)
+- **Acción del arrendador**: El arrendador accede con una cuenta previamente creada.
+- **Elementos visibles**: El arrendador ve una interfaz simple que incluye un título, una opción para iniciar sesión ("Log In") y otra para registrarse ("Register"). Esta sección está relacionada con el proceso de autenticación en la plataforma, donde el arrendador introduce sus credenciales para ingresar o se registra si no tiene una cuenta.
+
+#### User Task 2 (derecha)
+- **Acción del arrendador**: El arrendador interactúa con una interfaz más completa y detallada, destinada a la publicación de viviendas.
+- **Elementos visibles**:
+  1. El arrendador observa un **título descriptivo** que explica el propósito de la interfaz.
+  2. Puede añadir **detalles adicionales** si lo desea (opcional).
+  3. El arrendador **rellena campos obligatorios** relacionados con la publicación de una vivienda, como un título o descripción.
+  4. Hay un botón para **regresar** y otro para **continuar** con el proceso.
+  
+En resumen, estas tareas se enfocan en la creación de publicaciones, donde el arrendador puede agregar información detallada sobre la vivienda que desea ofrecer.<br><br>
+
 User Task 3 & 4
 
 [![Captura-de-pantalla-2024-09-08-235610.png](https://i.postimg.cc/KvTk4HBN/Captura-de-pantalla-2024-09-08-235610.png)](https://postimg.cc/hfSP5MCz)
+
+En la imagen se pueden distinguir dos secciones principales:
+
+#### **User Task 3 (izquierda)**
+- **Acción del arrendador**: El arrendador tiene la opción de agregar información adicional sobre la propiedad que está publicando.
+- **Elementos visibles**:
+  1. Un área de texto grande donde el arrendador puede escribir detalles adicionales.
+  2. Un área donde puede cargar archivos, con un botón para eliminar el archivo si es necesario.
+  3. Se observan dos botones en la parte inferior:
+     - **Botón para regresar**: Permite al arrendador volver al paso anterior si desea hacer cambios.
+     - **Botón para continuar**: Permite avanzar al siguiente paso una vez que los datos han sido ingresados o si no se desea agregar más información.
+
+#### **User Task 4 (derecha)**
+- **Acción del arrendador**: En esta etapa, el arrendador revisa la información antes de finalizar la publicación de la propiedad.
+- **Elementos visibles**:
+  1. Se muestra un recuadro donde aparece una previsualización de la publicación o una confirmación visual.
+  2. Un **botón para finalizar** la publicación, lo que indicaría que la propiedad ya está lista para ser publicada exitosamente en la plataforma.
+
+En resumen, estas dos tareas forman parte del proceso de publicación donde se guia al arrendador desde la adición de detalles hasta la confirmación final de su anuncio. Además, es de esta manera como finaliza el flujo del user goal 2.<br><br>
 
 ### 4.4.3. Web Applications Mock-ups.
 
