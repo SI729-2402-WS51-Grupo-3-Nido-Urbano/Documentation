@@ -489,17 +489,28 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/Ed2TJRn8
 En el video se muestran los flujos o caminos que tomará el usuario arrendatario y arrendador en la aplicación. Para ello, se realizaron la implementación de los prototipos observados y se encuentran disponibles en el siguiente enlace: https://www.figma.com/design/FkpZl25682ylB3MvRBf9rp/OPEN-SOURCE---Web-Application-Figma---Nido-Urbano?node-id=2011-1029&t=ozwaPgxgh7FGTMmy-1
 
 ## 4.6. Domain-Driven Software Architecture.
+
+Domain-Driven Software Architecture es un enfoque de diseño que se enfoca en modelar el software según las necesidades y reglas del dominio de negocio. Su objetivo es alinear el desarrollo de software con los problemas reales de la empresa, facilitando soluciones más precisas, flexibles y escalables.
+
+**URL de structurizr:** [https://structurizr.com/share/88274](https://structurizr.com/share/88274)
+
 ### 4.6.1. Software Architecture Context Diagram. 
+
+**URL de contexto:** [https://postimg.cc/s11s2DsP](https://postimg.cc/s11s2DsP)
 
 ![Context.png](https://i.postimg.cc/59S0n6rr/structurizr-88274-System-Context-001.png)
 
 ### 4.6.2. Software Architecture Container Diagrams. 
 
-![Container.png](https://i.postimg.cc/2SM8Vvq1/structurizr-88274-Container-001-1.png)
+**URL de container:** [https://postimg.cc/7fpnTbjb](https://postimg.cc/7fpnTbjb)
+
+![Container.png](https://i.postimg.cc/Gmp7VyQP/Containers-Nido.png)
 
 ### 4.6.3. Software Architecture Components Diagrams. 
 
-![Component.png](https://i.postimg.cc/vmn89B93/structurizr-88274-Component-001.png)
+**URL de componente:** [https://postimg.cc/NLF6J1c5](https://postimg.cc/NLF6J1c5)
+
+![Component.png](https://i.postimg.cc/v8L0mz2L/Component-Nido.png)
 
 ## 4.7. Software Object-Oriented Design. 
 ### 4.7.1. Class Diagrams. 
