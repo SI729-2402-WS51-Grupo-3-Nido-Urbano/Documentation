@@ -100,7 +100,7 @@ El diseño de la plataforma es completamente adaptable a diferentes tamaños de 
 #### 4.2.1. Organization Systems
 Nido Urbano está diseñado para agilizar el proceso de búsqueda y adquisición de propiedades. Por lo tanto, es vital ofrecer una organización estructurada que permita a los usuarios navegar fácilmente por la plataforma y encontrar propiedades que se ajusten a criterios seleccionados por el usuario. Por ejemplo, se consideran factores como la ubicación, el tipo de vivienda (apartamento, casa, etc), el tamaño, las comodidades, cercanía a puntos de interés y el rango de precios. 
 
-[![Captura-de-pantalla-2024-09-06-031231.png](https://i.postimg.cc/63t9qBvx/Captura-de-pantalla-2024-09-06-031231.png)](https://postimg.cc/7CtvQ89K)
+[![Captura-de-pantalla-2024-09-06-031231.png](https://i.postimg.cc/63t9qBvx/Captura-de-pantalla-2024-09-06-031231.png)](https://postimg.cc/7CtvQ89K)<br><br>
 
 #### 4.2.2. Labeling Systems
 El sistema de etiquetado de Nido Urbano garantiza claridad y coherencia en toda la plataforma. Cada propiedad está etiquetada con títulos descriptivos que reflejan fielmente sus características y atributos principales. Además, se emplean etiquetas adicionales para clasificar las propiedades según criterios de búsqueda comunes, lo que facilita a los usuarios encontrar listados relevantes de manera más eficiente.
@@ -112,7 +112,7 @@ El sistema de etiquetado de Nido Urbano garantiza claridad y coherencia en toda 
 | Consistencia              | El sistema de etiquetado sigue un formato uniforme en toda la plataforma, garantizando una experiencia de navegación fluida y coherente. Esta consistencia asegura que los usuarios puedan comparar listados de manera intuitiva, sin confusión, lo que mejora significativamente la usabilidad de la plataforma.  |
 
 [![Header.png](https://i.postimg.cc/509CV2Xr/Header.png)](https://postimg.cc/FfqRbmgb)
-[![Section-Viviendas.png](https://i.postimg.cc/CLnfYtKw/Section-Viviendas.png)](https://postimg.cc/tYygNBPc)
+[![Section-Viviendas.png](https://i.postimg.cc/CLnfYtKw/Section-Viviendas.png)](https://postimg.cc/tYygNBPc)<br><br>
 
 #### 4.2.3. SEO Tags and Meta Tags 
 Nido Urbano utiliza etiquetas SEO y metaetiquetas para mejorar su visibilidad y clasificación en los resultados de los motores de búsqueda más frecuentados por los usuarios. Para ello, dichas etiquetas se incorporan estratégicamente de la siguiente manera:
@@ -121,7 +121,7 @@ Nido Urbano utiliza etiquetas SEO y metaetiquetas para mejorar su visibilidad y 
 * **Meta Descripciones:** Breve descripción que destaca los servicios de la aplicación junto a la misión y visión que comparte.
 * **Metaetiquetas de Palabras Clave:** Incluyen términos relacionados con bienes raíces y el proceso de arrendamiento, venta o compra de viviendas.
 
-Con ello, para encontrar rápidamente nuestra web, el usuario deberá utilizar palabras clave específicas como "Nido Urbano", "propiedades inmobiliarias", "búsqueda rápida viviendas", "Nido Urbano plataforma inmobiliaria", etc.
+Con ello, para encontrar rápidamente nuestra web, el usuario deberá utilizar palabras clave específicas como "Nido Urbano", "propiedades inmobiliarias", "búsqueda rápida viviendas", "Nido Urbano plataforma inmobiliaria", etc.<br><br>
 
 ### 4.2.4. Searching Systems. 
 
@@ -129,27 +129,22 @@ El sistema de búsqueda implementado por Nido Urbano debe ser robusto y simple p
 
 [![buscar-por-tipo-vivienda.png](https://i.postimg.cc/Nj4P6Yyx/buscar-por-tipo-vivienda.png)](https://postimg.cc/hXXrnk1J)
 
-[![buscar-por-region.png](https://i.postimg.cc/GmW9j0ZH/buscar-por-region.png)](https://postimg.cc/JsQ11F7L)
+[![buscar-por-region.png](https://i.postimg.cc/GmW9j0ZH/buscar-por-region.png)](https://postimg.cc/JsQ11F7L)<br><br>
 
 ### 4.2.5. Navigation Systems.
 
 La navegación dentro de la plataforma de Nido Urbano deberá ser intuitiva y fluida para asegurar que el usuario reciba una experiencia agradable. Para ello, son necesarios los siguientes componentes:
 
-- Un menú claro y bien estructurado que permita a los usuarios navegar fácilmente entre diferentes secciones de la plataforma
-
-[![Group-1.png](https://i.postimg.cc/x8Lq76M9/Group-1.png)](https://postimg.cc/64594LMP)
-  
-- Listados de propiedades y búsquedas guardadas
-
-[![Section-Viviendas.png](https://i.postimg.cc/CLnfYtKw/Section-Viviendas.png)](https://postimg.cc/tYygNBPc)
-
-[![Desktop-19.png](https://i.postimg.cc/PrB8S8DX/Desktop-19.png)](https://postimg.cc/N5kMMFbS)
-
-- Barras de navegación (navbars) que proporcionen a los usuarios indicaciones contextuales, ayudándoles a comprender su ubicación actual dentro de la plataforma y facilitando la navegación entre páginas
+- Barras de navegación (navbars) que proporcionen a los usuarios indicaciones contextuales, ayudándoles a comprender su ubicación actual dentro de la plataforma y facilitando la navegación entre páginas. Este tipo de barra se encuentra presente en la sección superior de la página (header) y en la inferior (footer) como se puede apreciar en las siguientes dos imágenes.
 
 [![Header.png](https://i.postimg.cc/509CV2Xr/Header.png)](https://postimg.cc/FfqRbmgb)
 
 [![Captura-de-pantalla-2024-09-06-025525.png](https://i.postimg.cc/d3NGsHDr/Captura-de-pantalla-2024-09-06-025525.png)](https://postimg.cc/K3L1Q5P8)
+<br><br>
+
+- Un menú claro y bien estructurado que permita a los usuarios navegar fácilmente entre diferentes secciones de la plataforma desde un dispositivo móvil. Esto permite adaptar de menra sencilla la barra de navegación que está presente en la versión de desktop.
+
+[![Whats-App-Image-2024-09-19-at-7-23-43-AM-1.jpg](https://i.postimg.cc/G21nWYxn/Whats-App-Image-2024-09-19-at-7-23-43-AM-1.jpg)](https://postimg.cc/JyKFJsFp)<br><br>
 
 ## 4.3. Landing Page UI Design. 
 
@@ -230,7 +225,7 @@ A continuación se presentan los diseños bajo la perspectiva de un navegador we
 
 [![Captura-de-pantalla-2024-09-18-205307.png](https://i.postimg.cc/yYdb7ZzR/Captura-de-pantalla-2024-09-18-205307.png)](https://postimg.cc/Z0Gcc0nY)
 
-Esta imagen representa la primera segmentación de la sección inicial para dispositivos móviles. Dicha división es necesaria realizarla para su correcta visualización en la documentación; sin embargo, desde un dispositivo móvil esta división no existe y el usuario puede apreciar la sección en su totalidad. En esta división se puede observar el banner del sitio web y una barra de navegación con enlaces funcionales a excepción de los de inicio de sesión y registro, ya que dichas secciones aún se encuentran en desarrollo y formarán parte del frontend de la aplicación.<br><br>
+Esta imagen representa la primera segmentación de la sección inicial para dispositivos móviles. Dicha división es necesaria realizarla para su correcta visualización en la documentación; sin embargo, desde un dispositivo móvil esta división no existe y el usuario puede apreciar la sección en su totalidad. En esta división se puede observar el banner del sitio web y un menú desplegable con enlaces funcionales a excepción de los de inicio de sesión y registro, ya que dichas secciones aún se encuentran en desarrollo y formarán parte del frontend de la aplicación.<br><br>
 
 - Inicio - División 2
 
@@ -318,7 +313,7 @@ Esta imagen expresa la sección de preguntas frecuentes desde la perspectiva de 
 
 [![Whats-App-Image-2024-09-18-at-9-21-27-PM.jpg](https://i.postimg.cc/MZVzSgqR/Whats-App-Image-2024-09-18-at-9-21-27-PM.jpg)](https://postimg.cc/dDsbRH7t)
 
-En este mockup se puede visualizar nuestro titulo, logo, barra de navegacion y banner implementados. Para ello se siguieron los lineamientos de colores y tipografía redactados en el presente informe.<br><br>
+En este mockup se puede visualizar nuestro titulo, logo, mnenú desplegable de navegacion y banner implementados. Para ello se siguieron los lineamientos de colores y tipografía redactados en el presente informe.<br><br>
 
 - División 2 de Index.html
 
@@ -379,35 +374,90 @@ Em esta sección se expresa el diseño para nuestro aplicación web utilizando w
 
 ### 4.4.1. Web Applications Wireframes. 
 
-Los wireframes fueron desarrollados en el siguiente enlace: https://www.figma.com/design/FkpZl25682ylB3MvRBf9rp/OPEN-SOURCE-(Copy)?node-id=2009-22&t=ozwaPgxgh7FGTMmy-1
+Los wireframes del web application fueron desarrollados en el siguiente enlace: https://www.figma.com/design/FkpZl25682ylB3MvRBf9rp/OPEN-SOURCE-(Copy)?node-id=2009-22&t=ozwaPgxgh7FGTMmy-1
 
-Interfaz para arrendatarios
+### Desktop
+
+**Interfaz para arrendatarios**
 
 [![Teenant-Flow-2.png](https://i.postimg.cc/RFnnrS1c/Teenant-Flow-2.png)](https://postimg.cc/r0MpxLPm)
+Esta imagen representa la primera interfaz que observará el arrendatario al ingresar en la aplicación web. En ella ofreceremos dos botones de acción para registrarse en el sistema o iniciar sesión de manera directa si el usuario ya dispone de una cuenta creada.<br><br>
 
 [![Teenant-Flow-3.png](https://i.postimg.cc/8zPJpBBk/Teenant-Flow-3.png)](https://postimg.cc/7fdYXzWj)
+Esta figura representa la interfaz que el arrendatario observará al darle clic en el botón de creación de la cuenta que lo dirige a la sección de registro.<br><br>
 
 [![Teenant-Flow-4-2.png](https://i.postimg.cc/7LzxwfcY/Teenant-Flow-4-2.png)](https://postimg.cc/VSYyFLm3)
+Esta figura representa la interfaz que el usuario arrendatario observará al iniciar sesión. En ella podrá observar los inmuebles publicados en la modalidad de venta y renta, donde se le permitirá alternar entre dichas opciones. Además, desde su perspectiva, las viviendas bajo la modalidad de venta serán colocadas en la opción de "comprar" y las que hayan sido publicadas bajo la modalidad de renta serán colocadas en la opción de "alquilar".<br><br>
 
 [![Teenant-Flow-5-2.png](https://i.postimg.cc/tgFH88Zs/Teenant-Flow-5-2.png)](https://postimg.cc/1gRTqCKS)
+Esta figura representa el apartado visual de una vivienda seleccionada con su descripción respectiva y un botón para iniciar el pago por la adquisición del inmueble en cuestión.<br><br>
 
 [![Teenant-Flow-6-2.png](https://i.postimg.cc/PxhkHKY2/Teenant-Flow-6-2.png)](https://postimg.cc/cKDzMRDn)
+Esta imagen refleja la interfaz que el usuario observará si seleccionó una vivienda en la modalidad de renta y si seleccionó el botón de acción para iniciar el pago de arrendamiento. En esta se podrá apreciar un calendario para que el usuario seleccione el periodo deseado de su arrendamiento.<br><br>
 
 [![Teenant-Flow-7-2.png](https://i.postimg.cc/Gtmw82MD/Teenant-Flow-7-2.png)](https://postimg.cc/ftpg1wQW)
+Esta interfaz corresponde a la confirmación del pago por arrendamiento de una vivienda bajo la modalidad de venta o renta, donde el usuario acepta realizar el pago y rellena los datos solicitados.<br><br>
 
 [![Teenant-Flow-8-2.png](https://i.postimg.cc/J0YwbLg2/Teenant-Flow-8-2.png)](https://postimg.cc/FkSn42hy)
+Esta figura representa la interfaz de finalización del pago, tras haber sido confirmado.<br><br>
 
-Interfaz para arrendadores
+**Interfaz para arrendadores**
 
-<a href="https://postimg.cc/r0MpxLPm" target="_blank"><img src="https://i.postimg.cc/RFnnrS1c/Teenant-Flow-2.png" alt="Teenant-Flow-2"/></a><br/><br/>
+<a href="https://postimg.cc/r0MpxLPm" target="_blank"><img src="https://i.postimg.cc/RFnnrS1c/Teenant-Flow-2.png" alt="Teenant-Flow-2"/></a>
+Esta imagen representa la primera interfaz que observará el arrendador al ingresar en la aplicación, donde podrá iniciar sesión o dirigirse a la interfaz de registro para crear su cuenta.<br><br>
 
-<a href="https://postimg.cc/7fdYXzWj" target="_blank"><img src="https://i.postimg.cc/8zPJpBBk/Teenant-Flow-3.png" alt="Teenant-Flow-3"/></a><br/><br/>
+<a href="https://postimg.cc/7fdYXzWj" target="_blank"><img src="https://i.postimg.cc/8zPJpBBk/Teenant-Flow-3.png" alt="Teenant-Flow-3"/></a>
+Esta imagen representa la interfaz de registro de usuario arrendador.<br><br>
 
-<a href="https://postimg.cc/cvhk07Gb" target="_blank"><img src="https://i.postimg.cc/LsKckvC2/Landlord-Flow-4.png" alt="Landlord-Flow-4"/></a><br/><br/>
+<a href="https://postimg.cc/cvhk07Gb" target="_blank"><img src="https://i.postimg.cc/LsKckvC2/Landlord-Flow-4.png" alt="Landlord-Flow-4"/></a>
+<a href="https://postimg.cc/RW4pksyt" target="_blank"><img src="https://i.postimg.cc/QdTLWvqf/Landlord-Flow-5.png" alt="Landlord-Flow-5"/></a>
+Estas dos figuras representan la interfaz para la publicación de una vivienda. Para ello, se le pedirá al arrendador rellenar información relevante y datos adicionales.<br><br>
 
-<a href="https://postimg.cc/RW4pksyt" target="_blank"><img src="https://i.postimg.cc/QdTLWvqf/Landlord-Flow-5.png" alt="Landlord-Flow-5"/></a><br/><br/>
+<a href="https://postimg.cc/F7jnn5Wm" target="_blank"><img src="https://i.postimg.cc/3J65N32y/Landlord-Flow-6.png" alt="Landlord-Flow-6"/></a>
+Esta interfaz será para indicar la finalización satisfactoria del pago.<br><br>
 
-<a href="https://postimg.cc/F7jnn5Wm" target="_blank"><img src="https://i.postimg.cc/3J65N32y/Landlord-Flow-6.png" alt="Landlord-Flow-6"/></a><br/><br/>
+### Mobile
+
+**Interfaz para arrendatarios**
+
+[![Captura-de-pantalla-2024-09-19-085434.png](https://i.postimg.cc/T1zMwtD0/Captura-de-pantalla-2024-09-19-085434.png)](https://postimg.cc/rRNYZCgR)
+
+En esta imagen se aprecia la página de inicio, la cual contará con un botón de acción para dirigirse a la aplicación. Adicionalmente, se expresan los wireframes de la interfaz de inicio de sesión y registro de usuario pertenecientrs a la aplicación.<br><br>
+
+[![Teenant-Flow-4-2.png](https://i.postimg.cc/C1JbS2Wy/Teenant-Flow-4-2.png)](https://postimg.cc/S22nGgSV)
+
+En esta imagen se aprecia la interfaz del arrendatario donde puede observar los inmuebles disponibles para su compra o alquiler, dependiendo de su modalidad. Para alternar entre la opción de compra o alquiler, el arrendatario deberá hacer click en el encabezados con el nombre en cuestión. Además, podrá explorar más viviendas, deslizando la pantalla hacia la derecha.<br><br>
+
+[![Teenant-Flow-5-2.png](https://i.postimg.cc/BvNwVJJH/Teenant-Flow-5-2.png)](https://postimg.cc/cKgmKygL)
+
+En esta interfaz se podrá apreciar la información de la vivienda seleccionada y un botón de acción para iniciar el pago por la adquisición de la propiedad.<br><br>
+
+[![Teenant-Flow-6-2.png](https://i.postimg.cc/XX6jhjQn/Teenant-Flow-6-2.png)](https://postimg.cc/vxXwxdJK)
+
+En esta interfaz se podrá seleccionar el periodo del arrendamiento deseado por el arrendatario solo si la vivienda se encuentra en modalidad de renta y disponible para alquiler.<br><br>
+
+[![Teenant-Flow-7-2.png](https://i.postimg.cc/CL8s9wwX/Teenant-Flow-7-2.png)](https://postimg.cc/kBnSb36v)
+
+Esta imagen refleja la interfaz donde se rellena la información de pago.<br><br>
+
+[![Teenant-Flow-8-2.png](https://i.postimg.cc/x8zLrPVM/Teenant-Flow-8-2.png)](https://postimg.cc/MfznVVTp)
+
+Esta imagen refleja la interfaz de confirmación y detalles de pago.<br><br>
+
+[![Teenant-Flow-9-2.png](https://i.postimg.cc/SQBW6Hcr/Teenant-Flow-9-2.png)](https://postimg.cc/grKXdSSX)
+
+Esta imagen representa la interfaz con el mensaje de finalización de pago satisfactorio.<br><br>
+
+**Interfaz para arrendadores**
+
+[![Captura-de-pantalla-2024-09-19-091638.png](https://i.postimg.cc/pTYJyZ6v/Captura-de-pantalla-2024-09-19-091638.png)](https://postimg.cc/YG0Ws17D)
+
+Esta imagen representa la interfaz de inicio de sesión y registro de arrendadores, la cual es bastante similar a la de los arrendatarios para la versión del sprint actual. En futuras actualizaciones se adicionará un elemento que ofrezca distinción entre ambos.<br><br>
+
+[![Captura-de-pantalla-2024-09-19-091519.png](https://i.postimg.cc/L8wTWh1c/Captura-de-pantalla-2024-09-19-091519.png)](https://postimg.cc/rDGx0Vgj)
+
+Esta imagen muestra la interfaz de publicación de un inmueble con datos primordiales y una vista con datos adicionales que podrá ser accedida al seleccionar el botón de continuar. Además se observa una interfaz que indica que la vivienda se publicó satisfactoriamente, la cual será mostrada tras finalizar la publicación del inmueble.<br><br>
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams. 
 
