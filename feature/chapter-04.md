@@ -296,7 +296,7 @@ Esta figura representa el apartado visual de toda la sección de inicio desde un
 
 - About-us.html
 
-[![About-us-html.png](https://i.postimg.cc/YSfxYxhL/About-us-html.png)](https://postimg.cc/sBxSR7P3
+[![About-us-html.png](https://i.postimg.cc/YSfxYxhL/About-us-html.png)](https://postimg.cc/sBxSR7P3)
 
 Esta figura representa el apartado visual de la sección "nosotros" desde un navegador web de escritorio.<br><br>
 
