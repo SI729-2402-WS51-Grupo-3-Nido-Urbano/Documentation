@@ -584,11 +584,15 @@ En resumen, estas dos tareas forman parte del proceso de publicación donde se g
 
 Los Mock-ups fueron desarrollados en el siguiente enlace: https://www.figma.com/design/FkpZl25682ylB3MvRBf9rp/OPEN-SOURCE-(Copy)?node-id=0-1&t=ozwaPgxgh7FGTMmy-1
 
+### Mock-ups for Desktop Application
+
 Inicio y Registro
 
 <a href="https://postimg.cc/Hrk40fF6" target="_blank"><img src="https://i.postimg.cc/SxWT44db/Acceso-1.png" alt="Acceso-1"/></a><br/><br/>
 
 <a href="https://postimg.cc/bsT9tzVG" target="_blank"><img src="https://i.postimg.cc/YCcnT01x/Registro-1.png" alt="Registro-1"/></a><br/><br/>
+
+En estas figuras se aprecian las pantallas de inicio de sesión y de registro que fueron explicadas en los wireframes. En la interfaz de inicio de sesión se observa que el usuario puede ingresar colocando su email y contraseña solo si su cuenta ya ha sido creada previamente; de lo contrario, deberá crear su cuenta en la sección de registro. De manera adicional se añade un enlace para loguearse mediante cuenta de google.
 
 Interfaz para arrendatarios
 
@@ -613,6 +617,24 @@ Interfaz para arrendadores
 <a href="https://postimg.cc/tYZVX9QQ" target="_blank"><img src="https://i.postimg.cc/hPM81G2j/Desktop-27.png" alt="Desktop-27"/></a><br/><br/>
 
 <a href="https://postimg.cc/z3PgZVQF" target="_blank"><img src="https://i.postimg.cc/sD39WW9q/Desktop-28.png" alt="Desktop-28"/></a><br/><br/>
+
+### Mock-ups for Mobile Application
+
+Inicio y Registro
+
+[![Captura-de-pantalla-2024-09-19-165600.png](https://i.postimg.cc/X7Q2dmMX/Captura-de-pantalla-2024-09-19-165600.png)](https://postimg.cc/0bKdqtyq)
+
+Interfaz para arrendatarios
+
+[![Captura-de-pantalla-2024-09-19-170514.png](https://i.postimg.cc/L8P12gVR/Captura-de-pantalla-2024-09-19-170514.png)](https://postimg.cc/3kKRZR6b)
+
+Esta imagen representa la versión móvil de la interfaz total destinada a los arrendatarios. Este conjunto cuenta con una pantalla para la visualización de propiedades en alquiler y venta que pueden ser alternados mediante un clic en las cabeceras mencionadas. Además, se muestran las pantallas de visualización de detalles del inmueble, un calendario para indicar el tiempo del arrendamiento y la gestión del pago.
+
+Interfaz para arrendadores
+
+[![Captura-de-pantalla-2024-09-19-170613.png](https://i.postimg.cc/nzFj4Rfc/Captura-de-pantalla-2024-09-19-170613.png)](https://postimg.cc/McLpxYGh)
+
+Esta imagen representa la versión móvil de las pantallas destinadas a la funcionalidad de la publicación de una propeidad inmobiliaria con información obligatoria requerida segmentada en dos pantallas (principal y adicional).
 
 ## 4.5. Web Applications Prototyping. 
 
