@@ -359,11 +359,9 @@ El entrevistado es un estudiante universitario de 21 años que está buscando al
   En esta seccion se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuanta nuestro segmento predefinido, ARRENDATARIO y ARRENDADOR. A contunuación se presentra los user person: 
 
 **ARRENDATARIO:**
-[![Jhon-Fernando-Sebasti-n-Jim-nez-Aguilar-1.png](https://i.postimg.cc/9fM3hFCv/Jhon-Fernando-Sebasti-n-Jim-nez-Aguilar-1.png)](https://postimg.cc/FY2CbvfZ)
-
+[![Justo-Diez-Villa-Fuentes.png](https://i.postimg.cc/y6ZxdvB2/Justo-Diez-Villa-Fuentes.png)](https://postimg.cc/4nXs2vY1)
 **ARRENDADOR:**
-
-[![Eva-Luz-Campos-Rodas.png](https://i.postimg.cc/v85NC654/Eva-Luz-Campos-Rodas.png)](https://postimg.cc/jCdc72gT)
+[![Maria-Naty-Gomez-Fuigueora.png](https://i.postimg.cc/DwK28T5X/Maria-Naty-Gomez-Fuigueora.png)](https://postimg.cc/zV0mc4sz)
 
 ### 2.3.2 User Task Matrix
 
@@ -390,11 +388,11 @@ A continuacion se presentran los User Journey Mapping.
 
 **SEGMENTO ARRENDATARIO:**  Aquí para el segmento de arrendatario se presenta el viaje del usuario con la aplicación NidoUrbano.
 
-[![Customer-journey-map-1-1.png](https://i.postimg.cc/Vs3b0dhW/Customer-journey-map-1-1.png)](https://postimg.cc/dDj0ztwh)
+[![Customer-journey-map-Justo-Diez-Villa-Fuente.png](https://i.postimg.cc/wBL4MCf7/Customer-journey-map-Justo-Diez-Villa-Fuente.png)](https://postimg.cc/7CPnQWyk)
 
 **SEGMENTO ARRENDADOR:** Aquí para el segmento de arrendador se presenta el viaje del usuario con la aplicación NidoUrbano.
 
-[![Customer-journey-map-1.png](https://i.postimg.cc/4yKNNQZR/Customer-journey-map-1.png)](https://postimg.cc/vxsd09c0)
+[![Customer-journey-map-Maria-Naty-Gomez-Fuigueora.png](https://i.postimg.cc/NMrsKjhR/Customer-journey-map-Maria-Naty-Gomez-Fuigueora.png)](https://postimg.cc/bDpcM8wv)
 
 
 ### 2.3.4 Emphaty Mapping
