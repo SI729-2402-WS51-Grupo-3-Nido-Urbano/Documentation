@@ -588,35 +588,35 @@ Los Mock-ups fueron desarrollados en el siguiente enlace: https://www.figma.com/
 
 Inicio y Registro
 
-<a href="https://postimg.cc/Hrk40fF6" target="_blank"><img src="https://i.postimg.cc/SxWT44db/Acceso-1.png" alt="Acceso-1"/></a><br/><br/>
+<a href="https://postimg.cc/Hrk40fF6" target="_blank"><img src="https://i.postimg.cc/SxWT44db/Acceso-1.png" alt="Acceso-1"/></a>
 
-<a href="https://postimg.cc/bsT9tzVG" target="_blank"><img src="https://i.postimg.cc/YCcnT01x/Registro-1.png" alt="Registro-1"/></a><br/><br/>
+<a href="https://postimg.cc/bsT9tzVG" target="_blank"><img src="https://i.postimg.cc/YCcnT01x/Registro-1.png" alt="Registro-1"/></a>
 
-En estas figuras se aprecian las pantallas de inicio de sesión y de registro que fueron explicadas en los wireframes. En la interfaz de inicio de sesión se observa que el usuario puede ingresar colocando su email y contraseña solo si su cuenta ya ha sido creada previamente; de lo contrario, deberá crear su cuenta en la sección de registro. De manera adicional se añade un enlace para loguearse mediante cuenta de google.
+En estas figuras se aprecian las pantallas de inicio de sesión y de registro que fueron explicadas en los wireframes. En la interfaz de inicio de sesión se observa que el usuario puede ingresar colocando su email y contraseña solo si su cuenta ya ha sido creada previamente; de lo contrario, deberá crear su cuenta en la sección de registro. De manera adicional se añade un enlace para loguearse mediante cuenta de google.<br><br>
 
 Interfaz para arrendatarios
 
-<a href="https://postimg.cc/Jyw3wGG2" target="_blank"><img src="https://i.postimg.cc/6QqMvZwt/Desktop-19-1.png" alt="Desktop-19-1"/></a><br/><br/>
+<a href="https://postimg.cc/Jyw3wGG2" target="_blank"><img src="https://i.postimg.cc/6QqMvZwt/Desktop-19-1.png" alt="Desktop-19-1"/></a>
 
-<a href="https://postimg.cc/v4x7SWHn" target="_blank"><img src="https://i.postimg.cc/52nPy3hs/Desktop-32.png" alt="Desktop-32"/></a><br/><br/>
+<a href="https://postimg.cc/v4x7SWHn" target="_blank"><img src="https://i.postimg.cc/52nPy3hs/Desktop-32.png" alt="Desktop-32"/></a>
 
-<a href="https://postimg.cc/HVBPC4gP" target="_blank"><img src="https://i.postimg.cc/52VcLnk1/Desktop-20.png" alt="Desktop-20"/></a><br/><br/>
+<a href="https://postimg.cc/HVBPC4gP" target="_blank"><img src="https://i.postimg.cc/52VcLnk1/Desktop-20.png" alt="Desktop-20"/></a>
 
-<a href="https://postimg.cc/XpVDh1TC" target="_blank"><img src="https://i.postimg.cc/28vR1PG2/Desktop-33.png" alt="Desktop-33"/></a><br/><br/>
+<a href="https://postimg.cc/XpVDh1TC" target="_blank"><img src="https://i.postimg.cc/28vR1PG2/Desktop-33.png" alt="Desktop-33"/></a>
 
-<a href="https://postimg.cc/MX0F9Jrw" target="_blank"><img src="https://i.postimg.cc/2jgN8zQ1/Desktop-21.png" alt="Desktop-21"/></a><br/><br/>
+<a href="https://postimg.cc/MX0F9Jrw" target="_blank"><img src="https://i.postimg.cc/2jgN8zQ1/Desktop-21.png" alt="Desktop-21"/></a>
 
-<a href="https://postimg.cc/t7Gcd4kD" target="_blank"><img src="https://i.postimg.cc/HWrCgJyG/Desktop-22.png" alt="Desktop-22"/></a><br/><br/>
+<a href="https://postimg.cc/t7Gcd4kD" target="_blank"><img src="https://i.postimg.cc/HWrCgJyG/Desktop-22.png" alt="Desktop-22"/></a>
 
-<a href="https://postimg.cc/BPCHHgpW" target="_blank"><img src="https://i.postimg.cc/mkvjxpFr/Desktop-23.png" alt="Desktop-23"/></a><br/><br/>
+<a href="https://postimg.cc/BPCHHgpW" target="_blank"><img src="https://i.postimg.cc/mkvjxpFr/Desktop-23.png" alt="Desktop-23"/></a><br><br>
 
 Interfaz para arrendadores
 
-<a href="https://postimg.cc/7fFJhjwC" target="_blank"><img src="https://i.postimg.cc/P5xW3k7M/Desktop-26.png" alt="Desktop-26"/></a><br/><br/>
+<a href="https://postimg.cc/7fFJhjwC" target="_blank"><img src="https://i.postimg.cc/P5xW3k7M/Desktop-26.png" alt="Desktop-26"/></a>
 
-<a href="https://postimg.cc/tYZVX9QQ" target="_blank"><img src="https://i.postimg.cc/hPM81G2j/Desktop-27.png" alt="Desktop-27"/></a><br/><br/>
+<a href="https://postimg.cc/tYZVX9QQ" target="_blank"><img src="https://i.postimg.cc/hPM81G2j/Desktop-27.png" alt="Desktop-27"/></a>
 
-<a href="https://postimg.cc/z3PgZVQF" target="_blank"><img src="https://i.postimg.cc/sD39WW9q/Desktop-28.png" alt="Desktop-28"/></a><br/><br/>
+<a href="https://postimg.cc/z3PgZVQF" target="_blank"><img src="https://i.postimg.cc/sD39WW9q/Desktop-28.png" alt="Desktop-28"/></a><br><br>
 
 ### Mock-ups for Mobile Application
 
@@ -624,17 +624,19 @@ Inicio y Registro
 
 [![Captura-de-pantalla-2024-09-19-165600.png](https://i.postimg.cc/X7Q2dmMX/Captura-de-pantalla-2024-09-19-165600.png)](https://postimg.cc/0bKdqtyq)
 
+Este conjunto muestra la pantalla de bienvenida que invita al usuario a registrarse para encontrar un nuevo hogar, con un botón de "Regístrate Ahora". La segunda pantalla ofrece opciones para ingresar con Google o mediante correo electrónico y contraseña, con botones para "Iniciar Sesión" y "Crear Cuenta". La tercera pantalla posee un registro que solicita nombre, correo electrónico, y contraseña, con un botón de "Crear Cuenta". Cada pantalla tiene un esquema de colores que incluye naranja, negro, y blanco, y todas presentan el logo de NidoUrbano.<br><br>
+
 Interfaz para arrendatarios
 
 [![Captura-de-pantalla-2024-09-19-170514.png](https://i.postimg.cc/L8P12gVR/Captura-de-pantalla-2024-09-19-170514.png)](https://postimg.cc/3kKRZR6b)
 
-Esta imagen representa la versión móvil de la interfaz total destinada a los arrendatarios. Este conjunto cuenta con una pantalla para la visualización de propiedades en alquiler y venta que pueden ser alternados mediante un clic en las cabeceras mencionadas. Además, se muestran las pantallas de visualización de detalles del inmueble, un calendario para indicar el tiempo del arrendamiento y la gestión del pago.
+Esta imagen representa la versión móvil de la interfaz total destinada a los arrendatarios. Este conjunto cuenta con una pantalla para la visualización de propiedades en alquiler y venta que pueden ser alternados mediante un clic en las cabeceras mencionadas. Además, se muestran las pantallas de visualización de detalles del inmueble, un calendario para indicar el tiempo del arrendamiento y la gestión del pago.<br><br>
 
 Interfaz para arrendadores
 
 [![Captura-de-pantalla-2024-09-19-170613.png](https://i.postimg.cc/nzFj4Rfc/Captura-de-pantalla-2024-09-19-170613.png)](https://postimg.cc/McLpxYGh)
 
-Esta imagen representa la versión móvil de las pantallas destinadas a la funcionalidad de la publicación de una propeidad inmobiliaria con información obligatoria requerida segmentada en dos pantallas (principal y adicional).
+Esta imagen representa la versión móvil de las pantallas destinadas a la funcionalidad de la publicación de una propeidad inmobiliaria con información obligatoria requerida segmentada en dos pantallas (principal y adicional).<br><br>
 
 ## 4.5. Web Applications Prototyping. 
 
