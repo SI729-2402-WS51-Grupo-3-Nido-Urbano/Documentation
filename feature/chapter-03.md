@@ -4,11 +4,11 @@
 
 **Arrendatario (Compradores juveniles)**
 
-![image](https://i.postimg.cc/WbwXynP3/Captura-de-pantalla-2024-09-01-011756.png)
+[![TO-BE-ARRENDATARIO.png](https://i.postimg.cc/kg2q1vw7/TO-BE-ARRENDATARIO.png)](https://postimg.cc/RWxkqfjY)
 
 **Arrendador (Propietarios de Inmuebles Independientes)**
 
-![image](https://i.postimg.cc/wTwDJbph/Captura-de-pantalla-2024-09-01-012147.png)
+[![TO-BE-ARRENDADOR.png](https://i.postimg.cc/66MkkG8q/TO-BE-ARRENDADOR.png)](https://postimg.cc/z3R2WvSY)
 
 
 ## 3.2. User Stories
