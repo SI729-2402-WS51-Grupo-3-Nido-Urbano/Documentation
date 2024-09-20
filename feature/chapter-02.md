@@ -359,11 +359,9 @@ El entrevistado es un estudiante universitario de 21 años que está buscando al
   En esta seccion se presentan las personas que se han identificado como usuarios de la aplicación. Teniendo en cuanta nuestro segmento predefinido, ARRENDATARIO y ARRENDADOR. A contunuación se presentra los user person: 
 
 **ARRENDATARIO:**
-[![Jhon-Fernando-Sebasti-n-Jim-nez-Aguilar-1.png](https://i.postimg.cc/9fM3hFCv/Jhon-Fernando-Sebasti-n-Jim-nez-Aguilar-1.png)](https://postimg.cc/FY2CbvfZ)
-
+[![Justo-Diez-Villa-Fuentes.png](https://i.postimg.cc/y6ZxdvB2/Justo-Diez-Villa-Fuentes.png)](https://postimg.cc/4nXs2vY1)
 **ARRENDADOR:**
-
-[![Eva-Luz-Campos-Rodas.png](https://i.postimg.cc/v85NC654/Eva-Luz-Campos-Rodas.png)](https://postimg.cc/jCdc72gT)
+[![Maria-Naty-Gomez-Fuigueora.png](https://i.postimg.cc/DwK28T5X/Maria-Naty-Gomez-Fuigueora.png)](https://postimg.cc/zV0mc4sz)
 
 ### 2.3.2 User Task Matrix
 
