@@ -388,11 +388,11 @@ A continuacion se presentran los User Journey Mapping.
 
 **SEGMENTO ARRENDATARIO:**  Aquí para el segmento de arrendatario se presenta el viaje del usuario con la aplicación NidoUrbano.
 
-[![Customer-journey-map-1-1.png](https://i.postimg.cc/Vs3b0dhW/Customer-journey-map-1-1.png)](https://postimg.cc/dDj0ztwh)
+[![Customer-journey-map-Justo-Diez-Villa-Fuente.png](https://i.postimg.cc/wBL4MCf7/Customer-journey-map-Justo-Diez-Villa-Fuente.png)](https://postimg.cc/7CPnQWyk)
 
 **SEGMENTO ARRENDADOR:** Aquí para el segmento de arrendador se presenta el viaje del usuario con la aplicación NidoUrbano.
 
-[![Customer-journey-map-1.png](https://i.postimg.cc/4yKNNQZR/Customer-journey-map-1.png)](https://postimg.cc/vxsd09c0)
+[![Customer-journey-map-Maria-Naty-Gomez-Fuigueora.png](https://i.postimg.cc/NMrsKjhR/Customer-journey-map-Maria-Naty-Gomez-Fuigueora.png)](https://postimg.cc/bDpcM8wv)
 
 
 ### 2.3.4 Emphaty Mapping
