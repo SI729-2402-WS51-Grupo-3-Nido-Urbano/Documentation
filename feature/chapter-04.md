@@ -674,7 +674,7 @@ Domain-Driven Software Architecture es un enfoque de diseño que se enfoca en mo
 ### 4.7.1. Class Diagrams. 
 [![Diagrama-Clases-Nido-Urbano-Diagrama-TB1.png](https://i.postimg.cc/J4bhxsjd/Diagrama-Clases-Nido-Urbano-Diagrama-TB1.png)](https://postimg.cc/nChZccRv)
 <p>La URL del diagrama de clase:</p>
-https://lucid.app/lucidchart/789b879d-ed55-4f2f-9bd7-15dcf88e7567/edit?viewport_loc=-5865%2C-1873%2C10977%2C5020%2C0_0&invitationId=inv_b1927ba5-fd62-419c-9ff6-3127c5aaf740)
+https://lucid.app/lucidchart/789b879d-ed55-4f2f-9bd7-15dcf88e7567/edit?viewport_loc=-5865%2C-1873%2C10977%2C5020%2C0_0&invitationId=inv_b1927ba5-fd62-419c-9ff6-3127c5aaf740
 
 
 
