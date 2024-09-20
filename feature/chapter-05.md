@@ -81,27 +81,31 @@ Dentro de nuestra organización en GitHub, se encuentran los repositorios corres
 |Web Services|https://github.com/orgs/SI729-2402-WS51-Grupo-3-Nido-Urbano/repositories |
 |Frontend Web Applications|https://github.com/orgs/SI729-2402-WS51-Grupo-3-Nido-Urbano/repositories |
 
-## Implementación de GitFlow
+### Implementación de GitFlow
 
-Para el desarrollo de nuestro proyecto, adoptaremos el modelo GitFlow propuesto por Vincent Driessen en "A successful Git branching model". Este flujo de trabajo se aplicará a todos los repositorios que conforman nuestra solución.
+Hemos adoptado el modelo de desarrollo **GitFlow**, propuesto por Vincent Driessen en *"A Successful Git Branching Model"*. Este flujo se aplicará a todos los repositorios y servirá como base para la gestión eficiente de ramas y versiones. Además, hemos decidido seguir las recomendaciones de **Conventional Commits** para estandarizar los mensajes de commit en todas las ramas del repositorio, facilitando la trazabilidad y la coherencia.
 
-Además, utilizaremos Conventional Commits para estandarizar los mensajes de cada commit en todas las ramas del repositorio.
+#### Ramas en GitFlow
 
-Para implementar GitFlow, crearemos las siguientes ramas en cada repositorio:
+En cada repositorio se crearán las siguientes ramas clave:
 
 | **Rama**   | **Descripción** |
 |------------|-----------------|
-| **main**   | La rama principal del repositorio que contiene el código estable y definitivo. Solo se actualizará con versiones estables del software. Cualquier cambio en esta rama deberá ser revisado por todo el equipo. |
-| **develop**| Contiene el código más reciente en desarrollo y sirve como base para futuras versiones. Se fusionará con las ramas de características ("feature") y la principal ("main") cuando sea necesario. Los miembros del equipo pueden realizar fusiones a esta rama si lo consideran necesario. |
-| **feature**| Utilizada para el desarrollo de nuevas funciones o características. Se crea a partir de la rama "develop" y, una vez completado el desarrollo, se fusiona nuevamente con "develop". |
-| **release**| Se usa para preparar el código que incluye varias nuevas características para una nueva versión. Puede fusionarse con las ramas "develop" y "main" después de una revisión parcial. |
-| **hotfixes**| Permite corregir errores en el código de la rama "main". Una vez corregidos, los cambios se fusionan tanto en la rama "main" como en la rama "develop". |
+| **main**   | Contiene el código estable y definitivo del proyecto. Solo se actualizará con versiones completamente validadas y revisadas por todo el equipo. |
+| **develop**| Almacena el código en desarrollo. Es la rama base para la integración de nuevas características y futuras versiones. Las ramas "feature" y "release" se fusionan en "develop". |
+| **feature/xxx** | Ramas dedicadas a la implementación de nuevas características. Se crean desde "develop" y se nombran de forma descriptiva (ejemplo: `feature/nueva-funcionalidad`). Se fusionan de nuevo a "develop" una vez completado el desarrollo. |
+| **release/xxx** | Utilizada para preparar una nueva versión del código. Se crean desde "develop" y, tras revisión, se fusionan tanto en "main" como en "develop". Las ramas de release se nombrarán siguiendo el formato `release/vX.X.X` (ejemplo: `release/v1.0.0`). |
+| **hotfix/xxx**| Se usan para corregir errores críticos encontrados en "main". Las correcciones se fusionan de vuelta tanto a "main" como a "develop". Las ramas de hotfix seguirán el formato `hotfix/corrección` (ejemplo: `hotfix/correccion-login`). |
 
-<br>
+### Flujo de Trabajo con GitFlow
+
+El flujo de GitFlow facilita un desarrollo estructurado y ordenado. A continuación, se incluye un diagrama que ilustra el proceso general del modelo GitFlow:
 
 <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*X8WN29vxbiyc3XFFfWanTA.png" width="60%" alt="Ejemplo flujo de Gitflow"/>
 </p>
+
+Este enfoque nos permite trabajar de manera colaborativa, asegurando la calidad del código y permitiendo gestionar de forma eficaz las diferentes fases del desarrollo, desde la creación de nuevas características hasta la publicación de versiones estables y la corrección de errores.
 
 ### 5.1.3. Source Code Style Guide & Conventions. 
 
@@ -157,10 +161,10 @@ Una vez completados estos pasos y realizada la configuración, y tras un breve p
 
 ## 5.2. Landing Page, Services & Applications Implementation. 
 ### 5.2.1. Sprint 1 
-
 ## Sprint #1
-
 #### 5.2.1.1. Sprint Planning 1. 
+
+Para este sprint se desarrolló las user stories relacionadas a la primera épica, la cuál tiene que ver con el desarrollo de la Landing Page.
 
 | **Aspecto**                      | **Detalles**                                                                                                           |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------------|
@@ -170,14 +174,16 @@ Una vez completados estos pasos y realizada la configuración, y tras un breve p
 | **Location**                     | La reunión se realizó de forma virtual por la plataforma Discord                                                        |
 | **Prepared By**                  | TechMinds                                                                                                              |
 | **Attendees (to planning meeting)** | Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Gomez Hurtado, Miguel Angel / Quispe Tipo, Godofredo |
-| **Sprint n – 1 Review Summary**  | Dado que se trata del primer sprint, no se dispone de resúmenes ni resultados previos.                                 |
-| **Sprint n – 1 Retrospective Summary** | Dado que este es el primer sprint, a continuación se presentan las opiniones de los miembros del equipo: <br> - Todo el equipo coincide en la importancia de considerar las aportaciones de todos sus miembros y de trabajar de manera colaborativa. <br> - Todos destacaron la relevancia del flujo de trabajo establecido para el desarrollo de la Landing Page, así como las diversas consideraciones que deben tenerse en cuenta. |
-| **Sprint Goal & User Stories**   |                                                                                                                        |
+| **Sprint n – 1 Review Summary**  | Durante el sprint anterior (Sprint 0), se lograron avances significativos en la creación de la estructura de la Landing Page, incluyendo la definición de los elementos visuales clave y la arquitectura del sitio. Se identificaron mejoras que serán implementadas en futuros sprints.                            |
+| **Sprint n – 1 Retrospective Summary** | En el sprint anterior, los miembros del equipo destacaron la importancia de mantener una comunicación clara y efectiva. Se resaltó el buen flujo de trabajo, pero se sugirió dedicar más tiempo a la revisión de cada módulo antes de integrarlo para evitar posibles problemas en la fase de desarrollo posterior. |
+| **Sprint Goal & User Stories**   |         **Our focus is on** *completar el desarrollo de la Landing Page.* **We believe it delivers** *un impacto significativo en la presentación inicial del producto*  **to**  *usuarios potenciales, mejorando la experiencia de descubrimiento y generando interés en nuestros servicios.* **This will be confirmed when** *la página esté completamente funcional y recibamos retroalimentación positiva de los usuarios durante las primeras pruebas de usabilidad.*                                                             |
 | **Sprint 1 Goal**                | Terminar de desarrollar la Landing Page                                                                              |
-| **Sprint 1 Velocity**            | 15 puntos de historia completados en el Sprint 1. Esto se basa en la suma de los puntos asignados a las historias de usuario que fueron completadas durante este sprint.                                                                             |
-| **Sum of Story Points**          | 15 puntos de historia                                                                   |
+| **Sprint 1 Velocity**            | Velocidad estimada de 19 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                             |
+| **Sum of Story Points**          | Se asignaron 19 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado sobre la Landing Page.|
 
 #### 5.2.1.2. Sprint Backlog 1. 
+
+El objetivo principal de este Sprint es completar el desarrollo inicial de la Landing Page, asegurando que las secciones clave estén completamente funcionales y alineadas con la visión del producto. Durante este sprint, el equipo se enfocará en crear una experiencia de usuario intuitiva y atractiva, que facilite la interacción con el contenido del sitio y proporcione a los visitantes toda la información esencial sobre el proyecto. Se espera que al finalizar este Sprint, la Landing Page esté lista para futuras pruebas de usabilidad y ajuste de contenido, preparándola para una eventual fase de lanzamiento.
 
 <table>
     <thead>
@@ -201,6 +207,10 @@ Una vez completados estos pasos y realizada la configuración, y tras un breve p
             <td> Assigned To </td>
             <td> Status (To-do / In-Process / To-Review / Done) </td>
         </tr>
+          <!-- Fila de separación para User Story 1 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US001</td>
+        </tr>
         <tr>
             <td> US001 </td>
           	<td> Página de Inicio </td>
@@ -210,6 +220,10 @@ Una vez completados estos pasos y realizada la configuración, y tras un breve p
             <td> 04 </td>
             <td> Aranda Vallejos, Oscar Gabriel </td>
             <td> Done  </td>
+        </tr>
+          <!-- Fila de separación para User Story 2 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US002</td>
         </tr>
         <tr>
             <td> US002 </td>
@@ -221,6 +235,10 @@ Una vez completados estos pasos y realizada la configuración, y tras un breve p
             <td> Aranda Vallejos, Oscar Gabriel </td>
             <td> Done </td>
         </tr>
+          <!-- Fila de separación para User Story 3 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US003</td>
+        </tr>
         <tr>
             <td> US003 </td>
           	<td> Pestaña “Contacto”</td>
@@ -231,18 +249,26 @@ Una vez completados estos pasos y realizada la configuración, y tras un breve p
             <td> Aranda Vallejos, Oscar Gabriel </td>
             <td> Done </td>
         </tr>
+          <!-- Fila de separación para User Story 4 -->
         <tr>
-            <td> US003 </td>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US004</td>
+        </tr>
+        <tr>
+            <td> US004 </td>
           	<td> Envío de correos</td>
-          	<td> 03 </td>
+          	<td> 04 </td>
           	<td> Desarrollo de la sección de correos </td>
             <td> Esta tarea se enfoca en el desarrollo de la sección correos, donde el usuario puede enviar correos directamente a nosotros al correo de la empresa </td>
             <td> 04 </td>
             <td> Aranda Vallejos, Oscar Gabriel </td>
-            <td> To-Review </td>
+            <td> Done </td>
+        </tr>
+          <!-- Fila de separación para User Story 5 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US005</td>
         </tr>
         <tr>
-            <td> US004 </td>
+            <td> US005 </td>
           	<td> Pestaña de ayuda al usuario </td>
           	<td> 01 </td>
           	<td> Desarrollo de la sección ayuda al usuario </td>
@@ -254,7 +280,13 @@ Una vez completados estos pasos y realizada la configuración, y tras un breve p
     </tbody>
 </table>
 
+[![sprint-backlog.png](https://i.postimg.cc/9f8D7xLP/sprint-backlog.png)](https://postimg.cc/XZ5NMgSX)
+
+URL público del Board: https://trello.com/invite/b/66425d8ca1a11660bb257835/ATTI12c866f20cfe302970bbaa0d87751a5a6493D444/si729-2402-ws51-grupo-3
+
 #### 5.2.1.3. Development Evidence for Sprint Review. 
+
+En estos commits se puede observar los últimos updates y merge a la rama main que se hizo en el repositorio de la Landing Page.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
@@ -267,13 +299,23 @@ Una vez completados estos pasos y realizada la configuración, y tras un breve p
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
 
+En está sección se puede apreciar que en el commit en cuestión se subió la información de las 5 historias de usuario para este sprint 1.
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| main | f8954d5 | docs: Added US01-US05 feature | - | 09/09/24 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| feature | f8954d5 | docs: Added US01-US05 feature | - | 09/09/24 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review. 
 
-Para este sprint nos concentramos en los capítulos anteriores y en el desarrollo y despliegue de la Landing Page.
+En esta sección se evidenciará lo desarrollado para el sprint y se adjuntará pruebas.
+
+[![home.png](https://i.postimg.cc/BvFSCHfy/home.png)](https://postimg.cc/hJSRDJjb)
+
+[![about.png](https://i.postimg.cc/025Hdvq1/about.png)](https://postimg.cc/mhqwB0Dm)
+
+[![contact.png](https://i.postimg.cc/65Dn6Vcb/contact.png)](https://postimg.cc/sv4vwht5)
+
+[![help.png](https://i.postimg.cc/Kj7jZL8w/help.png)](https://postimg.cc/kR4qs28v)
 
 Link de vídeo de demostración: https://acortar.link/CJ6Uvj
 
@@ -304,10 +346,13 @@ Para desplegar nuestra Landing Page, el equipo completo llevó a cabo las config
 
 7. Todos los miembros colaboraron tanto en el desarrollo como en la documentación de los repositorios, siguiendo las convenciones acordadas.
 
-8. Una vez que el desarrollo alcanzó un nivel avanzado, un miembro del equipo procedió con el despliegue de la Landing Page, siguiendo los pasos previamente definidos.
+8. Una vez que el desarrollo alcanzó un nivel avanzado, un miembro del equipo procedió con el despliegue de la Landing Page, siguiendo los pasos previamente definidos en el punto 5.1.4
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración ella durante el sprint en diferentes repositorios de la organización.
+
 	
 ## Landing Page
 
@@ -315,9 +360,15 @@ Para desplegar nuestra Landing Page, el equipo completo llevó a cabo las config
 
 [![respolp.png](https://i.postimg.cc/7ZB57hQ8/respolp.png)](https://postimg.cc/XrCN6jbQ)
 
+Para la colaboración en este repositorio se optó por que uno se encargará desde el comienzo sobre la Landing Page y los demás ofrecieran su apoyo con ideas y a cerrar problemas creativos.
+
 - **Evidencias de participación en el repositorio "Documentation"**
-<!--Early version of this one-->
-[![respodoc.png](https://i.postimg.cc/brKK4xJc/respodoc.png)](https://postimg.cc/7Jns2T0m)
+
+[![1.png](https://i.postimg.cc/j5GjbcQR/1.png)](https://postimg.cc/njGxKvPW)
+
+[![2.png](https://i.postimg.cc/3N536RYR/2.png)](https://postimg.cc/WF8RqsDL)
+
+Para la colaboración en la documentación se optó por repartir diferente responsabilidades y que cada una de las misma se de acorde a la carga que tenga los compañeros con otros repositorios de la organización.
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -332,6 +383,10 @@ Para desplegar nuestra Landing Page, el equipo completo llevó a cabo las config
 ## Entrevistas
 
 Link de entrevistas: https://acortar.link/7j4FOq
+
+## Trello Board:
+
+Link:
 
 ## Repositories
 
