@@ -1,9 +1,13 @@
 # Capítulo V: Product Implementation, Validation & Deployment 
+
 ## 5.1. Software Configuration Management. 
+
 ### 5.1.1. Software Development Environment Configuration. 
+
 En esta sección se especificarán las herramientas de software que se usará para el desarrollo del producto digital para las siguientes tareas:
 
 **Project Management**
+
 Para el manejo del proyecto se usará las siguientes herramientas que son clave para la distribución de responsabilidades y reuniones virtuales.
 
 | Nombre del Producto | Propósito                                                                                   | Ruta de referencia o de descarga    |
@@ -160,11 +164,12 @@ Una vez completados estos pasos y realizada la configuración, y tras un breve p
 [![5.png](https://i.postimg.cc/13TJk6Y7/5.png)](https://postimg.cc/w1XXJtzD)
 
 ## 5.2. Landing Page, Services & Applications Implementation. 
-### 5.2.1. Sprint 1 
-## Sprint #1
-#### 5.2.1.1. Sprint Planning 1. 
 
-Para este sprint se desarrolló las user stories relacionadas a la primera épica, la cuál tiene que ver con el desarrollo de la Landing Page.
+### 5.2.1. Sprint 1 
+
+## Sprint #1
+
+#### 5.2.1.1. Sprint Planning 1. 
 
 | **Aspecto**                      | **Detalles**                                                                                                           |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------------|

@@ -695,4 +695,5 @@ Acontinuación se presenta el diccionario de clases correspondiente al diagrama 
 |**Calificacion**|Permite que arrendadores y arrendatarios se califiquen mutuamente con estrellas y comentarios. <br> Se relaciona con Usuario y Contrato. |
 ## 4.8. Database Design. 
 ### 4.8.1. Database Diagram. 
+
 [![Nido-Urbano-2024-09-19-23-27.png](https://i.postimg.cc/tC7kwVXD/Nido-Urbano-2024-09-19-23-27.png)](https://postimg.cc/0bR7JjKJ)
