@@ -372,7 +372,29 @@ Para la colaboración en la documentación se optó por repartir diferente respo
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1.Sprint Planning 2.
+
+Para este sprint se desarrolló las user stories relacionadas a la primera épica, la cuál tiene que ver con el desarrollo de la Landing Page.
+
+| **Aspecto**                      | **Detalles**                                                                                                           |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                        |
+| **Date**                         | 23/09/2024                                                                                                             |
+| **Time**                         | 3:00 pm                                                                                                                |
+| **Location**                     | La reunión se realizó de forma virtual por la plataforma Discord                                                        |
+| **Prepared By**                  | TechMinds                                                                                                              |
+| **Attendees (to planning meeting)** | Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Gomez Hurtado, Miguel Angel / Quispe Tipo, Godofredo |
+| **Sprint n – 1 Review Summary**  | Durante el sprint anterior (Sprint 1), se lograro la primera versión de la Landing Page y a su vez se concretó con las historias de usuario y diagrama de base de datos.                          |
+| **Sprint n – 1 Retrospective Summary** | En el sprint anterior, los miembros del equipo destacaron la importancia de mantener una comunicación clara y efectiva. Se resaltó el buen flujo de trabajo, pero se sugirió  una coordinación mejor para la resolución de la documentación y revisión de los commits en los repositorios |
+| **Sprint Goal & User Stories**   |         **Our focus is on** *concretar una primera versión del frontend* **We believe it delivers** *un vistazo a nuestra visión de como sería la aplicación web*  **to**  *usuarios potenciales, mejorando la experiencia de descubrimiento y generando interés en nuestros servicios.* **This will be confirmed when** *la primera versión del frontend esté deployeado y pueda ser usado.*                                                             |
+| **Sprint 1 Goal**                | Desarrollar una primera versión del frontend                                           |
+| **Sprint 1 Velocity**            | Velocidad estimada de 153 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                             |
+| **Sum of Story Points**          | Se asignaron 153 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado para la primera versión del frontend |
+
+
 #### 5.2.2.2.Sprint Backlog 2.
+
+
+
 #### 5.2.2.3.Development Evidence for Sprint Review.
 
 En estos commits se puede observar los últimos updates y merge a la estructura del proyecto de la landing page con mejoras sustanciales.
