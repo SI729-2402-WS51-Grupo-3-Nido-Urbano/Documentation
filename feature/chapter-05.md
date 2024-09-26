@@ -568,7 +568,7 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>Implementar sistema de pagos</td>
             <td>Permitir a los usuarios realizar pagos seguros en la plataforma.</td>
             <td>01</td>
-            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>Gomez Hurtado, Miguel Angel</td>
             <td>Done</td>
         </tr>
         <!-- Fila de separación para US027 -->
@@ -582,7 +582,7 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>Desarrollar selección de método de pago</td>
             <td>Permitir a los usuarios seleccionar su método de pago preferido.</td>
             <td>05</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Gomez Hurtado, Miguel Angel</td>
             <td>Done</td>
         </tr>
         </tr>
@@ -597,7 +597,7 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>Desarrollar confirmación de método de pago</td>
             <td>Permitir a los usuarios confirmar el método de pago escogido.</td>
             <td>05</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Gomez Hurtado, Miguel Angel</td>
             <td>Done</td>
         </tr>
         <!-- Fila de separación para US029 -->
@@ -611,7 +611,7 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>Desarrollar cancelación de método de pago</td>
             <td>Permitir a los usuarios cancelar el pago.</td>
             <td>05</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Gomez Hurtado, Miguel Angel</td>
             <td>Done</td>
         </tr>
         <!-- Fila de separación para US030 -->
