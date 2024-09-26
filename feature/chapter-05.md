@@ -358,7 +358,6 @@ Para desplegar nuestra Landing Page, el equipo completo llevó a cabo las config
 
 En esta sección se evidencia la colaboración ella durante el sprint en diferentes repositorios de la organización.
 
-	
 ## Landing Page
 
 - **Evidencias de participación en el repositorio de la Landing Page**
@@ -375,15 +374,453 @@ Para la colaboración en este repositorio se optó por que uno se encargará des
 
 Para la colaboración en la documentación se optó por repartir diferente responsabilidades y que cada una de las misma se de acorde a la carga que tenga los compañeros con otros repositorios de la organización.
 
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1.Sprint Planning 2.
+
+Para este sprint se desarrolló las user stories relacionadas a la primera épica, la cuál tiene que ver con el desarrollo de la Landing Page.
+
+| **Aspecto**                      | **Detalles**                                                                                                           |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                        |
+| **Date**                         | 23/09/2024                                                                                                             |
+| **Time**                         | 3:00 pm                                                                                                                |
+| **Location**                     | La reunión se realizó de forma virtual por la plataforma Discord                                                        |
+| **Prepared By**                  | TechMinds                                                                                                              |
+| **Attendees (to planning meeting)** | Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Gomez Hurtado, Miguel Angel / Quispe Tipo, Godofredo |
+| **Sprint n – 1 Review Summary**  | Durante el sprint anterior (Sprint 1), se lograro la primera versión de la Landing Page y a su vez se concretó con las historias de usuario y diagrama de base de datos.                          |
+| **Sprint n – 1 Retrospective Summary** | En el sprint anterior, los miembros del equipo destacaron la importancia de mantener una comunicación clara y efectiva. Se resaltó el buen flujo de trabajo, pero se sugirió  una coordinación mejor para la resolución de la documentación y revisión de los commits en los repositorios |
+| **Sprint Goal & User Stories**   |         **Our focus is on** *concretar una primera versión del frontend* **We believe it delivers** *un vistazo a nuestra visión de como sería la aplicación web*  **to**  *usuarios potenciales, mejorando la experiencia de descubrimiento y generando interés en nuestros servicios.* **This will be confirmed when** *la primera versión del frontend esté deployeado y pueda ser usado.*                                                             |
+| **Sprint 1 Goal**                | Desarrollar una primera versión del frontend                                           |
+| **Sprint 1 Velocity**            | Velocidad estimada de 153 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                             |
+| **Sum of Story Points**          | Se asignaron 153 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado para la primera versión del frontend |
+
+
+#### 5.2.2.2.Sprint Backlog 2.
+
+El objetivo principal de este Sprint es completar el desarrollo inicial del frontend de la aplicación web, asegurando que las funcionalidades clave estén implementadas y alineadas con las necesidades del usuario. Durante este Sprint, el equipo se centrará en la gestión de citas y contratos, asegurando una experiencia de usuario fluida para las interacciones relacionadas con la disponibilidad de citas, reserva y cancelación de citas, así como la generación y gestión de contratos. Se espera que al finalizar este Sprint, el frontend esté listo para futuras pruebas de usabilidad y ajuste de contenido, preparándolo para una eventual fase de lanzamiento.
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #2</td>
+            <td colspan="7">Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In-Process / To-Review / Done)</td>
+        </tr>
+        <!-- Fila de separación para US016 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US016</td>
+        </tr>
+        <tr>
+            <td>US016</td>
+            <td>Disponibilidad de citas</td>
+            <td>01</td>
+            <td>Implementar disponibilidad de citas</td>
+            <td>Implementar la funcionalidad para mostrar la disponibilidad de citas a los usuarios.</td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US017 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US017</td>
+        </tr>
+        <tr>
+            <td>US017</td>
+            <td>Agendar cita</td>
+            <td>02</td>
+            <td>Implementar la funcionalidad para agendar citas</td>
+            <td>Permitir a los usuarios reservar citas seleccionando una fecha y hora disponibles.</td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US018 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US018</td>
+        </tr>
+        <tr>
+            <td>US018</td>
+            <td>Ver citas reservadas</td>
+            <td>03</td>
+            <td>Desarrollar la funcionalidad para ver citas reservadas</td>
+            <td>Permitir a los usuarios ver todas las citas reservadas para llevar un registro de sus visitas.</td>
+            <td>03</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US019 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US019</td>
+        </tr>
+        <tr>
+            <td>US019</td>
+            <td>Cancelar cita</td>
+            <td>04</td>
+            <td>Implementar la cancelación de citas</td>
+            <td>Permitir a los usuarios cancelar citas previamente reservadas.</td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US020 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US020</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Generación de contrato</td>
+            <td>05</td>
+            <td>Desarrollar la funcionalidad para generar contratos</td>
+            <td>Permitir a los usuarios generar un contrato formal de alquiler o venta.</td>
+            <td>04</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>Done</td>
+        </tr>
+         <!-- Fila de separación para US021 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US021</td>
+        </tr>
+        <tr>
+            <td>US021</td>
+            <td>Negociación de contrato</td>
+            <td>06</td>
+            <td>Desarrollar la negociación de contratos</td>
+            <td>Permitir a los usuarios negociar los términos de un contrato para llegar a un acuerdo.</td>
+            <td>03</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>In-Process</td>
+        </tr>
+        <!-- Fila de separación para US022 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US022</td>
+        </tr>
+        <tr>
+            <td>US022</td>
+            <td>Revisión y confirmación de datos de contrato</td>
+            <td>06</td>
+            <td>Desarrollar revisión y confirmación de datos</td>
+            <td>Permitir a los usuarios revisar y confirmar los datos de un contrato antes de firmarlo.</td>
+            <td>01</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US023 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US023</td>
+        </tr>
+        <tr>
+            <td>US023</td>
+            <td>Cancelación de acuerdos</td>
+            <td>07</td>
+            <td>Implementar cancelación de acuerdos</td>
+            <td>Permitir a los usuarios cancelar un acuerdo previamente establecido en un contrato.</td>
+            <td>01</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US024 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US024</td>
+        </tr>
+        <tr>
+            <td>US024</td>
+            <td>Cierre de contrato</td>
+            <td>08</td>
+            <td>Implementar cierre de contratos</td>
+            <td>Permitir a los usuarios cerrar un contrato formalizando el acuerdo.</td>
+            <td>01</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>In-Process</td>
+        </tr>
+         <!-- Fila de separación para US025 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US025</td>
+        </tr>
+        <tr>
+            <td>US025</td>
+            <td>Renovación de contrato</td>
+            <td>09</td>
+            <td>Desarrollar renovación de contratos</td>
+            <td>Permitir a los usuarios renovar un contrato antes de su expiración.</td>
+            <td>03</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>In-Process</td>
+        </tr>
+        <!-- Fila de separación para US026 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US026</td>
+        </tr>
+        <tr>
+            <td>US026</td>
+            <td>Realizar pago en plataforma web</td>
+            <td>07</td>
+            <td>Implementar sistema de pagos</td>
+            <td>Permitir a los usuarios realizar pagos seguros en la plataforma.</td>
+            <td>03</td>
+            <td>Gomez Hurtado, Miguel Angel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US027 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US027</td>
+        </tr>
+        <tr>
+            <td>US027</td>
+            <td>Selección de método de pago</td>
+            <td>08</td>
+            <td>Desarrollar selección de método de pago</td>
+            <td>Permitir a los usuarios seleccionar su método de pago preferido.</td>
+            <td>05</td>
+            <td>Gomez Hurtado, Miguel Angel</td>
+            <td>Done</td>
+        </tr>
+        </tr>
+        <!-- Fila de separación para US028 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US028</td>
+        </tr>
+        <tr>
+            <td>US028</td>
+            <td>Confirmación del pago</td>
+            <td>08</td>
+            <td>Desarrollar confirmación de método de pago</td>
+            <td>Permitir a los usuarios confirmar el método de pago escogido.</td>
+            <td>05</td>
+            <td>Gomez Hurtado, Miguel Angel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US029 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US029</td>
+        </tr>
+        <tr>
+            <td>US029</td>
+            <td>Cancelación del pago</td>
+            <td>08</td>
+            <td>Desarrollar cancelación de método de pago</td>
+            <td>Permitir a los usuarios cancelar el pago.</td>
+            <td>05</td>
+            <td>Gomez Hurtado, Miguel Angel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US030 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US030</td>
+        </tr>
+        <tr>
+            <td>US030</td>
+            <td>Ver comentario</td>
+            <td>05</td>
+            <td></td>
+            <td></td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US031 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US031</td>
+        </tr>
+        <tr>
+            <td>US031</td>
+            <td>Agregar un comentario</td>
+            <td>05</td>
+            <td></td>
+            <td></td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US032 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US032</td>
+        </tr>
+        <tr>
+            <td>US032</td>
+            <td>Editar mi comentario publicado</td>
+            <td>05</td>
+            <td></td>
+            <td></td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+[![image.png](https://i.postimg.cc/wMrcjzwz/image.png)](https://postimg.cc/gLv6gC9t)
+
+[![image.png](https://i.postimg.cc/L6Zj3ryq/image.png)](https://postimg.cc/fJD3wgQZ)
+
+[![image.png](https://i.postimg.cc/fLpfwZ2N/image.png)](https://postimg.cc/XGKCLM6H)
+
+URL público del Board: https://trello.com/invite/b/66425d8ca1a11660bb257835/ATTI12c866f20cfe302970bbaa0d87751a5a6493D444/si729-2402-ws51-grupo-3
+
+#### 5.2.2.3.Development Evidence for Sprint Review.
+
+En estos commits se puede observar los últimos updates y merge a la estructura del proyecto de la landing page con mejoras sustanciales.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | 873ef3f | feat: Added comentarios | Se añadió una sección llamada comentarios en la página de inicio | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | a9c169c | Update about-us.html | Se añadieron tarjetas del equipo de developers en la página "about us" | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | fe16203 | feat: Update about-us.css | Se mejoró el diseño responsive para el título de la página "about us" | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | a73e4da | feat: Update index.css | Se agregó el diseño de las secciones nuevas integradas al index.html en la página de inicio | 25/09/2024 |
+
+<br>
+
+En estos commits se puede observar los últimos updates a las ramas divididas por integrante para el desarrollo del frontend, cuya estructura fue publicada en el repositorio correspondiente.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/contracts | 0002421 | update: Feat contract basic deployed | Deploy del contract bounded context | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/feedback |  |  |  | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/houses-managers |  |  |  |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/housing-appointments | 2e1be5e | feat: integrate deployment | Deploy del housing appointments bounded context | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/payments | 5adab7b | deat: deployin firebase | - | 25/09/2024 |
+
+
+#### 5.2.2.4.Testing Suite Evidence for Sprint Review.
+
+En está sección se puede apreciar que en el commit en cuestión se subió la información de las 5 historias de usuario para este sprint 1.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing | dev | db83368| docs: US for contracts bounded context| For sprint 2| 26/09/24 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | c636d6| docs: US for housing appointments reservation bounded context|-| 29/09/24 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | 6a14076| docs: Added US from Payment Context| -| 29/09/24 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | 97ac516| docs: US for feedback bounded context| - | 29/09/24 |
+
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+
+En este sprint se desarrollaron mejoras mínimas a la landing page y se añadieron dos secciones a la página de inicio, las cuales se pueden apreciar en las imágenes siguientes.
+
+[![Captura-de-pantalla-2024-09-26-004309.png](https://i.postimg.cc/BbydYqBN/Captura-de-pantalla-2024-09-26-004309.png)](https://postimg.cc/N26JLvVr)
+
+[![Captura-de-pantalla-2024-09-26-004407.png](https://i.postimg.cc/CMDXSVJy/Captura-de-pantalla-2024-09-26-004407.png)](https://postimg.cc/kDJfvzkw)<br>
+
+También se añadieron tarjetas para la sección del equipo de desarrollo en la página acerca de nosotros.
+
+[![Captura-de-pantalla-2024-09-26-004658.png](https://i.postimg.cc/BbGhXXpr/Captura-de-pantalla-2024-09-26-004658.png)](https://postimg.cc/jwZ61qGc)<br>
+
+Además se inició el desarrollo del frontend conectado a un json server que funciona como fake api. Para ello, los bounded context fueron divididos entre cada integrantes. 
+
+A continuación se muestra el diseño de un bounded context para el frontend, el cual es llamado housing appointments.
+
+[![Captura-de-pantalla-2024-09-26-004934.png](https://i.postimg.cc/HxtM9ndD/Captura-de-pantalla-2024-09-26-004934.png)](https://postimg.cc/62yT998Y)
+
+[![Captura-de-pantalla-2024-09-26-005002.png](https://i.postimg.cc/C5LqP0xZ/Captura-de-pantalla-2024-09-26-005002.png)](https://postimg.cc/cg2CCVYZ)<br>
+
+<!-- A continuación se muestra el diseño del [nombre] bounded context -->
+<!-- Cada uno que agrege sus imagenes de su deploy -->
+
+A continuación se muestra el diseño del contracts bounded context para el frontend (feat: Contracts)
+[![3.png](https://i.postimg.cc/ydv8yLkC/3.png)](https://postimg.cc/cgtWsMRF)
+
+Para payment context (primera version):
+
+[![image.png](https://i.postimg.cc/V62KZY1T/image.png)](https://postimg.cc/1nc0f18c)
+
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Hasta el momento, no se ha realizado ningún avance en la implementación de endpoints, por lo que no se incluye ningún detalle de documentación.
+
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Durante este Sprint, se ha realizado el despliegue del frontend de la aplicación web desarrollada en Angular. Se ha utilizado Firebase Hosting como plataforma para gestionar y alojar el frontend, facilitando un despliegue rápido y seguro. Este proceso incluyó la configuración inicial de cuentas en Firebase, la preparación del entorno de desarrollo, y la implementación del flujo de automatización para asegurar la continuidad en futuros despliegues.
+
+## Proceso de Creación y Configuración de Firebase Hosting
+
+1. **Creación de la cuenta en Firebase**
+   - Se creó una cuenta en Firebase para alojar la aplicación. Para esto, se accedió a [firebase.google.com](https://firebase.google.com/) y se configuró un nuevo proyecto dentro de Firebase Console.
+   - [![2.png](https://i.postimg.cc/0QrLhnVs/2.png)](https://postimg.cc/S2FTM60T)
+
+2. **Configuración del proyecto Angular**
+   - Dentro del proyecto Angular, se instaló la CLI de Firebase ejecutando:
+     ```bash
+     npm install -g firebase-tools
+     ```
+   - Luego, se inicializó Firebase Hosting en el proyecto mediante:
+     ```bash
+     firebase init
+     ```
+   - Se seleccionó Firebase Hosting como la herramienta de despliegue, vinculando el proyecto de Firebase con el código de la aplicación.
+
+3. **Build del proyecto Angular**
+   - Para generar los archivos listos para el despliegue, se ejecutó el comando:
+     ```bash
+     ng build --prod
+     ```
+   - Este comando generó la carpeta `/dist`, que contiene los archivos estáticos que Firebase utilizará para el hosting.
+   - [![1.png](https://i.postimg.cc/k4NxJvVV/1.png)](https://postimg.cc/LYXqvf3R)
+
+4. **Despliegue en Firebase Hosting**
+   - Una vez generado el build, se ejecutó el comando:
+     ```bash
+     firebase deploy
+     ```
+   - Este comando subió el contenido del directorio `/dist` a Firebase Hosting, haciendo que la aplicación esté disponible en la web.
+   - [![3.png](https://i.postimg.cc/ydv8yLkC/3.png)](https://postimg.cc/cgtWsMRF)
+
+#### 5.2.2.8.Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración ella durante el sprint en diferentes repositorios de la organización.
+
+## Frontend
+
+- **Evidencias de participación en el repositorio "Frontend"**
+
+Para la colaboración de los diferentes feats de la aplicación se decidió dividir en un bounded context para cada miembro del equipo.
+
+[![image.png](https://i.postimg.cc/QCWyjF0h/image.png)](https://postimg.cc/q64LLMP5)
+
+Commits en payments:
+
+[![image.png](https://i.postimg.cc/2j2Q5kPf/image.png)](https://postimg.cc/8sfJKSpy)
+
+Commits house-appoinments:
+
+[![image.png](https://i.postimg.cc/Gmhhmrw6/image.png)](https://postimg.cc/qzSd1P7G)
+
+Commits house-mangers:
+
+[![image.png](https://i.postimg.cc/fbVX2pCS/image.png)](https://postimg.cc/FfQ71P2h)
+
+Commits contracts:
+
+[![image.png](https://i.postimg.cc/D0RyzpsH/image.png)](https://postimg.cc/fSjh2K8f)
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
 - TB1: Para concluir este trabajo se tuvo en cuenta el ddd y el enfoque de trabajo ágil en cual se hizo un enfasís en revisar diariamente el avance de cada uno en reuniones por discord. A su vez, se planea una retroalimentación de lo evaluado para la semana 5.
 
+- TP: Como equipo aplicamos la técnica de divide y vencarás para el desarrollo del frontend, segmentadolo en bounded context y siguiendo las convenciones del DDD. Para ello, cada integrante se encargó de diseñar un bounded context al realizar pruebas de historias de usuario. De esta manera pudimos identificar las historias de usuario que conformarían un bounded context y organizarnos eficientemente.
+
 
 # Bibliografía
 
 # Anexos
+
+## Deploys
+
+Miguel Gomez (Payments): https://nido-urbano.web.app/home 
 
 ## Entrevistas
 
@@ -398,3 +835,5 @@ Link:
 * [Nido Urbano - Organization](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano)
 * [Nido Urbano - Landing Page](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page)
 * [Nido Urbano - Documentation](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Documentation)
+* [Nido Urbano - Front End](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend)
+* [Nido Urbano - Testing](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing)
