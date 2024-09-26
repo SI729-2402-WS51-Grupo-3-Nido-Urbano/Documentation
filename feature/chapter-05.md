@@ -393,7 +393,218 @@ Para este sprint se desarrolló las user stories relacionadas a la primera épic
 
 #### 5.2.2.2.Sprint Backlog 2.
 
+El objetivo principal de este Sprint es completar el desarrollo inicial del frontend de la aplicación web, asegurando que las funcionalidades clave estén implementadas y alineadas con las necesidades del usuario. Durante este Sprint, el equipo se centrará en la gestión de citas y contratos, asegurando una experiencia de usuario fluida para las interacciones relacionadas con la disponibilidad de citas, reserva y cancelación de citas, así como la generación y gestión de contratos. Se espera que al finalizar este Sprint, el frontend esté listo para futuras pruebas de usabilidad y ajuste de contenido, preparándolo para una eventual fase de lanzamiento.
 
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #2</td>
+            <td colspan="7">Sprint 2</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In-Process / To-Review / Done)</td>
+        </tr>
+        <!-- Fila de separación para US016 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US016</td>
+        </tr>
+        <tr>
+            <td>US016</td>
+            <td>Disponibilidad de citas</td>
+            <td>01</td>
+            <td>Implementar disponibilidad de citas</td>
+            <td>Implementar la funcionalidad para mostrar la disponibilidad de citas a los usuarios.</td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US017 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US017</td>
+        </tr>
+        <tr>
+            <td>US017</td>
+            <td>Agendar cita</td>
+            <td>02</td>
+            <td>Implementar la funcionalidad para agendar citas</td>
+            <td>Permitir a los usuarios reservar citas seleccionando una fecha y hora disponibles.</td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US018 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US018</td>
+        </tr>
+        <tr>
+            <td>US018</td>
+            <td>Ver citas reservadas</td>
+            <td>03</td>
+            <td>Desarrollar la funcionalidad para ver citas reservadas</td>
+            <td>Permitir a los usuarios ver todas las citas reservadas para llevar un registro de sus visitas.</td>
+            <td>03</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US019 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US019</td>
+        </tr>
+        <tr>
+            <td>US019</td>
+            <td>Cancelar cita</td>
+            <td>04</td>
+            <td>Implementar la cancelación de citas</td>
+            <td>Permitir a los usuarios cancelar citas previamente reservadas.</td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US020 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US020</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Generación de contrato</td>
+            <td>05</td>
+            <td>Desarrollar la funcionalidad para generar contratos</td>
+            <td>Permitir a los usuarios generar un contrato formal de alquiler o venta.</td>
+            <td>08</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US022 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US022</td>
+        </tr>
+        <tr>
+            <td>US022</td>
+            <td>Revisión y confirmación de datos de contrato</td>
+            <td>06</td>
+            <td>Desarrollar revisión y confirmación de datos</td>
+            <td>Permitir a los usuarios revisar y confirmar los datos de un contrato antes de firmarlo.</td>
+            <td>08</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US026 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US026</td>
+        </tr>
+        <tr>
+            <td>US026</td>
+            <td>Realizar pago en plataforma web</td>
+            <td>07</td>
+            <td>Implementar sistema de pagos</td>
+            <td>Permitir a los usuarios realizar pagos seguros en la plataforma.</td>
+            <td>08</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US027 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US027</td>
+        </tr>
+        <tr>
+            <td>US027</td>
+            <td>Selección de método de pago</td>
+            <td>08</td>
+            <td>Desarrollar selección de método de pago</td>
+            <td>Permitir a los usuarios seleccionar su método de pago preferido.</td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        </tr>
+        <!-- Fila de separación para US028 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US028</td>
+        </tr>
+        <tr>
+            <td>US028</td>
+            <td>Confirmación del pago</td>
+            <td>08</td>
+            <td>Desarrollar confirmación de método de pago</td>
+            <td>Permitir a los usuarios confirmar el método de pago escogido.</td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US029 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US029</td>
+        </tr>
+        <tr>
+            <td>US029</td>
+            <td>Cancelación del pago</td>
+            <td>08</td>
+            <td>Desarrollar cancelación de método de pago</td>
+            <td>Permitir a los usuarios cancelar el pago.</td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US030 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US030</td>
+        </tr>
+        <tr>
+            <td>US030</td>
+            <td>Ver comentario</td>
+            <td>05</td>
+            <td></td>
+            <td></td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US031 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US031</td>
+        </tr>
+        <tr>
+            <td>US031</td>
+            <td>Agregar un comentario</td>
+            <td>05</td>
+            <td></td>
+            <td></td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US032 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US032</td>
+        </tr>
+        <tr>
+            <td>US032</td>
+            <td>Editar mi comentario publicado</td>
+            <td>05</td>
+            <td></td>
+            <td></td>
+            <td>05</td>
+            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+
+URL público del Board: https://trello.com/invite/b/66425d8ca1a11660bb257835/ATTI12c866f20cfe302970bbaa0d87751a5a6493D444/si729-2402-ws51-grupo-3
 
 #### 5.2.2.3.Development Evidence for Sprint Review.
 
