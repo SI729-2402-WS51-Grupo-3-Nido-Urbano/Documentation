@@ -643,11 +643,28 @@ En está sección se puede apreciar que en el commit en cuestión se subió la i
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
-En esta sección se evidenciará lo desarrollado para el sprint y se adjuntará pruebas.
+En este sprint se desarrollaron mejoras mínimas a la landing page y se añadieron dos secciones a la página de inicio, las cuales se pueden apreciar en las imágenes siguientes.
 
+[![Captura-de-pantalla-2024-09-26-004309.png](https://i.postimg.cc/BbydYqBN/Captura-de-pantalla-2024-09-26-004309.png)](https://postimg.cc/N26JLvVr)
+
+[![Captura-de-pantalla-2024-09-26-004407.png](https://i.postimg.cc/CMDXSVJy/Captura-de-pantalla-2024-09-26-004407.png)](https://postimg.cc/kDJfvzkw)<br>
+
+También se añadieron tarjetas para la sección del equipo de desarrollo en la página acerca de nosotros.
+
+[![Captura-de-pantalla-2024-09-26-004658.png](https://i.postimg.cc/BbGhXXpr/Captura-de-pantalla-2024-09-26-004658.png)](https://postimg.cc/jwZ61qGc)<br>
+
+Además se inició el desarrollo del frontend conectado a un json server que funciona como fake api. Para ello, los bounded context fueron divididos entre cada integrantes. 
+
+A continuación se muestra el diseño de un bounded context para el frontend, el cual es llamado housing appointments.
+
+[![Captura-de-pantalla-2024-09-26-004934.png](https://i.postimg.cc/HxtM9ndD/Captura-de-pantalla-2024-09-26-004934.png)](https://postimg.cc/62yT998Y)
+
+[![Captura-de-pantalla-2024-09-26-005002.png](https://i.postimg.cc/C5LqP0xZ/Captura-de-pantalla-2024-09-26-005002.png)](https://postimg.cc/cg2CCVYZ)<br>
+
+<!-- A continuación se muestra el diseño del [nombre] bounded context -->
 <!-- Cada uno que agrege sus imagenes de su deploy -->
 
-feat: Contracts
+A continuación se muestra el diseño del contracts bounded context para el frontend (feat: Contracts)
 [![3.png](https://i.postimg.cc/ydv8yLkC/3.png)](https://postimg.cc/cgtWsMRF)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
@@ -707,6 +724,8 @@ Para la colaboración de los diferentes feats de la aplicación se decidió divi
 
 - TB1: Para concluir este trabajo se tuvo en cuenta el ddd y el enfoque de trabajo ágil en cual se hizo un enfasís en revisar diariamente el avance de cada uno en reuniones por discord. A su vez, se planea una retroalimentación de lo evaluado para la semana 5.
 
+- TP: Como equipo aplicamos la técnica de divide y vencarás para el desarrollo del frontend, segmentadolo en bounded context y siguiendo las convenciones del DDD. Para ello, cada integrante se encargó de diseñar un bounded context al realizar pruebas de historias de usuario. De esta manera pudimos identificar las historias de usuario que conformarían un bounded context y organizarnos eficientemente.
+
 
 # Bibliografía
 
@@ -725,3 +744,5 @@ Link:
 * [Nido Urbano - Organization](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano)
 * [Nido Urbano - Landing Page](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page)
 * [Nido Urbano - Documentation](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Documentation)
+* [Nido Urbano - Front End](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend)
+* [Nido Urbano - Testing](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing)
