@@ -375,6 +375,29 @@ Para la colaboración en la documentación se optó por repartir diferente respo
 #### 5.2.2.1.Sprint Planning 2.
 #### 5.2.2.2.Sprint Backlog 2.
 #### 5.2.2.3.Development Evidence for Sprint Review.
+
+En estos commits se puede observar los últimos updates y merge a la estructura del proyecto de la landing page con mejoras sustanciales.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | 873ef3f | feat: Added comentarios | Se añadió una sección llamada comentarios en la página de inicio | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | a9c169c | Update about-us.html | Se añadieron tarjetas del equipo de developers en la página "about us" | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | fe16203 | feat: Update about-us.css | Se mejoró el diseño responsive para el título de la página "about us" | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | a73e4da | feat: Update index.css | Se agregó el diseño de las secciones nuevas integradas al index.html en la página de inicio | 25/09/2024 |
+
+<br>
+
+En estos commits se puede observar los últimos updates a las ramas divididas por integrante para el desarrollo del frontend, cuya estructura fue publicada en el repositorio correspondiente.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/contracts | 0002421 | update: Feat contract basic deployed | Deploy del contract bounded context | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/feedback |  |  |  | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/houses-managers |  |  |  |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/housing-appointments | 2e1be5e | feat: integrate deployment | Deploy del housing appointments bounded context | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/payments |  |  |  | 25/09/2024 |
+
+
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
