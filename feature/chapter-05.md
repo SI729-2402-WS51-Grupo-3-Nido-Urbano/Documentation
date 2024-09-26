@@ -684,7 +684,7 @@ En estos commits se puede observar los últimos updates a las ramas divididas po
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/feedback |  |  |  | 25/09/2024 |
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/houses-managers |  |  |  |
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/housing-appointments | 2e1be5e | feat: integrate deployment | Deploy del housing appointments bounded context | 25/09/2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/payments |  |  |  | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/payments | 5adab7b | deat: deployin firebase | - | 25/09/2024 |
 
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
@@ -693,7 +693,7 @@ En está sección se puede apreciar que en el commit en cuestión se subió la i
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | db83368| docs: US for contracts bounded context| For sprint 2| 26/09/24 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing | dev | db83368| docs: US for contracts bounded context| For sprint 2| 26/09/24 |
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | c636d6| docs: US for housing appointments reservation bounded context|-| 29/09/24 |
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | 6a14076| docs: Added US from Payment Context| -| 29/09/24 |
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | 97ac516| docs: US for feedback bounded context| - | 29/09/24 |
@@ -723,6 +723,9 @@ A continuación se muestra el diseño de un bounded context para el frontend, el
 
 A continuación se muestra el diseño del contracts bounded context para el frontend (feat: Contracts)
 [![3.png](https://i.postimg.cc/ydv8yLkC/3.png)](https://postimg.cc/cgtWsMRF)
+
+Para payment context (primera version):
+[![image.png](https://i.postimg.cc/V62KZY1T/image.png)](https://postimg.cc/1nc0f18c)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
@@ -775,6 +778,23 @@ En esta sección se evidencia la colaboración ella durante el sprint en diferen
 
 Para la colaboración de los diferentes feats de la aplicación se decidió dividir en un bounded context para cada miembro del equipo.
 
+[![image.png](https://i.postimg.cc/QCWyjF0h/image.png)](https://postimg.cc/q64LLMP5)
+
+Commits en payments:
+
+[![image.png](https://i.postimg.cc/2j2Q5kPf/image.png)](https://postimg.cc/8sfJKSpy)
+
+Commits house-appoinments:
+
+[![image.png](https://i.postimg.cc/Gmhhmrw6/image.png)](https://postimg.cc/qzSd1P7G)
+
+Commits house-mangers:
+
+[![image.png](https://i.postimg.cc/fbVX2pCS/image.png)](https://postimg.cc/FfQ71P2h)
+
+Commits contracts:
+
+[![image.png](https://i.postimg.cc/D0RyzpsH/image.png)](https://postimg.cc/fSjh2K8f)
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -787,6 +807,10 @@ Para la colaboración de los diferentes feats de la aplicación se decidió divi
 # Bibliografía
 
 # Anexos
+
+## Deploys
+
+Miguel Gomez (Payments): https://nido-urbano.web.app/home 
 
 ## Entrevistas
 
