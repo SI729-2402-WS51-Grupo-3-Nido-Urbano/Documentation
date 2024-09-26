@@ -353,7 +353,6 @@ Para desplegar nuestra Landing Page, el equipo completo llevó a cabo las config
 
 En esta sección se evidencia la colaboración ella durante el sprint en diferentes repositorios de la organización.
 
-	
 ## Landing Page
 
 - **Evidencias de participación en el repositorio de la Landing Page**
@@ -401,8 +400,55 @@ En estos commits se puede observar los últimos updates a las ramas divididas po
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Hasta el momento, no se ha realizado ningún avance en la implementación de endpoints, por lo que no se incluye ningún detalle de documentación.
+
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+
+Durante este Sprint, se ha realizado el despliegue del frontend de la aplicación web desarrollada en Angular. Se ha utilizado Firebase Hosting como plataforma para gestionar y alojar el frontend, facilitando un despliegue rápido y seguro. Este proceso incluyó la configuración inicial de cuentas en Firebase, la preparación del entorno de desarrollo, y la implementación del flujo de automatización para asegurar la continuidad en futuros despliegues.
+
+## Proceso de Creación y Configuración de Firebase Hosting
+
+1. **Creación de la cuenta en Firebase**
+   - Se creó una cuenta en Firebase para alojar la aplicación. Para esto, se accedió a [firebase.google.com](https://firebase.google.com/) y se configuró un nuevo proyecto dentro de Firebase Console.
+   - [![2.png](https://i.postimg.cc/0QrLhnVs/2.png)](https://postimg.cc/S2FTM60T)
+
+2. **Configuración del proyecto Angular**
+   - Dentro del proyecto Angular, se instaló la CLI de Firebase ejecutando:
+     ```bash
+     npm install -g firebase-tools
+     ```
+   - Luego, se inicializó Firebase Hosting en el proyecto mediante:
+     ```bash
+     firebase init
+     ```
+   - Se seleccionó Firebase Hosting como la herramienta de despliegue, vinculando el proyecto de Firebase con el código de la aplicación.
+
+3. **Build del proyecto Angular**
+   - Para generar los archivos listos para el despliegue, se ejecutó el comando:
+     ```bash
+     ng build --prod
+     ```
+   - Este comando generó la carpeta `/dist`, que contiene los archivos estáticos que Firebase utilizará para el hosting.
+   - [![1.png](https://i.postimg.cc/k4NxJvVV/1.png)](https://postimg.cc/LYXqvf3R)
+
+4. **Despliegue en Firebase Hosting**
+   - Una vez generado el build, se ejecutó el comando:
+     ```bash
+     firebase deploy
+     ```
+   - Este comando subió el contenido del directorio `/dist` a Firebase Hosting, haciendo que la aplicación esté disponible en la web.
+   - [![3.png](https://i.postimg.cc/ydv8yLkC/3.png)](https://postimg.cc/cgtWsMRF)
+
 #### 5.2.2.8.Team Collaboration Insights during Sprint
+
+En esta sección se evidencia la colaboración ella durante el sprint en diferentes repositorios de la organización.
+
+## Frontend
+
+- **Evidencias de participación en el repositorio "Frontend"**
+
+Para la colaboración de los diferentes feats de la aplicación se decidió dividir en un bounded context para cada miembro del equipo.
 
 
 # Conclusiones
