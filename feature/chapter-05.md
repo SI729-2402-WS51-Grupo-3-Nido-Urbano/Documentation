@@ -483,9 +483,23 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>05</td>
             <td>Desarrollar la funcionalidad para generar contratos</td>
             <td>Permitir a los usuarios generar un contrato formal de alquiler o venta.</td>
-            <td>08</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>04</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
             <td>Done</td>
+        </tr>
+         <!-- Fila de separación para US021 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US021</td>
+        </tr>
+        <tr>
+            <td>US021</td>
+            <td>Negociación de contrato</td>
+            <td>06</td>
+            <td>Desarrollar la negociación de contratos</td>
+            <td>Permitir a los usuarios negociar los términos de un contrato para llegar a un acuerdo.</td>
+            <td>03</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>In-Process</td>
         </tr>
         <!-- Fila de separación para US022 -->
         <tr>
@@ -497,9 +511,51 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>06</td>
             <td>Desarrollar revisión y confirmación de datos</td>
             <td>Permitir a los usuarios revisar y confirmar los datos de un contrato antes de firmarlo.</td>
-            <td>08</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>01</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
             <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US023 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US023</td>
+        </tr>
+        <tr>
+            <td>US023</td>
+            <td>Cancelación de acuerdos</td>
+            <td>07</td>
+            <td>Implementar cancelación de acuerdos</td>
+            <td>Permitir a los usuarios cancelar un acuerdo previamente establecido en un contrato.</td>
+            <td>01</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>Done</td>
+        </tr>
+        <!-- Fila de separación para US024 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US024</td>
+        </tr>
+        <tr>
+            <td>US024</td>
+            <td>Cierre de contrato</td>
+            <td>08</td>
+            <td>Implementar cierre de contratos</td>
+            <td>Permitir a los usuarios cerrar un contrato formalizando el acuerdo.</td>
+            <td>01</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>In-Process</td>
+        </tr>
+         <!-- Fila de separación para US025 -->
+        <tr>
+            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US025</td>
+        </tr>
+        <tr>
+            <td>US025</td>
+            <td>Renovación de contrato</td>
+            <td>09</td>
+            <td>Desarrollar renovación de contratos</td>
+            <td>Permitir a los usuarios renovar un contrato antes de su expiración.</td>
+            <td>03</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
+            <td>In-Process</td>
         </tr>
         <!-- Fila de separación para US026 -->
         <tr>
@@ -511,8 +567,8 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>07</td>
             <td>Implementar sistema de pagos</td>
             <td>Permitir a los usuarios realizar pagos seguros en la plataforma.</td>
-            <td>08</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>01</td>
+            <td>Cantoral Sedamano, Alexander Alberto</td>
             <td>Done</td>
         </tr>
         <!-- Fila de separación para US027 -->
@@ -603,6 +659,7 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
     </tbody>
 </table>
 
+[![5.png](https://i.postimg.cc/gks0ff6h/5.png)](https://postimg.cc/fJ3ZdqCW)
 
 URL público del Board: https://trello.com/invite/b/66425d8ca1a11660bb257835/ATTI12c866f20cfe302970bbaa0d87751a5a6493D444/si729-2402-ws51-grupo-3
 
