@@ -659,7 +659,11 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
     </tbody>
 </table>
 
-[![5.png](https://i.postimg.cc/gks0ff6h/5.png)](https://postimg.cc/fJ3ZdqCW)
+[![image.png](https://i.postimg.cc/wMrcjzwz/image.png)](https://postimg.cc/gLv6gC9t)
+
+[![image.png](https://i.postimg.cc/L6Zj3ryq/image.png)](https://postimg.cc/fJD3wgQZ)
+
+[![image.png](https://i.postimg.cc/fLpfwZ2N/image.png)](https://postimg.cc/XGKCLM6H)
 
 URL público del Board: https://trello.com/invite/b/66425d8ca1a11660bb257835/ATTI12c866f20cfe302970bbaa0d87751a5a6493D444/si729-2402-ws51-grupo-3
 
