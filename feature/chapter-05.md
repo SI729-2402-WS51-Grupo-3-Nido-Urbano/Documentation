@@ -408,16 +408,6 @@ En está sección se puede apreciar que en el commit en cuestión se subió la i
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | 6a14076| docs: Added US from Payment Context| -| 29/09/24 |
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | 97ac516| docs: US for feedback bounded context| - | 29/09/24 |
 
-
-En está sección se pueden apreciar los commit de historias de usuario de BDD para el sprint 2.
-
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | db83368 | docs: US for contracts bounded context | For sprint 2 | 24/09/24 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | c636d66 | docs: US for housing appointments reservation bounded context | - | 25/09/24 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | 6a14076 | docs: Added US from Payment Context | - | 25/09/24 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| dev | 97ac516 | docs: US for feedback bounded context | - | 25/09/24 |
-
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 
 En esta sección se evidenciará lo desarrollado para el sprint y se adjuntará pruebas.
