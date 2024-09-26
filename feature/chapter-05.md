@@ -567,7 +567,7 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>07</td>
             <td>Implementar sistema de pagos</td>
             <td>Permitir a los usuarios realizar pagos seguros en la plataforma.</td>
-            <td>01</td>
+            <td>03</td>
             <td>Gomez Hurtado, Miguel Angel</td>
             <td>Done</td>
         </tr>
@@ -725,6 +725,7 @@ A continuación se muestra el diseño del contracts bounded context para el fron
 [![3.png](https://i.postimg.cc/ydv8yLkC/3.png)](https://postimg.cc/cgtWsMRF)
 
 Para payment context (primera version):
+
 [![image.png](https://i.postimg.cc/V62KZY1T/image.png)](https://postimg.cc/1nc0f18c)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
