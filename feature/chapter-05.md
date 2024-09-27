@@ -627,10 +627,10 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>US030</td>
             <td>Ver comentario</td>
             <td>05</td>
-            <td></td>
-            <td></td>
+            <td>Desarrollar ver comentario</td>
+            <td>Permitir a los usuarios ver comentarios de otros usuarios.</td>
             <td>05</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
             <td>Done</td>
         </tr>
         <!-- Fila de separación para US031 -->
@@ -641,11 +641,11 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>US031</td>
             <td>Agregar un comentario</td>
             <td>05</td>
-            <td></td>
-            <td></td>
+            <td>Desarrollar agregar comentario</td>
+            <td>Permitir a los usuarios agregar un comentario.</td>
             <td>05</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
-            <td>Done</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
+            <td>In-Process</td>
         </tr>
         <!-- Fila de separación para US032 -->
         <tr>
@@ -655,11 +655,11 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>US032</td>
             <td>Editar mi comentario publicado</td>
             <td>05</td>
-            <td></td>
-            <td></td>
+            <td>Desarrollar editar mi comentario publicado</td>
+            <td>Permitir a los usuarios desarrollar el comentario que hayan publicado.</td>
             <td>05</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
-            <td>Done</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
+            <td>In-Process</td>
         </tr>
     </tbody>
 </table>
@@ -690,7 +690,7 @@ En estos commits se puede observar los últimos updates a las ramas divididas po
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/contracts | 0002421 | update: Feat contract basic deployed | Deploy del contract bounded context | 25/09/2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/feedback |  |  |  | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/feedback | b72dc98 | update: Feat Feedback | Deploy del feedback bounded context | 26/09/2024 |
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/houses-managers |  |  |  |
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/housing-appointments | 2e1be5e | feat: integrate deployment | Deploy del housing appointments bounded context | 25/09/2024 |
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/payments | 5adab7b | deat: deployin firebase | - | 25/09/2024 |
@@ -736,6 +736,12 @@ A continuación se muestra el diseño del contracts bounded context para el fron
 Para payment context (primera version):
 
 [![image.png](https://i.postimg.cc/V62KZY1T/image.png)](https://postimg.cc/1nc0f18c)
+
+A continuación se muestra el diseño del feedback bounded context para el frontend (feat: Feedback)
+
+Para feedback context (primera version):
+
+[![feedback-deploy.png](https://i.postimg.cc/jCYKNmGQ/feedback-deploy.png)](https://postimg.cc/jncGYgqL)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
@@ -806,6 +812,9 @@ Commits contracts:
 
 [![image.png](https://i.postimg.cc/D0RyzpsH/image.png)](https://postimg.cc/fSjh2K8f)
 
+Commits feedback:
+[![commit-feedback.png](https://i.postimg.cc/tCnY6HVP/commit-feedback.png)](https://postimg.cc/ykB1qtjY)
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
@@ -821,6 +830,8 @@ Commits contracts:
 ## Deploys
 
 Miguel Gomez (Payments): https://nido-urbano.web.app/home 
+
+Rodrigo Chirinos (Feedback): https://feedback-bounded-context.web.app/ 
 
 ## Entrevistas
 
