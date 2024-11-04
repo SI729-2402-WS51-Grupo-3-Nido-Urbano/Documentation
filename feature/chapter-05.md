@@ -630,11 +630,9 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>US030</td>
             <td>Ver comentario</td>
             <td>05</td>
-            <td></td>
-            <td></td>
+            <td>Desarrollar ver comentario</td>
+            <td>Permitir a los usuarios ver comentarios de otros usuarios.</td>
             <td>05</td>
-            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
-            <td>Done</td>
         </tr>
     </tbody>
 </table>
@@ -659,16 +657,6 @@ En estos commits se puede observar los últimos updates y merge a la estructura 
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | a73e4da | feat: Update index.css | Se agregó el diseño de las secciones nuevas integradas al index.html en la página de inicio | 25/09/2024 |
 
 <br>
-
-En estos commits se puede observar los últimos updates a las ramas divididas por integrante para el desarrollo del frontend, cuya estructura fue publicada en el repositorio correspondiente.
-
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/contracts | 0002421 | update: Feat contract basic deployed | - | 25/09/2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/feedback | 8543529 | update: deployment and readme | - | 26/09/2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/houses-managers |  | - |  |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/housing-appointments | 2e1be5e | feat: integrate deployment | - | 25/09/2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/payments | 5adab7b | deat: deployin firebase | - | 25/09/2024 |
 
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
@@ -711,6 +699,12 @@ A continuación se muestra el diseño del contracts bounded context para el fron
 Para payment context (primera version):
 
 [![image.png](https://i.postimg.cc/V62KZY1T/image.png)](https://postimg.cc/1nc0f18c)
+
+A continuación se muestra el diseño del feedback bounded context para el frontend (feat: Feedback)
+
+Para feedback context (primera version):
+
+[![feedback-deploy.png](https://i.postimg.cc/jCYKNmGQ/feedback-deploy.png)](https://postimg.cc/jncGYgqL)
 
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 
@@ -782,273 +776,6 @@ Commits contracts:
 [![image.png](https://i.postimg.cc/D0RyzpsH/image.png)](https://postimg.cc/fSjh2K8f)
 
 
-### 5.2.3. Sprint 3
-
-## Sprint 3
-
-#### 5.2.3.1.Sprint Planning 3.
-
-Para este sprint se desarrolló las user stories relacionadas a la primera épica, la cuál tiene que ver con el desarrollo de la Landing Page.
-
-| **Aspecto**                      | **Detalles**                                                                                                           |
-|---------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background**   |                                                                                                                        |
-| **Date**                         | 28/10/2024                                                                                                             |
-| **Time**                         | 3:00 pm                                                                                                                |
-| **Location**                     | La reunión se realizó de forma virtual por la plataforma Discord                                                        |
-| **Prepared By**                  | TechMinds                                                                                                              |
-| **Attendees (to planning meeting)** | Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Gomez Hurtado, Miguel Angel / Quispe Tipo, Godofredo |
-| **Sprint n – 2 Review Summary**  | Durante el sprint anterior (Sprint 2), se lograro la primera versión del front end y a su vez se realizó su despliegue individual, usando firebase.                          |
-| **Sprint n – 2 Retrospective Summary** | En el sprint anterior, los miembros del equipo destacaron la importancia de comunicar efectivamente los cambios realizados en los repositorios y mantener un seguimiento ordenado de tasks en Trello |
-| **Sprint Goal & User Stories**   |         **Our focus is on** *concretar una primera versión del backend.* **We believe it delivers** *un acercamiento real de cómo funcionaría nuestro endpoint verdadero conectado a una base de datos,* **to** *el equipo de desarrollo, ayudando a validar el flujo de datos y la integración con otros servicios.* **This will be confirmed when** *la primera versión del backend esté deployeada y pueda ser probada.*                                                           |
-| **Sprint Goal**                | Desarrollar una primera versión del backend                                           |
-| **Sprint Velocity**            | Velocidad estimada de 140 puntos. La velocidad del equipo se calculó considerando los puntos de historia completados en sprints anteriores sumados con los actuales.                                                                             |
-| **Sum of Story Points**          | Se asignaron 34 puntos de historia a las tareas completadas respecto a la 2da versión del frontend |
-
-
-#### 5.2.3.2.Sprint Backlog 3.
-
-El objetivo principal de este Sprint es mejorar el desarrollo inicial del frontend de la aplicación web e iniciar con el desarrollo del backend para generar un rest API.
-
-<table>
-    <thead>
-        <tr>
-            <td>Sprint #2</td>
-            <td colspan="7">Sprint 2</td>
-        </tr>
-        <tr>
-            <td colspan="2">User Story</td>
-            <td colspan="6">Work-Item / Task</td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Id</td>
-            <td>Title</td>
-            <td>Id</td>
-            <td>Title</td>
-            <td>Description</td>
-            <td>Estimation (Hours)</td>
-            <td>Assigned To</td>
-            <td>Status (To-do / In-Process / To-Review / Done)</td>
-        </tr>
-        <!-- Fila de separación -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US009</td>
-        </tr>
-        <tr>
-            <td>US009</td>
-            <td>Agregar "Propiedad"</td>
-            <td>01</td>
-            <td>
-                Actualizar la entidad de la Propiedad (1 hora)
-                Validar la entrada de datos al agregar una propiedad para seleccionar en renta o en venta (1 hora)
-                Validar el ID de usuario (1 hora)
-                Adaptar y llamar al POST http request (1 hora)
-            </td>
-            <td>-</td>
-            <td>04</td>
-            <td>Quispe Tipo, Godofredo</td>
-            <td>Done</td>
-        </tr>
-        <!-- Fila de separación -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US012</td>
-        </tr>
-        <tr>
-            <td>US012</td>
-            <td>Editar propiedad</td>
-            <td>02</td>
-            <td>
-                Crear el componente de angular (1 hora)
-                Adaptar PUT http requests para la edición y actualización de datos de propiedades (2 horas)
-                Utilizar y llamar la implementación de las operaciones CRUD de tipo PUT para editar y actualizar datos de propiedades (1 hora)
-            </td>
-            <td>-</td>
-            <td>04</td>
-            <td>Quispe Tipo, Godofredo</td>
-            <td>Done</td>
-        </tr>
-        <!-- Fila de separación -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US013</td>
-        </tr>
-        <tr>
-            <td>US013</td>
-            <td>Eliminar propiedad como arrendador</td>
-            <td>03</td>
-            <td>
-                Implementar la eliminación de los datos de una propiedad usando el metodo DELETE de CRUD (2 horas)
-                Verificar que los datos se eliminen correctamente (1 hora)
-            </td>
-            <td>-</td>
-            <td>03</td>
-            <td>Quispe Tipo, Godofredo</td>
-            <td>Done</td>
-        </tr>
-        <!-- Fila de separación -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US016</td>
-        </tr>
-        <tr>
-            <td>US016</td>
-            <td>Disponibilidad de citas</td>
-            <td>04</td>
-            <td>
-                Crear el componente date picker de angular y adaptarlo a un calendario (1 hora)
-                Crear interfaz para el calendario de angular (1 hora)
-                Agregar métodos de pago (1 hora)
-                Mejorar el diseño de la interfaz en una hoja de estilos CSS (1 hora)
-                Mapear las fechas reservadas e implementar la lógica para validar si las celdas del calendario en un mes respectivo ya han sido reservadas (2 horas)
-                Implementar el sombreado de las fechas reservadas y mejorar su diseño en la hoja de estilos CSS predeterminada (1 hora)
-            </td>
-            <td>-</td>
-            <td>05</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
-            <td>Done</td>
-        </tr>
-        <!-- Fila de separación -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US018</td>
-        </tr>
-        <tr>
-            <td>US018</td>
-            <td>Ver citas reservadas</td>
-            <td>05</td>
-            <td>
-                Crear el componente de angular mostrar las citas reservadas mediante cards (1 hora)
-                Conectar con el endpoint y mapear las citas reservadas (1 hora)
-                Verificar componentes relacionados (1 hora)
-                Conectar con el componente que presenta un form para añadir, editar y eliminar citas reservadas (2 horas)
-                Adaptar los archivos de estilo CSS y el HTML (1 hora)
-            </td>
-            <td>-</td>
-            <td>06</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
-            <td>Done</td>
-        </tr>
-         <!-- Fila de separación -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US022</td>
-        </tr>
-        <tr>
-            <td>US022</td>
-            <td>Revisión y confirmación de datos de contrato</td>
-            <td>06</td>
-            <td>
-                Mejorar el registro de datos para confirmar el contrato (1 hora)
-                Realizar mejora en el diseño CSS y HTML (1 hora)
-            </td>
-            <td>-</td>
-            <td>02</td>
-            <td>Cantoral Sedamano, Alexander Alberto</td>
-            <td>Done</td>
-        </tr>
-        <!-- Fila de separación-->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US024</td>
-        </tr>
-        <tr>
-            <td>US024</td>
-            <td>Cierre de contrato</td>
-            <td>06</td>
-            <td>
-                Validar que todos los campos pendientes hayan sido rellenados para cerrar el contrato (2 horas)
-            </td>
-            <td>-</td>
-            <td>02</td>
-            <td>Cantoral Sedamano, Alexander Alberto</td>
-            <td>Done</td>
-        </tr>
-        <!-- Fila de separación -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US031</td>
-        </tr>
-        <tr>
-            <td>US031</td>
-            <td>Agregar un comentario</td>
-            <td>07</td>
-            <td>
-                Implementar el método en el componente (1 hora)
-                Verificar que se creen los feedbacks y se muestren en la página (1 hora)
-            </td>
-            <td>-</td>
-            <td>02</td>
-            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
-            <td>Done</td>
-        </tr>
-        <!-- Fila de separación -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US032</td>
-        </tr>
-        <tr>
-            <td>US032</td>
-            <td>Editar mi comentario publicado</td>
-            <td>08</td>
-            <td>
-                Implementar el método en el componente (1 hora)
-                Verificar que el feedback editado muestre los campos actualizados (1 hora)
-            </td>
-            <td>-</td>
-            <td>02</td>
-            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
-            <td>Done</td>
-        </tr>
-         <!-- Fila de separación -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US033</td>
-        </tr>
-        <tr>
-            <td>US033</td>
-            <td>Eliminar mi comentario publicado</td>
-            <td>09</td>
-            <td>
-                Implementar el método en el componente (1 hora)
-                Verificar que el feedback se elimine y que ya no se muestre en la página (1 hora)
-            </td>
-            <td>-</td>
-            <td>02</td>
-            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
-            <td>Done</td>
-        </tr>
-    </tbody>
-</table>
-
-[![Captura-de-pantalla-2024-11-04-064042.png](https://i.postimg.cc/nLMyC961/Captura-de-pantalla-2024-11-04-064042.png)](https://postimg.cc/d7PHf3Q7)
-
-[![Captura-de-pantalla-2024-11-04-064140.png](https://i.postimg.cc/rFJ3j9TJ/Captura-de-pantalla-2024-11-04-064140.png)](https://postimg.cc/fJV8TmJt)
-
-[![Captura-de-pantalla-2024-11-04-064153.png](https://i.postimg.cc/vHMC5NJT/Captura-de-pantalla-2024-11-04-064153.png)](https://postimg.cc/BtYh0MQf)
-
-URL público del Board: https://trello.com/b/anM6lBpU/si729-2402-ws51-grupo-3
-
-
-#### 5.2.3.3. Development Evidence for Sprint Review. 
-
-En estos commits se puede observar los últimos updates y commits a las diferentes ramas del repositorio del frontend
-
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/contracts | 4cf88bf | feat: contract | Added margin for superimposed feat and improved contract generation | Oct 23, 2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/feedback | 2d6c9fd | Update hosting | - |  Oct 14, 2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/houses-managers | 827d644 | feat(house-card): | add style house card. | Oct 28, 2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/housing-appointments | 0368355 | feat: Calendar With View of Dates | Added a view of the dates available in a calendar | Oct 24, 2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/payments | 6483380 | feat: first develop version | - | Sep 27, 2024 |
-
-<br>
-
-En estos commits se puede observar los últimos updates y commits a las diferentes ramas del repositorio del backend
-
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-| [ https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend/tree/feature-contract) | feat/contracts | 5e95ca4 | feat: Almost complete | - | Nov 4, 2024 |
-| [https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend/tree/feature-feedback) | feat/feedback | 6e58d39 | feat: CRUD and endpoint operations were implemented | - | Nov 4, 2024 |
-| [https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend/tree/feature/house) | feat/houses-managers | 26e44ee | feat(houses): add unique registration number validation. | - | Nov 4, 2024 |
-| [https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend/tree/feature-housing-appointments) | feat/housing-appointments | 225500d | feat: Implement Endpoint with CRUD Operations for reservations and houses | - | Nov 4, 2024 |
-| [https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend/tree/feature-payments) | feat/payments | - | - | - | Nov 4, 2024 |
-
-<br>
-
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -1067,10 +794,6 @@ En estos commits se puede observar los últimos updates y commits a las diferent
 ## Deploys
 
 Miguel Gomez (Payments): https://nido-urbano.web.app/home 
-
-Rodrigo Chirinos (Feedback): https://feedback-bounded-context.web.app/
-
-Oscar Aranda (Housing Appointment Reservation): https://nido-urbano-ws51-har-bc-2024.web.app/housing-reservation/reservations
 
 
 ## Entrevistas
