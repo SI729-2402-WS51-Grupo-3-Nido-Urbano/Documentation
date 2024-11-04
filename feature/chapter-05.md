@@ -376,6 +376,9 @@ Para la colaboración en la documentación se optó por repartir diferente respo
 
 
 ### 5.2.2. Sprint 2
+
+## Sprint #2
+
 #### 5.2.2.1.Sprint Planning 2.
 
 Para este sprint se desarrolló las user stories relacionadas a la primera épica, la cuál tiene que ver con el desarrollo de la Landing Page.
@@ -391,9 +394,9 @@ Para este sprint se desarrolló las user stories relacionadas a la primera épic
 | **Sprint n – 1 Review Summary**  | Durante el sprint anterior (Sprint 1), se lograro la primera versión de la Landing Page y a su vez se concretó con las historias de usuario y diagrama de base de datos.                          |
 | **Sprint n – 1 Retrospective Summary** | En el sprint anterior, los miembros del equipo destacaron la importancia de mantener una comunicación clara y efectiva. Se resaltó el buen flujo de trabajo, pero se sugirió  una coordinación mejor para la resolución de la documentación y revisión de los commits en los repositorios |
 | **Sprint Goal & User Stories**   |         **Our focus is on** *concretar una primera versión del frontend* **We believe it delivers** *un vistazo a nuestra visión de como sería la aplicación web*  **to**  *usuarios potenciales, mejorando la experiencia de descubrimiento y generando interés en nuestros servicios.* **This will be confirmed when** *la primera versión del frontend esté deployeado y pueda ser usado.*                                                             |
-| **Sprint 1 Goal**                | Desarrollar una primera versión del frontend                                           |
-| **Sprint 1 Velocity**            | Velocidad estimada de 153 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                             |
-| **Sum of Story Points**          | Se asignaron 153 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado para la primera versión del frontend |
+| **Sprint Goal**                | Desarrollar una primera versión del frontend                                           |
+| **Sprint Velocity**            | Velocidad estimada de 87 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                             |
+| **Sum of Story Points**          | Se asignaron 87 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado para la primera versión del frontend |
 
 
 #### 5.2.2.2.Sprint Backlog 2.
@@ -630,35 +633,7 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td></td>
             <td></td>
             <td>05</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
-            <td>Done</td>
-        </tr>
-        <!-- Fila de separación para US031 -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US031</td>
-        </tr>
-        <tr>
-            <td>US031</td>
-            <td>Agregar un comentario</td>
-            <td>05</td>
-            <td></td>
-            <td></td>
-            <td>05</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
-            <td>Done</td>
-        </tr>
-        <!-- Fila de separación para US032 -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US032</td>
-        </tr>
-        <tr>
-            <td>US032</td>
-            <td>Editar mi comentario publicado</td>
-            <td>05</td>
-            <td></td>
-            <td></td>
-            <td>05</td>
-            <td>Aranda Vallejos, Oscar Gabriel</td>
+            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
             <td>Done</td>
         </tr>
     </tbody>
@@ -689,10 +664,10 @@ En estos commits se puede observar los últimos updates a las ramas divididas po
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/contracts | 0002421 | update: Feat contract basic deployed | Deploy del contract bounded context | 25/09/2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/feedback |  |  |  | 25/09/2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/houses-managers |  |  |  |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/housing-appointments | 2e1be5e | feat: integrate deployment | Deploy del housing appointments bounded context | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/contracts | 0002421 | update: Feat contract basic deployed | - | 25/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/feedback | 8543529 | update: deployment and readme | - | 26/09/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/houses-managers |  | - |  |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/housing-appointments | 2e1be5e | feat: integrate deployment | - | 25/09/2024 |
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/payments | 5adab7b | deat: deployin firebase | - | 25/09/2024 |
 
 
@@ -805,6 +780,31 @@ Commits house-mangers:
 Commits contracts:
 
 [![image.png](https://i.postimg.cc/D0RyzpsH/image.png)](https://postimg.cc/fSjh2K8f)
+
+
+### 5.2.3. Sprint 3
+
+## Sprint 3
+
+#### 5.2.3.1.Sprint Planning 3.
+
+Para este sprint se desarrolló las user stories relacionadas a la primera épica, la cuál tiene que ver con el desarrollo de la Landing Page.
+
+| **Aspecto**                      | **Detalles**                                                                                                           |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**   |                                                                                                                        |
+| **Date**                         | 28/10/2024                                                                                                             |
+| **Time**                         | 3:00 pm                                                                                                                |
+| **Location**                     | La reunión se realizó de forma virtual por la plataforma Discord                                                        |
+| **Prepared By**                  | TechMinds                                                                                                              |
+| **Attendees (to planning meeting)** | Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Gomez Hurtado, Miguel Angel / Quispe Tipo, Godofredo |
+| **Sprint n – 2 Review Summary**  | Durante el sprint anterior (Sprint 2), se lograro la primera versión del front end y a su vez se realizó su despliegue individual, usando firebase.                          |
+| **Sprint n – 2 Retrospective Summary** | En el sprint anterior, los miembros del equipo destacaron la importancia de comunicar efectivamente los cambios realizados en los repositorios y mantener un seguimiento ordenado de tasks en Trello |
+| **Sprint Goal & User Stories**   |         **Our focus is on** *concretar una primera versión del backend.* **We believe it delivers** *un acercamiento real de cómo funcionaría nuestro endpoint verdadero conectado a una base de datos,* **to** *el equipo de desarrollo, ayudando a validar el flujo de datos y la integración con otros servicios.* **This will be confirmed when** *la primera versión del backend esté deployeada y pueda ser probada.*                                                           |
+| **Sprint Goal**                | Desarrollar una primera versión del backend                                           |
+| **Sprint Velocity**            | Velocidad estimada de ... puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                             |
+| **Sum of Story Points**          | Se asignaron ... puntos de historia a las tareas completadas, lo que refleja el trabajo realizado para la primera versión del frontend |
+
 
 # Conclusiones
 ## Conclusiones y recomendaciones
