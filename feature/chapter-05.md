@@ -828,7 +828,7 @@ Link de entrevistas: https://acortar.link/7j4FOq
 
 ## Trello Board:
 
-Link:
+Link: https://trello.com/b/anM6lBpU/si729-2402-ws51-grupo-3
 
 ## Repositories
 
