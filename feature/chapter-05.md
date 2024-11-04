@@ -633,7 +633,7 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td></td>
             <td></td>
             <td>05</td>
-            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
             <td>Done</td>
         </tr>
     </tbody>
@@ -974,7 +974,7 @@ El objetivo principal de este Sprint es mejorar el desarrollo inicial del fronte
             </td>
             <td>-</td>
             <td>02</td>
-            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
             <td>Done</td>
         </tr>
         <!-- Fila de separación -->
@@ -991,7 +991,7 @@ El objetivo principal de este Sprint es mejorar el desarrollo inicial del fronte
             </td>
             <td>-</td>
             <td>02</td>
-            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
             <td>Done</td>
         </tr>
          <!-- Fila de separación -->
@@ -1008,7 +1008,7 @@ El objetivo principal de este Sprint es mejorar el desarrollo inicial del fronte
             </td>
             <td>-</td>
             <td>02</td>
-            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
             <td>Done</td>
         </tr>
     </tbody>
@@ -1088,4 +1088,4 @@ Link: https://trello.com/b/anM6lBpU/si729-2402-ws51-grupo-3
 * [Nido Urbano - Documentation](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Documentation)
 * [Nido Urbano - Front End](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend)
 * [Nido Urbano - Testing](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing)
-* Nido Urbano - Backend: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend
+* [Nido Urbano - Backend:](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend)
