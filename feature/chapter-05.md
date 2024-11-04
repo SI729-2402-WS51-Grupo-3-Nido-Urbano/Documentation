@@ -801,6 +801,244 @@ Commits contracts:
 
 [![image.png](https://i.postimg.cc/D0RyzpsH/image.png)](https://postimg.cc/fSjh2K8f)
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1.Sprint Planning 3.
+
+En esta sección, se detalla el desarrollo de una nueva versión de nuestra aplicación web, incluyendo una reestructuración significativa del equipo de trabajo del proyecto. Este proceso implicó una reevaluación de roles y responsabilidades dentro del equipo, asegurando una distribución equilibrada de tareas y habilidades para maximizar la eficacia del proyecto. Además, se inició el desarrollo del backend del sistema, introduciendo nuevas funcionalidades y mejorando la infraestructura técnica subyacente. La participación activa de todos los miembros del equipo fue crucial, desde la realización de commits hasta la colaboración en la creación de ambas partes de la aplicación, front-end y back-end. Esta reestructuración no solo mejoró la dinámica interna del equipo sino que también permitió una mayor flexibilidad y adaptabilidad frente a los desafíos técnicos y de proyecto.
+
+| Sprint # | Sprint 3  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-10-30 | 
+| Time |  10:00 AM |
+| Location |  La reunión se realizó de forma virtual por la plataforma Discord   |
+| Preparate by| Gomez Hurtado, Miguel Angel | 
+|  Attendees (to planning meeting) | Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Gomez Hurtado, Miguel Angel / Quispe Tipo, Godofredo | 
+| Sprint 2 Review Summary | Se realizó las correcciones necesarios para el front-end de la aplicación web | 
+| Sprint Planning Background | Se repartiaron las tareas apropiadas para cada miembro relacionado con el backend y mejora del frontend|
+| Sprint Goal & User Stories | **Our focus is on** *concretar una primera versión del backend* **We believe it delivers** *una impresión a nuestra visión de como sería la aplicación web*  **to**  *usuarios potenciales, mejorando la experiencia de descubrimiento y generando interés en nuestros servicios.* **This will be confirmed when** *la segunda versión del frontend esté deployeado y pueda ser usado.* |
+| Sprint 3 Goal | Desarrolar la funcionalidad de la página web con relacionada con el back-end utilizando Spring realizando el código con ayuda del diagrama de Base de datos.|  
+| Sprint Velocity | Se establece un Velocity de 61 Story Points para este Sprint. | 
+| Sum of Story Points | 61 Story Points | 
+
+#### 5.2.3.2.Sprint Backlog 3.
+
+<table>
+    <thead>
+        <tr>
+            <td>Sprint #1</td>
+            <td colspan="7">Sprint 3</td>
+        </tr>
+        <tr>
+            <td colspan="2">User Story</td>
+            <td colspan="6">Work-Item / Task</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Id</td>
+            <td>Title</td>
+            <td>Title</td>
+            <td>Description</td>
+            <td>Estimation (Hours)</td>
+            <td>Assigned To</td>
+            <td>Status (To-do / In-Process / To-Review / Done)</td>
+        </tr>
+        <tr>
+            <td>US009</td>
+            <td>Agregar Propiedad</td>
+            <td>Permite a los usuarios agregar propiedades a la aplicación </td>
+            <td>Como administrador, quiero poder agregar nuevas propiedades al sistema para ampliar el catálogo de opciones para los usuarios.</td>
+            <td>02</td>
+            <td>Godofredo Quispe Tito</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US013</td>
+            <td>Actualizar Propiedad</td>
+            <td>Permite a los usuarios actualizar la información de las propiedades</td>
+            <td>Como administrador, quiero poder actualizar la información de una propiedad existente en el sistema para corregir errores o actualizar detalles.</td>
+            <td>02</td>
+            <td>Godofredo Quispe Tito</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US014</td>
+            <td>Eliminar Propiedad</td>
+            <td>Permite a los usuarios eliminar las propiedades que ellos mismos publiquen</td>
+            <td>Como administrador, quiero poder eliminar una propiedad del sistema si ya no está disponible o si es incorrecta para mantener el catálogo actualizado.</td>
+            <td>02</td>
+            <td>Godofredo Quispe Tito</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US018</td>
+            <td>Ver Disponibilidad de Citas</td>
+            <td>Se permite ver las citas disponibles</td>
+            <td>Como usuario, quiero poder ver la disponibilidad de citas para ver una propiedad en persona, para elegir un horario conveniente.</td>
+            <td>01</td>
+            <td>Oscar Gabriel Aranda Vallejos</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US020</td>
+            <td>Ver Mis Citas Reservadas</td>
+            <td>Se permite ver las citas que reservó el usuario</td>
+            <td>Como usuario, quiero poder ver todas las citas que he reservado para ver propiedades, para llevar un registro de mis futuras visitas.</td>
+            <td>02</td>
+            <td>Oscar Gabriel Aranda Vallejos</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US021</td>
+            <td>Negociación del contrato</td>
+            <td>Se permite a los usuarios negociar los terminos de un contrato</td>
+            <td>Como usuario, quiero poder negociar los términos del contrato con el propietario para asegurarme de que se ajusten a mis necesidades y expectativas.</td>
+            <td>03</td>
+            <td>Alexander Alberto Cantoral</td>
+            <td>Suspended</td>
+        </tr>
+        <tr>
+            <td>US022</td>
+            <td>Revisión y confirmación de datos de contrato</td>
+            <td>Se permite al usuario revisar los términos ante de generar el contrato</td>
+            <td>Como usuario y propietario, quiero revisar y confirmar los datos del contrato antes de finalizarlo, para asegurarme de que toda la información sea correcta.</td>
+            <td>01</td>
+            <td>Alexander Alberto Cantoral</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US024</td>
+            <td>Cierre de contrato</td>
+            <td>Este permite consolidar que el contrato ha terminado su tiempo de validez </td>
+            <td>Como usuario y propietario, quiero poder cerrar el contrato una vez que ambas partes estén de acuerdo, para formalizar el acuerdo de arrendamiento.</td>
+            <td>03</td>
+            <td>Alexander Alberto Cantoral</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US025</td>
+            <td>Renovación de contrato</td>
+            <td>Este permite renovar un contrato al usuario</td>
+            <td>Como usuario, quiero poder renovar mi contrato de arrendamiento antes de que expire, para continuar con la ocupación de la propiedad sin interrupciones.</td>
+            <td>03</td>
+            <td>Alexander Alberto Cantoral</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US029</td>
+            <td>Cancelación de pago</td>
+            <td>Este permite cancelar el pago de un servicio en una nuestra aplicación web</td>
+            <td>Como usuario, quiero cancelar el pago para poder pensar nuevamente en la decisión que voy a tomar.</td>
+            <td>03</td>
+            <td>Miguel Gomez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US031</td>
+            <td>Agregar un comentario</td>
+            <td>Este permite agregar un comentario al usuario</td>
+            <td>Como usuario, quiero poder agregar comentarios sobre las propiedades que he visitado, para compartir mi opinión con otros usuarios.</td>
+            <td>02</td>
+            <td>Rodrigo Chirinos</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US032</td>
+            <td>Editar mi comentario publicado</td>
+            <td>Permite al usuario editar un comentario ya publicado</td>
+            <td>Como usuario, quiero poder editar mis comentarios publicados sobre propiedades, para corregir errores o actualizar mi opinión.</td>
+            <td>03</td>
+            <td>Rodrigo Chirinos</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US033</td>
+            <td>Eliminar mi comentario publicado</td>
+            <td>Permite al usuario eliminar un comentario publicado</td>
+            <td>Como usuario, quiero poder eliminar mis comentarios publicados sobre propiedades, para gestionar el contenido que comparto.</td>
+            <td>02</td>
+            <td>Rodrigo Chirinos</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
+URL público del Board: https://trello.com/invite/b/66425d8ca1a11660bb257835/ATTI12c866f20cfe302970bbaa0d87751a5a6493D444/si729-2402-ws51-grupo-3
+
+#### 5.2.3.3.Development Evidence for Sprint Review.
+
+En estos commits se puede observar los últimos updates y merge al frontend:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+
+En estos commits se puede observar los últimos updates y merge al backend:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+En está sección se puede apreciar que en el commit en cuestión se subió la información de las historias de usuario para este sprint 3.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+En este sprint se desarrollaron mejoras al frontend y a su vez se hizo un merge en el mismo con un deployment.
+
+Además se hizo un merge para una primera versión del backend de la aplicación.
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+Durante este Sprint, se ha realizado el despliegue del frontend de la aplicación web desarrollada en Angular. Se ha utilizado Firebase Hosting como plataforma para gestionar y alojar el frontend, facilitando un despliegue rápido y seguro. Este proceso incluyó la configuración inicial de cuentas en Firebase, la preparación del entorno de desarrollo, y la implementación del flujo de automatización para asegurar la continuidad en futuros despliegues.
+
+## Proceso de Creación y Configuración de Firebase Hosting
+
+1. **Creación de la cuenta en Firebase**
+   - Se creó una cuenta en Firebase para alojar la aplicación. Para esto, se accedió a [firebase.google.com](https://firebase.google.com/) y se configuró un nuevo proyecto dentro de Firebase Console.
+   - [![2.png](https://i.postimg.cc/0QrLhnVs/2.png)](https://postimg.cc/S2FTM60T)
+
+2. **Configuración del proyecto Angular**
+   - Dentro del proyecto Angular, se instaló la CLI de Firebase ejecutando:
+     ```bash
+     npm install -g firebase-tools
+     ```
+   - Luego, se inicializó Firebase Hosting en el proyecto mediante:
+     ```bash
+     firebase init
+     ```
+   - Se seleccionó Firebase Hosting como la herramienta de despliegue, vinculando el proyecto de Firebase con el código de la aplicación.
+
+3. **Build del proyecto Angular**
+   - Para generar los archivos listos para el despliegue, se ejecutó el comando:
+     ```bash
+     ng build --prod
+     ```
+   - Este comando generó la carpeta `/dist`, que contiene los archivos estáticos que Firebase utilizará para el hosting.
+   - [![1.png](https://i.postimg.cc/k4NxJvVV/1.png)](https://postimg.cc/LYXqvf3R)
+
+4. **Despliegue en Firebase Hosting**
+   - Una vez generado el build, se ejecutó el comando:
+     ```bash
+     firebase deploy
+     ```
+   - Este comando subió el contenido del directorio `/dist` a Firebase Hosting, haciendo que la aplicación esté disponible en la web.
+   - [![3.png]()
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+En esta sección se evidencia la colaboración ella durante el sprint en diferentes repositorios de la organización.
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+### 5.3.2. Registro de Entrevistas.
+### 5.3.3. Evaluaciones según heurísticas.
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
@@ -808,6 +1046,7 @@ Commits contracts:
 
 - TP: Como equipo aplicamos la técnica de divide y vencarás para el desarrollo del frontend, segmentadolo en bounded context y siguiendo las convenciones del DDD. Para ello, cada integrante se encargó de diseñar un bounded context al realizar pruebas de historias de usuario. De esta manera pudimos identificar las historias de usuario que conformarían un bounded context y organizarnos eficientemente.
 
+- TB2: Para esta entrega se entendió que el frontend está casi terminado y que este mismo se debería mejorar un poco. Además se necesitará varias horas para terminar el backend para juntar ambos eventualmente.
 
 # Bibliografía
 
