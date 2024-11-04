@@ -376,6 +376,9 @@ Para la colaboración en la documentación se optó por repartir diferente respo
 
 
 ### 5.2.2. Sprint 2
+
+## Sprint #2
+
 #### 5.2.2.1.Sprint Planning 2.
 
 Para este sprint se desarrolló las user stories relacionadas a la primera épica, la cuál tiene que ver con el desarrollo de la Landing Page.
@@ -391,9 +394,9 @@ Para este sprint se desarrolló las user stories relacionadas a la primera épic
 | **Sprint n – 1 Review Summary**  | Durante el sprint anterior (Sprint 1), se lograro la primera versión de la Landing Page y a su vez se concretó con las historias de usuario y diagrama de base de datos.                          |
 | **Sprint n – 1 Retrospective Summary** | En el sprint anterior, los miembros del equipo destacaron la importancia de mantener una comunicación clara y efectiva. Se resaltó el buen flujo de trabajo, pero se sugirió  una coordinación mejor para la resolución de la documentación y revisión de los commits en los repositorios |
 | **Sprint Goal & User Stories**   |         **Our focus is on** *concretar una primera versión del frontend* **We believe it delivers** *un vistazo a nuestra visión de como sería la aplicación web*  **to**  *usuarios potenciales, mejorando la experiencia de descubrimiento y generando interés en nuestros servicios.* **This will be confirmed when** *la primera versión del frontend esté deployeado y pueda ser usado.*                                                             |
-| **Sprint 1 Goal**                | Desarrollar una primera versión del frontend                                           |
-| **Sprint 1 Velocity**            | Velocidad estimada de 153 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                             |
-| **Sum of Story Points**          | Se asignaron 153 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado para la primera versión del frontend |
+| **Sprint Goal**                | Desarrollar una primera versión del frontend                                           |
+| **Sprint Velocity**            | Velocidad estimada de 106 puntos. La velocidad del equipo se calculó considerando la capacidad del equipo y los puntos de historia completados en sprints anteriores.                                                                             |
+| **Sum of Story Points**          | Se asignaron 87 puntos de historia a las tareas completadas, lo que refleja el trabajo realizado para la primera versión del frontend |
 
 
 #### 5.2.2.2.Sprint Backlog 2.
@@ -630,36 +633,6 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td>Desarrollar ver comentario</td>
             <td>Permitir a los usuarios ver comentarios de otros usuarios.</td>
             <td>05</td>
-            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
-            <td>Done</td>
-        </tr>
-        <!-- Fila de separación para US031 -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US031</td>
-        </tr>
-        <tr>
-            <td>US031</td>
-            <td>Agregar un comentario</td>
-            <td>05</td>
-            <td>Desarrollar agregar comentario</td>
-            <td>Permitir a los usuarios agregar un comentario.</td>
-            <td>05</td>
-            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
-            <td>In-Process</td>
-        </tr>
-        <!-- Fila de separación para US032 -->
-        <tr>
-            <td colspan="8" style="text-align: center; background-color: #e0e0e0;">Work-Item / Task for US032</td>
-        </tr>
-        <tr>
-            <td>US032</td>
-            <td>Editar mi comentario publicado</td>
-            <td>05</td>
-            <td>Desarrollar editar mi comentario publicado</td>
-            <td>Permitir a los usuarios desarrollar el comentario que hayan publicado.</td>
-            <td>05</td>
-            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
-            <td>In-Process</td>
         </tr>
     </tbody>
 </table>
@@ -684,16 +657,6 @@ En estos commits se puede observar los últimos updates y merge a la estructura 
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Landing-Page | dev | a73e4da | feat: Update index.css | Se agregó el diseño de las secciones nuevas integradas al index.html en la página de inicio | 25/09/2024 |
 
 <br>
-
-En estos commits se puede observar los últimos updates a las ramas divididas por integrante para el desarrollo del frontend, cuya estructura fue publicada en el repositorio correspondiente.
-
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/contracts | 0002421 | update: Feat contract basic deployed | Deploy del contract bounded context | 25/09/2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/feedback | b72dc98 | update: Feat Feedback | Deploy del feedback bounded context | 26/09/2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/houses-managers |  |  |  |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/housing-appointments | 2e1be5e | feat: integrate deployment | Deploy del housing appointments bounded context | 25/09/2024 |
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend | feat/payments | 5adab7b | deat: deployin firebase | - | 25/09/2024 |
 
 
 #### 5.2.2.4.Testing Suite Evidence for Sprint Review.
@@ -812,8 +775,7 @@ Commits contracts:
 
 [![image.png](https://i.postimg.cc/D0RyzpsH/image.png)](https://postimg.cc/fSjh2K8f)
 
-Commits feedback:
-[![commit-feedback.png](https://i.postimg.cc/tCnY6HVP/commit-feedback.png)](https://postimg.cc/ykB1qtjY)
+
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -821,6 +783,8 @@ Commits feedback:
 - TB1: Para concluir este trabajo se tuvo en cuenta el ddd y el enfoque de trabajo ágil en cual se hizo un enfasís en revisar diariamente el avance de cada uno en reuniones por discord. A su vez, se planea una retroalimentación de lo evaluado para la semana 5.
 
 - TP: Como equipo aplicamos la técnica de divide y vencarás para el desarrollo del frontend, segmentadolo en bounded context y siguiendo las convenciones del DDD. Para ello, cada integrante se encargó de diseñar un bounded context al realizar pruebas de historias de usuario. De esta manera pudimos identificar las historias de usuario que conformarían un bounded context y organizarnos eficientemente.
+  
+- TB2: Se realizaron mejoras en el frontend que han optimizado la experiencia de usuario. Por otro lado se desarrolló un avance en el backend que permite validar el flujo de datos y probar la integración entre ambos componentes. Esto no solo proporciona una retroalimentación temprana para ajustar detalles técnicos, sino que también establece una base sólida para futuras funcionalidades y escalabilidad. En conjunto, estos avances generan confianza en el equipo de desarrollo y despiertan interés en los usuarios, preparando el sistema para próximas implementaciones.
 
 
 # Bibliografía
@@ -831,7 +795,6 @@ Commits feedback:
 
 Miguel Gomez (Payments): https://nido-urbano.web.app/home 
 
-Rodrigo Chirinos (Feedback): https://feedback-bounded-context.web.app/ 
 
 ## Entrevistas
 
@@ -839,7 +802,7 @@ Link de entrevistas: https://acortar.link/7j4FOq
 
 ## Trello Board:
 
-Link:
+Link: https://trello.com/b/anM6lBpU/si729-2402-ws51-grupo-3
 
 ## Repositories
 
@@ -848,3 +811,4 @@ Link:
 * [Nido Urbano - Documentation](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Documentation)
 * [Nido Urbano - Front End](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend)
 * [Nido Urbano - Testing](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing)
+* Nido Urbano - Backend: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend
