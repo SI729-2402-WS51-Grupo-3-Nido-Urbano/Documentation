@@ -1081,13 +1081,33 @@ En estos commits se puede observar los últimos updates y commits a las diferent
 
 #### 5.2.4.3.Development Evidence for Sprint Review.
 
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|beed5a1af6e89049f0c32af783980611469cbfca |fix| Resolve issues with Feedback Bounded Context|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|5dde2031807a6d0f54fe2c2862ce41150c9bfbbc|feat(db-json)|update data base.|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|e362d1f15eec31f16950c1545463d901b8099eb0|feat|(house manager)|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|6dd1efdf7df3f7e25a443f2b7b185d163be4572a|feat(house-manager)| update house entity.|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|7f6929a388412e8c09b160b2c9763337b1a1d9a0|feat(house-manager)|update house adds.|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|286c12d766e5fa143342e5df0f7858c53a976672|feat(app-routes)|add path.|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|3a2ff8e859e51a419cbf6db6a0fd04df9bfac761|feat(app-component)|add options.|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|dbdb2f11853c081a62a73b1ee72c9438bbaadd94|fix:|Correct attribute names in Feedback entity|19/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|a548a97b956c17b87c7c687939b24bff073f60ec|feat| Connect Feedbacks and Houses BC|20/11/24|
+
+
+
+Link del repositorio del frontend: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend 
+
+
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | a4bfb6f2caed3ff93624106060e701d0d8222454|feat | Rent And Purchase Contract| 18/11/24|
 | https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | f369ba290943c699511779e2e7359d888ed3ae7e |feat |  Contract. Last hotfix | 20/11/24 |
 
 Link del repositorio del backend: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend
-Link del repositorio del frontend: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend 
+
 
 #### 5.2.4.4.Testing Suite Evidence for Sprint Review.
 | Repository/Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
