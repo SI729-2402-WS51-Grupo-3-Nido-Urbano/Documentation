@@ -696,4 +696,4 @@ Acontinuación se presenta el diccionario de clases correspondiente al diagrama 
 ## 4.8. Database Design. 
 ### 4.8.1. Database Diagram. 
 
-[![Nido-Urbano-2024-09-26-06-12.png](https://i.postimg.cc/KvwjJjKF/Nido-Urbano-2024-09-26-06-12.png)](https://postimg.cc/bs0qvzHF)
+[![Nido-Urbano-2024-11-21-14-03.png](https://i.postimg.cc/rp8jZ9vd/Nido-Urbano-2024-11-21-14-03.png)](https://postimg.cc/MnF1v1Zx)
