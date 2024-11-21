@@ -1096,16 +1096,21 @@ En estos commits se puede observar los últimos updates y commits a las diferent
 |https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|a548a97b956c17b87c7c687939b24bff073f60ec|feat| Connect Feedbacks and Houses BC|20/11/24|
 
 
-
 Link del repositorio del frontend: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend 
 
 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 |:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | a4bfb6f2caed3ff93624106060e701d0d8222454|feat | Rent And Purchase Contract| 18/11/24|
-| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | f369ba290943c699511779e2e7359d888ed3ae7e |feat |  Contract. Last hotfix | 20/11/24 |
-
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main |51742c0a3282dc49012016ee9acefa2963613670|feat: Add |TenantName and Fix missing members|16/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | 9ca0cba8ad9629791d39d05db71d8f8266f6c9af|feat| Fix startDate and endDate|16/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main |ec5d574264c977b668e197f01b59df604e3c78ac|Merge branch'feature-housing-appointments' into dev|-|17/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | 0257318819cd13ddc75edd0020a43ed4ad9ec7e6|Merge branch 'feature-contract' into dev|-|17/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | b791f44e498b9754f923b9aa7f22f289dc27908c|fix| Improve controller functionality|18/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | 426bdae392fad4065857dcad83906fdcf1569446|fix| Improve controller functionality|18/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | 173145ece767f34f52c1e43f8de09da1717889f2|fix| Resolve issues with Feedback Bounded Context|18/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | a4bfb6f2caed3ff93624106060e701d0d8222454|feat| Rent And Purchase Contract|18/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | 84ead9ec713f6d94e102a6c557a1aaee4f550f54|feat| Add new query|19/11/24|
 Link del repositorio del backend: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend
 
 
