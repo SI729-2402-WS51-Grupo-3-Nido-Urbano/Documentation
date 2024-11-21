@@ -230,14 +230,25 @@ Nido Urbano
     </ul>
         <li>5.2.3 Sprint 3 </li>
     <ul>
-        <li>5.2.3.1 Sprint Planning 2.</li>
-        <li>5.2.3.2 Sprint Backlog 2.</li>
+        <li>5.2.3.1 Sprint Planning 3.</li>
+        <li>5.2.3.2 Sprint Backlog 3.</li>
         <li>5.2.3.3 Development Evidence for Sprint Review.</li>
         <li>5.2.3.4 Testing Suite Evidence for Sprint Review.</li>
         <li>5.2.3.5 Execution Evidence for Sprint Review.</li>
         <li>5.2.3.6 Services Documentation Evidence for Sprint Review.</li>
         <li>5.2.3.7 Software Deployment Evidence for Sprint Review.</li>
         <li>5.2.3.8 Team Collaboration Insights during Sprint.</li>
+    </ul>
+        <li>5.2.4 Sprint 4</li>
+    <ul>
+        <li>5.2.4.1 Sprint Planning 4.</li>
+        <li>5.2.4.2 Sprint Backlog 4.</li>
+        <li>5.2.4.3 Development Evidence for Sprint Review.</li>
+        <li>5.2.4.4 Testing Suite Evidence for Sprint Review.</li>
+        <li>5.2.4.5 Execution Evidence for Sprint Review.</li>
+        <li>5.2.4.6 Services Documentation Evidence for Sprint Review.</li>
+        <li>5.2.4.7 Software Deployment Evidence for Sprint Review.</li>
+        <li>5.2.4.8 Team Collaboration Insights during Sprint.</li>
     </ul>
         <li>5.3 Validation Interviews </li>
     <ul>
