@@ -68,7 +68,7 @@ Nido Urbano
 |---------------------------------|------------------------------------------------------------------------------------------------------|
 | Número de commits por autor     | [![commits-por-autor.png](https://i.postimg.cc/sgCsHhvC/commits-por-autor.png)](https://postimg.cc/jLcpLCHM) |
 | Historial de cambios            | [![historial-de-activos.png](https://i.postimg.cc/jdPcVZH5/historial-de-activos.png)](https://postimg.cc/RNCKK1b5) |
-| Distribución de trabajo         | [![respo-3.png](https://i.postimg.cc/9Fw5MCQJ/respo-3.png)](https://postimg.cc/ykKrpq9Z) |
+| Distribución de trabajo         | <br> [![Captura-de-pantalla-2024-11-21-120745.png](https://i.postimg.cc/PJ9B8BpB/Captura-de-pantalla-2024-11-21-120745.png)](https://postimg.cc/ZvPfGsLc) <br> [![Captura-de-pantalla-2024-11-21-120906.png](https://i.postimg.cc/ZRBkKb0r/Captura-de-pantalla-2024-11-21-120906.png)](https://postimg.cc/vgs20drB) <br> [![Captura-de-pantalla-2024-11-21-121011.png](https://i.postimg.cc/Bvj72hs3/Captura-de-pantalla-2024-11-21-121011.png)](https://postimg.cc/CZV4gszr) <br> [![Captura-de-pantalla-2024-11-21-121044.png](https://i.postimg.cc/Prf4m6z7/Captura-de-pantalla-2024-11-21-121044.png)](https://postimg.cc/8s3MGmYd) <br> | 
 
 #### 4. Participación de Todos los Miembros del Equipo
 
