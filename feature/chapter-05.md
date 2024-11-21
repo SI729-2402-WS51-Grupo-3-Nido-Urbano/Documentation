@@ -1232,3 +1232,9 @@ Link: https://trello.com/b/anM6lBpU/si729-2402-ws51-grupo-3
 * [Nido Urbano - Front End](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend)
 * [Nido Urbano - Testing](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing)
 * [Nido Urbano - Backend:](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend)
+
+## Diagrams
+
+Database Diagram
+
+[![Nido-Urbano-2024-11-21-14-03.png](https://i.postimg.cc/rp8jZ9vd/Nido-Urbano-2024-11-21-14-03.png)](https://postimg.cc/MnF1v1Zx)
