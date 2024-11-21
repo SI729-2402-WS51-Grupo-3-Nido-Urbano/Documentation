@@ -1050,6 +1050,124 @@ En estos commits se puede observar los últimos updates y commits a las diferent
 <br>
 
 
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1.Sprint Planning 4.
+
+| Sprint # | Sprint 4  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-11-18 | 
+| Time |  3:00 pm |
+| Location |  La reunión se realizó de forma virtual por la plataforma Discord |
+| Prepared by | TechMinds | 
+| Attendees (to planning meeting) | Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Gomez Hurtado, Miguel Angel / Quispe Tipo, Godofredo | 
+| Sprint n-3 Review Summary | Se completaron las funcionalidades del back-end básicas y preparación del front para conectar ambos en su posterior deploy.  |
+| Sprint Planning Background | En este sprint, se enfoca en finalizar las funcionalidades pendientes del back-end y asegurarse de que las interacciones entre el front-end y el back-end funcionen correctamente. |
+| Sprint Goal & User Stories | 
+| Sprint 4 Goal | Completar las funcionalidades de la página web relacionadas con el back-end, y asegurar la integración y el correcto funcionamiento de las mismas. |  
+| Sprint Velocity | Se establece un Velocity de X Story Points para este Sprint. | 
+| Sum of Story Points | X Story Points | 
+
+#### 5.2.4.2.Sprint Backlog 4.
+
+
+
+#### 5.2.4.3.Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | a4bfb6f2caed3ff93624106060e701d0d8222454|feat | Rent And Purchase Contract| 18/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | f369ba290943c699511779e2e7359d888ed3ae7e |feat |  Contract. Last hotfix | 20/11/24 |
+
+Link del repositorio del backend: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend
+Link del repositorio del frontend: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend 
+
+#### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+| Repository/Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:-----------------:|:---------:|:--------------:|:-------------------:|:------------------:|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| 9ba4e67512e8b72ccc04f2c2b0a3da8310298753 | feat Ts | - | 21/11/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing | 70c9d1c50dba3e15eeace4176b4b7deee3231bbb | Merge pull request #1 |from SI729-2402-WS51-Grupo-3-Nido-Urbano/dev| 21/11/2024|
+
+Link de repositorio: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing 
+
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+
+Para el sprint presentamos mejoras en el frontend y backend para que puedan trabajar en conjunto. Ambos consiguen y mandan datos a la base de datos.
+
+En esta sección se adjuntará evidencia de la ejecución de lo desarrollado para este sprint:
+
+Link del vídeo: 
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+En esta sección se presentará las evidencias de lo trabajado para este sprint: 
+
+Evidencia de los endpoints realizados:
+
+[![back1.png](https://i.postimg.cc/Dw1njD0n/back1.png)](https://postimg.cc/xXjwq6L4)
+[![back2.png](https://i.postimg.cc/C5WpJHVR/back2.png)](https://postimg.cc/kRFHgSGC)
+[![back3.png](https://i.postimg.cc/zByJjfRP/back3.png)](https://postimg.cc/2bfRjrG4)
+
+Evidencia de endpoints funcionales:
+
+[![swa1.png](https://i.postimg.cc/SRRLG36G/swa1.png)](https://postimg.cc/64sGWH17)
+[![swa2.png](https://i.postimg.cc/Jn6YmbKP/swa2.png)](https://postimg.cc/G8DxxTWy)
+[![swa3.png](https://i.postimg.cc/k5v99h09/swa3.png)](https://postimg.cc/sBxb4Kf0)
+[![swa4.png](https://i.postimg.cc/ydNqK6hX/swa4.png)](https://postimg.cc/v1C2LsNc)
+[![swa5.png](https://i.postimg.cc/bJr5MC8m/swa5.png)](https://postimg.cc/bDXLSRZn)
+[![swa6.png](https://i.postimg.cc/8zHNgYQG/swa6.png)](https://postimg.cc/VJd3jDkZ)
+[![swa7.png](https://i.postimg.cc/T3Rv0cy4/swa7.png)](https://postimg.cc/YhyPqYz6)
+[![swa8.png](https://i.postimg.cc/QtK2C4PH/swa8.png)](https://postimg.cc/BLsYwgJ0)
+
+Evidencia de los endpoints utilizados por el frontend: 
+
+[![front1.png](https://i.postimg.cc/HnCkkgVZ/front1.png)](https://postimg.cc/TLC6tBjg)
+
+
+
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+Para el depligue de la aplicación usamos herramientras opensource y/o herramientas con beneficios para estudiantes.
+
+Para el deploy del Frontend de la aplicación nuevamente se usó firebase:
+
+Link del frontend desplegado:
+
+
+Para el deploy del Backend de la aplicación se usó " ":
+
+Link del backend deplegado:
+
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+Para esta sección se hará 
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+- Preguntas principales: ¿Qué te parece la Landing Page? ¿Siente que es facil de usar? ¿Podrías hacerme el favor de registrarte y mandar un mensaje? ¿Qué te parece la aplicación web? ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
+
+### 5.3.2. Registro de Entrevistas.
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+
+## 5.4. Video About-the-Product.
+
+En está sección se explica mendiante un vídeo el producto ofrecido.
+
+Link del video:
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
