@@ -1284,6 +1284,9 @@ Link del video:
   
 - TB2: Se realizaron mejoras en el frontend que han optimizado la experiencia de usuario. Por otro lado se desarrolló un avance en el backend que permite validar el flujo de datos y probar la integración entre ambos componentes. Esto no solo proporciona una retroalimentación temprana para ajustar detalles técnicos, sino que también establece una base sólida para futuras funcionalidades y escalabilidad. En conjunto, estos avances generan confianza en el equipo de desarrollo y despiertan interés en los usuarios, preparando el sistema para próximas implementaciones.
 
+- TF: Para concliur con el proyecto se realizaron las pruebas correspondientes para validar que haya comunicación entre el frontend y backend, objetivo que se logró de manera exitosa. Consideramos que este trabajo nos ha permitido adquirir una comprensión más profunda de los procesos involucrados en la creación de sistemas web, desde la estructura de la base de datos hasta la interfaz de usuario. Aunque logramos los objetivos, se identificaron áreas de mejora que pueden ser abordadas en futuras versiones. 
+
+
 
 # Bibliografía
 
