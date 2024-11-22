@@ -1052,10 +1052,37 @@ En estos commits se puede observar los últimos updates y commits a las diferent
 
 #### 5.2.3.4.Testing Suite Evidence for Sprint Review.
 
+Para este sprint no se añadieron us o ts al testing pues to que ya estaban añadidas antes de ello.
+
 #### 5.2.3.5.Execution Evidence for Sprint Review.
+
+En esta sección se adjuntará evidencia de la ejecución de lo desarrollado para este sprint:
+
+Link del vídeo: 
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+En esta sección se puede ver los avances del backend que fue lo prioridad para este sprint:
+
+Evidencia de los endpoints realizados:
+
+[![back1.png](https://i.postimg.cc/Dw1njD0n/back1.png)](https://postimg.cc/xXjwq6L4)
+[![back2.png](https://i.postimg.cc/C5WpJHVR/back2.png)](https://postimg.cc/kRFHgSGC)
+[![back3.png](https://i.postimg.cc/zByJjfRP/back3.png)](https://postimg.cc/2bfRjrG4)
+
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+Para el deploy de este sprint solo se hizo deploy del frontend y LP para mostrar avance y mejora:
+
+Link de deploy de LP:
+
+Link de deploy de Frontend:
+
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+Para este sprint se hizo commits en el repositorio del backend y frontend:
+
+[![insights.png](https://i.postimg.cc/Vs2r4cSd/insights.png)](https://postimg.cc/dDmVtpjY)
 
 ### 5.2.4. Sprint 4
 #### 5.2.4.1.Sprint Planning 4.
@@ -1072,12 +1099,60 @@ En estos commits se puede observar los últimos updates y commits a las diferent
 | Sprint Planning Background | En este sprint, se enfoca en finalizar las funcionalidades pendientes del back-end y asegurarse de que las interacciones entre el front-end y el back-end funcionen correctamente. |
 | Sprint Goal & User Stories | 
 | Sprint 4 Goal | Completar las funcionalidades de la página web relacionadas con el back-end, y asegurar la integración y el correcto funcionamiento de las mismas. |  
-| Sprint Velocity | Se establece un Velocity de X Story Points para este Sprint. | 
-| Sum of Story Points | X Story Points | 
+| Sprint Velocity | Se establece un Velocity de 25 Story Points para este Sprint. | 
+| Sum of Story Points | 25 Story Points | 
 
 #### 5.2.4.2.Sprint Backlog 4.
 
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>TS01</td>
+    <td>Inicio de sesión como administrador</td>
+    <td>5</td>
+    <td>-</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS07</td>
+    <td>Pago seguro en la plataforma</td>
+    <td>5</td>
+    <td>Cantoral Sedamano, Alexander Alberto</td>
+    <td>Done</td>
+<tr>
+    <td>TS010</td>
+    <td>Filtrado de búsqueda de propiedades</td>
+    <td>5</td>
+    <td>-</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS011</td>
+    <td>Generación automática de contratos</td>
+    <td>5</td>
+    <td>Cantoral Sedamano, Alexander Alberto</td>
+    <td>Done</td>
+ </tr>
+  <tr>
+    <td>TS012</td>
+    <td>Negociación de términos de contrato</td>
+    <td>5</td>
+    <td>Cantoral Sedamano, Alexander Alberto</td>
+    <td>Done</td>
+ </tr>
+ </table>
 
+[![sprint-4-tf-open.png](https://i.postimg.cc/HLy9ZL6P/sprint-4-tf-open.png)](https://postimg.cc/nsnmMnbv)
 
 #### 5.2.4.3.Development Evidence for Sprint Review.
 
@@ -1174,7 +1249,14 @@ Link del backend deplegado:
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
-Para esta sección se hará 
+Para esta sección se mostará imágenes de  los insights de los repositorios:
+
+- Insights Backend:
+
+[![insights.png](https://i.postimg.cc/Vs2r4cSd/insights.png)](https://postimg.cc/dDmVtpjY)
+
+- Insights Frontend:
+
 
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
