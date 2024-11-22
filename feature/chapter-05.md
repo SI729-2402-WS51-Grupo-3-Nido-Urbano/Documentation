@@ -633,7 +633,7 @@ El objetivo principal de este Sprint es completar el desarrollo inicial del fron
             <td></td>
             <td></td>
             <td>05</td>
-            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
             <td>Done</td>
         </tr>
     </tbody>
@@ -974,7 +974,7 @@ El objetivo principal de este Sprint es mejorar el desarrollo inicial del fronte
             </td>
             <td>-</td>
             <td>02</td>
-            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
             <td>Done</td>
         </tr>
         <!-- Fila de separación -->
@@ -991,7 +991,7 @@ El objetivo principal de este Sprint es mejorar el desarrollo inicial del fronte
             </td>
             <td>-</td>
             <td>02</td>
-            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
             <td>Done</td>
         </tr>
          <!-- Fila de separación -->
@@ -1008,7 +1008,7 @@ El objetivo principal de este Sprint es mejorar el desarrollo inicial del fronte
             </td>
             <td>-</td>
             <td>02</td>
-            <td>Chirinos Zuñiga, Rodrigo Manuel</td>
+            <td>Chirinos Zúñiga, Rodrigo Manuel</td>
             <td>Done</td>
         </tr>
     </tbody>
@@ -1050,6 +1050,387 @@ En estos commits se puede observar los últimos updates y commits a las diferent
 <br>
 
 
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review.
+
+Para este sprint no se añadieron us o ts al testing pues to que ya estaban añadidas antes de ello.
+
+#### 5.2.3.5.Execution Evidence for Sprint Review.
+
+En esta sección se adjuntará evidencia de la ejecución de lo desarrollado para este sprint:
+
+Link del vídeo: https://acortar.link/8yQzB6
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+En esta sección se puede ver los avances del backend que fue lo prioridad para este sprint:
+
+Evidencia de los endpoints realizados:
+
+[![back1.png](https://i.postimg.cc/Dw1njD0n/back1.png)](https://postimg.cc/xXjwq6L4)
+[![back2.png](https://i.postimg.cc/C5WpJHVR/back2.png)](https://postimg.cc/kRFHgSGC)
+[![back3.png](https://i.postimg.cc/zByJjfRP/back3.png)](https://postimg.cc/2bfRjrG4)
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+Para el deploy de este sprint solo se hizo deploy del frontend y LP para mostrar avance y mejora:
+
+Link de deploy de LP:
+
+Link de deploy de Frontend:
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+Para este sprint se hizo commits en el repositorio del backend y frontend:
+
+[![insights.png](https://i.postimg.cc/Vs2r4cSd/insights.png)](https://postimg.cc/dDmVtpjY)
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1.Sprint Planning 4.
+
+| Sprint # | Sprint 4  | 
+|--------------------|------------|
+| Sprint Planning Background | 
+| Date | 2024-11-18 | 
+| Time |  3:00 pm |
+| Location |  La reunión se realizó de forma virtual por la plataforma Discord |
+| Prepared by | TechMinds | 
+| Attendees (to planning meeting) | Aranda Vallejos, Oscar Gabriel / Cantoral Sedamano, Alexander Alberto / Chirinos Zúñiga, Rodrigo Manuel / Gomez Hurtado, Miguel Angel / Quispe Tipo, Godofredo | 
+| Sprint n-3 Review Summary | Se completaron las funcionalidades del back-end básicas y preparación del front para conectar ambos en su posterior deploy.  |
+| Sprint Planning Background | En este sprint, se enfoca en finalizar las funcionalidades pendientes del back-end y asegurarse de que las interacciones entre el front-end y el back-end funcionen correctamente. |
+| Sprint Goal & User Stories | 
+| Sprint 4 Goal | Completar las funcionalidades de la página web relacionadas con el back-end, y asegurar la integración y el correcto funcionamiento de las mismas. |  
+| Sprint Velocity | Se establece un Velocity de 25 Story Points para este Sprint. | 
+| Sum of Story Points | 25 Story Points | 
+
+#### 5.2.4.2.Sprint Backlog 4.
+
+<table align="center" border="1" width="90%" style="text-align:center">
+ <tr>
+    <td colspan="2"><b>User Story</b></td>
+    <td colspan="6"><b>Work-Item / Task</b></td>
+  </tr>
+  <tr>
+    <td><b>Id</b></td>
+    <td><b>Title</b></td>
+    <td><b>Estimation</b></td>
+    <td><b>Assigned To</b></td>
+    <td><b>Status(To-do/ In-Process/ To-Review/ Done)</b></td>
+  </tr>
+  <tr>
+    <td>TS01</td>
+    <td>Inicio de sesión como administrador</td>
+    <td>5</td>
+    <td>-</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS07</td>
+    <td>Pago seguro en la plataforma</td>
+    <td>5</td>
+    <td>Cantoral Sedamano, Alexander Alberto</td>
+    <td>Done</td>
+<tr>
+    <td>TS010</td>
+    <td>Filtrado de búsqueda de propiedades</td>
+    <td>5</td>
+    <td>-</td>
+    <td>Done</td>
+ </tr>
+ <tr>
+    <td>TS011</td>
+    <td>Generación automática de contratos</td>
+    <td>5</td>
+    <td>Cantoral Sedamano, Alexander Alberto</td>
+    <td>Done</td>
+ </tr>
+  <tr>
+    <td>TS012</td>
+    <td>Negociación de términos de contrato</td>
+    <td>5</td>
+    <td>Cantoral Sedamano, Alexander Alberto</td>
+    <td>Done</td>
+ </tr>
+ </table>
+
+[![sprint-4-tf-open.png](https://i.postimg.cc/HLy9ZL6P/sprint-4-tf-open.png)](https://postimg.cc/nsnmMnbv)
+
+#### 5.2.4.3.Development Evidence for Sprint Review.
+
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|beed5a1af6e89049f0c32af783980611469cbfca |fix| Resolve issues with Feedback Bounded Context|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|5dde2031807a6d0f54fe2c2862ce41150c9bfbbc|feat(db-json)|update data base.|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|e362d1f15eec31f16950c1545463d901b8099eb0|feat|(house manager)|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|6dd1efdf7df3f7e25a443f2b7b185d163be4572a|feat(house-manager)| update house entity.|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|7f6929a388412e8c09b160b2c9763337b1a1d9a0|feat(house-manager)|update house adds.|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|286c12d766e5fa143342e5df0f7858c53a976672|feat(app-routes)|add path.|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|3a2ff8e859e51a419cbf6db6a0fd04df9bfac761|feat(app-component)|add options.|18/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|dbdb2f11853c081a62a73b1ee72c9438bbaadd94|fix:|Correct attribute names in Feedback entity|19/11/24|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend|dev|a548a97b956c17b87c7c687939b24bff073f60ec|feat| Connect Feedbacks and Houses BC|20/11/24|
+
+
+Link del repositorio del frontend: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend 
+
+
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:-------------------:|:------------------:|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main |51742c0a3282dc49012016ee9acefa2963613670|feat: Add |TenantName and Fix missing members|16/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | 9ca0cba8ad9629791d39d05db71d8f8266f6c9af|feat| Fix startDate and endDate|16/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main |ec5d574264c977b668e197f01b59df604e3c78ac|Merge branch'feature-housing-appointments' into dev|-|17/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | 0257318819cd13ddc75edd0020a43ed4ad9ec7e6|Merge branch 'feature-contract' into dev|-|17/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | b791f44e498b9754f923b9aa7f22f289dc27908c|fix| Improve controller functionality|18/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | 426bdae392fad4065857dcad83906fdcf1569446|fix| Improve controller functionality|18/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | 173145ece767f34f52c1e43f8de09da1717889f2|fix| Resolve issues with Feedback Bounded Context|18/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | a4bfb6f2caed3ff93624106060e701d0d8222454|feat| Rent And Purchase Contract|18/11/24|
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend | main | 84ead9ec713f6d94e102a6c557a1aaee4f550f54|feat| Add new query|19/11/24|
+Link del repositorio del backend: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend
+
+
+#### 5.2.4.4.Testing Suite Evidence for Sprint Review.
+| Repository/Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|:-----------------:|:---------:|:--------------:|:-------------------:|:------------------:|
+|https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing| 9ba4e67512e8b72ccc04f2c2b0a3da8310298753 | feat Ts | - | 21/11/2024 |
+| https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing | 70c9d1c50dba3e15eeace4176b4b7deee3231bbb | Merge pull request #1 |from SI729-2402-WS51-Grupo-3-Nido-Urbano/dev| 21/11/2024|
+
+Link de repositorio: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing 
+
+#### 5.2.4.5.Execution Evidence for Sprint Review.
+
+Para el sprint presentamos mejoras en el frontend y backend para que puedan trabajar en conjunto. Ambos consiguen y mandan datos a la base de datos.
+
+En esta sección se adjuntará evidencia de la ejecución de lo desarrollado para este sprint:
+
+Link del vídeo: 
+
+#### 5.2.4.6.Services Documentation Evidence for Sprint Review.
+
+En esta sección se presentará las evidencias de lo trabajado para este sprint: 
+
+Evidencia de los endpoints realizados:
+
+[![back1.png](https://i.postimg.cc/Dw1njD0n/back1.png)](https://postimg.cc/xXjwq6L4)
+[![back2.png](https://i.postimg.cc/C5WpJHVR/back2.png)](https://postimg.cc/kRFHgSGC)
+[![back3.png](https://i.postimg.cc/zByJjfRP/back3.png)](https://postimg.cc/2bfRjrG4)
+
+Evidencia de endpoints funcionales:
+
+[![swa1.png](https://i.postimg.cc/SRRLG36G/swa1.png)](https://postimg.cc/64sGWH17)
+[![swa2.png](https://i.postimg.cc/Jn6YmbKP/swa2.png)](https://postimg.cc/G8DxxTWy)
+[![swa3.png](https://i.postimg.cc/k5v99h09/swa3.png)](https://postimg.cc/sBxb4Kf0)
+[![swa4.png](https://i.postimg.cc/ydNqK6hX/swa4.png)](https://postimg.cc/v1C2LsNc)
+[![swa5.png](https://i.postimg.cc/bJr5MC8m/swa5.png)](https://postimg.cc/bDXLSRZn)
+[![swa6.png](https://i.postimg.cc/8zHNgYQG/swa6.png)](https://postimg.cc/VJd3jDkZ)
+[![swa7.png](https://i.postimg.cc/T3Rv0cy4/swa7.png)](https://postimg.cc/YhyPqYz6)
+[![swa8.png](https://i.postimg.cc/QtK2C4PH/swa8.png)](https://postimg.cc/BLsYwgJ0)
+
+Evidencia de los endpoints utilizados por el frontend: 
+
+[![front1.png](https://i.postimg.cc/HnCkkgVZ/front1.png)](https://postimg.cc/TLC6tBjg)
+
+
+
+
+#### 5.2.4.7.Software Deployment Evidence for Sprint Review.
+
+- Para el depligue de la aplicación usamos herramientras opensource y/o herramientas con beneficios para estudiantes.
+
+## Frontend Deployment
+
+<br>Para el deploy del Frontend de la aplicación nuevamente se usó firebase:
+
+- Link del frontend desplegado:
+
+## Backend Deployment
+
+<br>Para el deploy del Backend de la aplicación se usó "Railway":
+
+- Creación de la instancia de la base de datos PostgreSQL
+
+[![Captura-de-pantalla-2024-11-21-225318.png](https://i.postimg.cc/RZQyJVkw/Captura-de-pantalla-2024-11-21-225318.png)](https://postimg.cc/hXvpHgPG)
+
+- Deploy del Backend
+
+[![Captura-de-pantalla-2024-11-21-225309.png](https://i.postimg.cc/x1SBdb40/Captura-de-pantalla-2024-11-21-225309.png)](https://postimg.cc/8jtZKsG3)
+
+- Conexión del Backend hacia la base de datos deployada
+
+[![Captura-de-pantalla-2024-11-21-225334.png](https://i.postimg.cc/28WPmxTc/Captura-de-pantalla-2024-11-21-225334.png)](https://postimg.cc/3dKLFmsm)
+
+- Endpoints desplegados:
+
+    Housing Reservations<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/reservations<br>
+
+    House Managers<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/houses<br>
+
+    Feedback<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/feedbacks<br>
+
+    Payments<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/payments<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/paymentManagements<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/transactions<br>
+
+    Contracts<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/purchaseContracts/1<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/rentalContracts/1<br>
+
+
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
+
+Para esta sección se mostará imágenes de  los insights de los repositorios:
+
+- Insights Backend:
+
+[![insights.png](https://i.postimg.cc/Vs2r4cSd/insights.png)](https://postimg.cc/dDmVtpjY)
+
+- Insights Frontend:
+
+
+## 5.3. Validation Interviews.
+### 5.3.1. Diseño de Entrevistas.
+
+- Preguntas principales: ¿Qué te parece la Landing Page? ¿Siente que es facil de usar? ¿Podrías hacerme el favor de registrarte y mandar un mensaje? ¿Qué te parece la aplicación web? ¿Siente que la aplicación web satisfacerá tus necesidades como futur@ usuario?
+
+### 5.3.2. Registro de Entrevistas.
+
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+# UX Heuristics & Principles Evaluation  
+**Usability – Inclusive Design – Information Architecture**  
+
+### Detalles del Proyecto  
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Aplicaciones Open Source  
+**SECCIÓN:** WS51  
+**PROFESORES:** Todos  
+**AUDITOR:** Grupo 3  
+**CLIENTE(s):** Nicolas Chun Alberto Ventosilla, Renzo Silva Morales  
+
+---
+
+## SITE o APP A EVALUAR  
+
+**Nido Urbano Platform**  
+
+---
+
+## TAREAS A EVALUAR  
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+
+1. Publicación de una propiedad inmobiliaria  
+2. Búsqueda de una propiedad inmobiliaria  
+3. Visualización de fechas disponibles para reservar una cita  
+4. Registro de citas  
+5. Verificación de pago  
+
+---
+
+## ESCALA DE SEVERIDAD  
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:  
+
+| **Nivel** | **Descripción** |
+|-----------|-----------------|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+## TABLA RESUMEN  
+
+| # | **Problema** | **Escala de severidad** | **Heurística/Principio violado(a)** |
+|---|--------------|--------------------------|-------------------------------------|
+| 1 | El diseño en conjunto de los formularios para agregar una vivienda es demasiado extenso y no está segmentado. | 3 | Usability: Aesthetic and Minimalist Design |
+| 2 | No hay internacionalización del idioma en diferentes secciones. | 2 | Usability: Consistencia y estándares |
+| 3 | No hay un control que permita regresar a la visualización del calendario de fechas disponibles durante la reservación de citas. | 2 | Usability: Libertad y control del usuario |
+| 4 | El sistema obliga al usuario a tener que recargar el calendario para que se visualicen las fechas disponibles de reservación de citas. | 3 | Usability: Libertad y control del usuario |
+| 5 | Los ítems, títulos se muestran en el front como variables sacadas del código. | 3 | Usability: Aesthetic and Minimalist Design |
+
+---
+
+## DESCRIPCIÓN DE PROBLEMAS  
+
+### PROBLEMA #1  
+**Severidad:** 3  
+**Heurística violada:** Usability: Aesthetic and Minimalist Design  
+
+**Problema:**  
+El formulario para agregar una vivienda incluye múltiples campos que se presentan de forma continua, sin segmentación en secciones. Esto genera una experiencia de usuario abrumadora, especialmente para usuarios con menor experiencia técnica, lo que podría llevar a errores o abandono del formulario.  
+
+![Formulario extenso sin segmentación](https://i.postimg.cc/kX0CRP9q/Captura-de-pantalla-2024-11-22-043444.png)  
+
+**Recomendación:**  
+Dividir el formulario en pasos o secciones lógicas, utilizando un asistente o diseño por pestañas. Esto hará que la experiencia sea más manejable y permita al usuario concentrarse en una tarea a la vez.  
+
+---
+
+### PROBLEMA #2  
+**Severidad:** 2  
+**Heurística violada:** Usability: Consistencia y estándares  
+
+**Problema:**  
+Algunas secciones del sistema están únicamente en un idioma (por ejemplo, en inglés), mientras que otras secciones están traducidas al español. Esto genera una falta de consistencia en la experiencia del usuario y puede ser confuso para usuarios que no dominen el idioma principal.  
+
+**Recomendación:**  
+Implementar soporte completo para la internacionalización, asegurando que todo el sistema ofrezca una traducción consistente y adecuada a los idiomas configurados.  
+
+---
+
+### PROBLEMA #3  
+**Severidad:** 3  
+**Heurística violada:** Usability: Libertad y control del usuario  
+
+**Problema:**  
+Una vez que el usuario abandona la visualización del calendario para realizar otra acción, no tiene una manera clara de volver al calendario sin perder los datos ingresados previamente. Esto reduce el control del usuario sobre su flujo de trabajo.  
+
+**Recomendación:**  
+Añadir un botón o enlace que permita regresar al calendario fácilmente desde cualquier parte del flujo de reservación, manteniendo los datos ingresados anteriormente.  
+
+---
+
+### PROBLEMA #4  
+**Severidad:** 3  
+**Heurística violada:** Usability: Libertad y control del usuario  
+
+**Problema:**  
+Cuando el usuario cambia algún parámetro en la búsqueda (como el rango de fechas o la ubicación), el sistema no actualiza automáticamente las fechas disponibles, obligándolo a recargar el calendario manualmente. Esto introduce fricciones innecesarias en la experiencia.  
+
+![Problema de recarga de calendario](https://i.postimg.cc/d0TTmYZ6/Captura-de-pantalla-2024-11-22-043312.png)  
+
+**Recomendación:**  
+Habilitar la actualización automática del calendario cada vez que se modifiquen los parámetros de búsqueda. Esto asegura que las fechas disponibles se actualicen dinámicamente, eliminando la necesidad de recargar manualmente.  
+
+---
+
+### PROBLEMA #5  
+**Severidad:** 3  
+**Heurística violada:** Usability: Aesthetic and Minimalist Design  
+
+**Problema:**  
+En el front-end, algunos ítems y títulos aparecen como variables o identificadores de código (por ejemplo, `reservation.id:`), en lugar de mostrarse como texto claro y comprensible para el usuario. Esto afecta la estética y la claridad del diseño, dificultando la experiencia del usuario.  
+
+![Ítems mostrados como variables de código](https://i.postimg.cc/J7sSNYpn/Captura-de-pantalla-2024-11-22-043141.png)  
+
+**Recomendación:**  
+Asegurarse de que todos los elementos visibles en el front-end estén correctamente renderizados como texto legible para el usuario. Implementar un sistema de revisión que valide que los datos mostrados en pantalla no incluyan variables o texto técnico.  
+
+
+
+## 5.4. Video About-the-Product.
+
+En está sección se explica mendiante un vídeo el producto ofrecido.
+
+Link del video: 
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 
@@ -1059,6 +1440,13 @@ En estos commits se puede observar los últimos updates y commits a las diferent
   
 - TB2: Se realizaron mejoras en el frontend que han optimizado la experiencia de usuario. Por otro lado se desarrolló un avance en el backend que permite validar el flujo de datos y probar la integración entre ambos componentes. Esto no solo proporciona una retroalimentación temprana para ajustar detalles técnicos, sino que también establece una base sólida para futuras funcionalidades y escalabilidad. En conjunto, estos avances generan confianza en el equipo de desarrollo y despiertan interés en los usuarios, preparando el sistema para próximas implementaciones.
 
+- TF: Para concliur con el proyecto se realizaron las pruebas correspondientes para validar que haya comunicación entre el frontend y backend, objetivo que se logró de manera exitosa. Consideramos que este trabajo nos ha permitido adquirir una comprensión más profunda de los procesos involucrados en la creación de sistemas web, desde la estructura de la base de datos hasta la interfaz de usuario. Aunque logramos los objetivos, se identificaron áreas de mejora que pueden ser abordadas en futuras versiones. 
+
+## Video About The Team
+
+[![Captura-de-pantalla-2024-11-22-035314.png](https://i.postimg.cc/gk49JHfG/Captura-de-pantalla-2024-11-22-035314.png)](https://postimg.cc/gnwtt8z7)
+<br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EW5l_X3WBfhGnhNfRS2uMMYBrbLRSwVfKCqAaBkHRLNqVQ?e=m8uqEw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Bibliografía
 
@@ -1066,11 +1454,7 @@ En estos commits se puede observar los últimos updates y commits a las diferent
 
 ## Deploys
 
-Miguel Gomez (Payments): https://nido-urbano.web.app/home 
-
-Rodrigo Chirinos (Feedback): https://feedback-bounded-context.web.app/
-
-Oscar Aranda (Housing Appointment Reservation): https://nido-urbano-ws51-har-bc-2024.web.app/housing-reservation/reservations
+Deploy Frontend
 
 
 ## Entrevistas
@@ -1088,4 +1472,10 @@ Link: https://trello.com/b/anM6lBpU/si729-2402-ws51-grupo-3
 * [Nido Urbano - Documentation](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Documentation)
 * [Nido Urbano - Front End](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Frontend)
 * [Nido Urbano - Testing](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Testing)
-* Nido Urbano - Backend: https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend
+* [Nido Urbano - Backend:](https://github.com/SI729-2402-WS51-Grupo-3-Nido-Urbano/Nido-Urbano-Backend)
+
+## Diagrams
+
+Database Diagram
+
+[![Nido-Urbano-2024-11-21-14-03.png](https://i.postimg.cc/rp8jZ9vd/Nido-Urbano-2024-11-21-14-03.png)](https://postimg.cc/MnF1v1Zx)
