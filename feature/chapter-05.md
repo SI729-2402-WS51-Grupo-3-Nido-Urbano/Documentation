@@ -1074,7 +1074,7 @@ Evidencia de los endpoints realizados:
 
 Para el deploy de este sprint solo se hizo deploy del frontend y LP para mostrar avance y mejora:
 
-Link de deploy de LP:
+Link de deploy de LP: https://si729-2402-ws51-grupo-3-nido-urbano.github.io/Nido-Urbano-Landing-Page/
 
 Link de deploy de Frontend:
 
@@ -1454,8 +1454,9 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EW5l_X3W
 
 ## Deploys
 
-Deploy Frontend
+Deploy Frontend: 
 
+Deploy Landing Page: https://si729-2402-ws51-grupo-3-nido-urbano.github.io/Nido-Urbano-Landing-Page/
 
 ## Entrevistas
 
