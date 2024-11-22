@@ -1235,16 +1235,49 @@ Evidencia de los endpoints utilizados por el frontend:
 
 #### 5.2.4.7.Software Deployment Evidence for Sprint Review.
 
-Para el depligue de la aplicación usamos herramientras opensource y/o herramientas con beneficios para estudiantes.
+- Para el depligue de la aplicación usamos herramientras opensource y/o herramientas con beneficios para estudiantes.
 
-Para el deploy del Frontend de la aplicación nuevamente se usó firebase:
+## Frontend Deployment
 
-Link del frontend desplegado:
+<br>Para el deploy del Frontend de la aplicación nuevamente se usó firebase:
 
+- Link del frontend desplegado:
 
-Para el deploy del Backend de la aplicación se usó " ":
+## Backend Deployment
 
-Link del backend deplegado:
+<br>Para el deploy del Backend de la aplicación se usó "Railway":
+
+- Creación de la instancia de la base de datos PostgreSQL
+
+[![Captura-de-pantalla-2024-11-21-225318.png](https://i.postimg.cc/RZQyJVkw/Captura-de-pantalla-2024-11-21-225318.png)](https://postimg.cc/hXvpHgPG)
+
+- Deploy del Backend
+
+[![Captura-de-pantalla-2024-11-21-225309.png](https://i.postimg.cc/x1SBdb40/Captura-de-pantalla-2024-11-21-225309.png)](https://postimg.cc/8jtZKsG3)
+
+- Conexión del Backend hacia la base de datos deployada
+
+[![Captura-de-pantalla-2024-11-21-225334.png](https://i.postimg.cc/28WPmxTc/Captura-de-pantalla-2024-11-21-225334.png)](https://postimg.cc/3dKLFmsm)
+
+- Endpoints desplegados:
+
+    Housing Reservations<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/reservations<br>
+
+    House Managers<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/houses<br>
+
+    Feedback<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/feedbacks<br>
+
+    Payments<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/payments<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/paymentManagements<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/transactions<br>
+
+    Contracts<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/purchaseContracts/1<br>
+      https://cheerful-courage-production.up.railway.app/api/v1/rentalContracts/1<br>
 
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
@@ -1294,11 +1327,7 @@ Link del video:
 
 ## Deploys
 
-Miguel Gomez (Payments): https://nido-urbano.web.app/home 
-
-Rodrigo Chirinos (Feedback): https://feedback-bounded-context.web.app/
-
-Oscar Aranda (Housing Appointment Reservation): https://nido-urbano-ws51-har-bc-2024.web.app/housing-reservation/reservations
+Deploy Frontend
 
 
 ## Entrevistas
