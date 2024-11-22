@@ -1058,7 +1058,7 @@ Para este sprint no se añadieron us o ts al testing pues to que ya estaban aña
 
 En esta sección se adjuntará evidencia de la ejecución de lo desarrollado para este sprint:
 
-Link del vídeo: 
+Link del vídeo: https://acortar.link/8yQzB6
 
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 
