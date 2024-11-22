@@ -1076,7 +1076,7 @@ Para el deploy de este sprint solo se hizo deploy del frontend y LP para mostrar
 
 Link de deploy de LP: https://si729-2402-ws51-grupo-3-nido-urbano.github.io/Nido-Urbano-Landing-Page/
 
-Link de deploy de Frontend:
+Link de deploy de Frontend: [[Link](https://nido-urbano-f7a5b.web.app/)]
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 
