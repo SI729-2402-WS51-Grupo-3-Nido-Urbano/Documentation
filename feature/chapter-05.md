@@ -1,4 +1,4 @@
-# Capítulo V: Product Implementation, Validation & Deployment 
+![image](https://github.com/user-attachments/assets/8e2dbc76-106d-44e7-ad43-021e94929a3b)# Capítulo V: Product Implementation, Validation & Deployment 
 
 ## 5.1. Software Configuration Management. 
 
@@ -1306,7 +1306,7 @@ Para esta sección se mostará imágenes de  los insights de los repositorios:
 
 En está sección se explica mendiante un vídeo el producto ofrecido.
 
-Link del video:
+Link del video: 
 
 # Conclusiones
 ## Conclusiones y recomendaciones
@@ -1319,7 +1319,11 @@ Link del video:
 
 - TF: Para concliur con el proyecto se realizaron las pruebas correspondientes para validar que haya comunicación entre el frontend y backend, objetivo que se logró de manera exitosa. Consideramos que este trabajo nos ha permitido adquirir una comprensión más profunda de los procesos involucrados en la creación de sistemas web, desde la estructura de la base de datos hasta la interfaz de usuario. Aunque logramos los objetivos, se identificaron áreas de mejora que pueden ser abordadas en futuras versiones. 
 
+## Video About The Team
 
+[![Captura-de-pantalla-2024-11-22-035314.png](https://i.postimg.cc/gk49JHfG/Captura-de-pantalla-2024-11-22-035314.png)](https://postimg.cc/gnwtt8z7)
+<br>
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218167_upc_edu_pe/EW5l_X3WBfhGnhNfRS2uMMYBrbLRSwVfKCqAaBkHRLNqVQ?e=m8uqEw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Bibliografía
 
