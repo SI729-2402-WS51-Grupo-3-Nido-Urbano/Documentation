@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8e2dbc76-106d-44e7-ad43-021e94929a3b)# Capítulo V: Product Implementation, Validation & Deployment 
+# Capítulo V: Product Implementation, Validation & Deployment 
 
 ## 5.1. Software Configuration Management. 
 
@@ -1300,6 +1300,129 @@ Para esta sección se mostará imágenes de  los insights de los repositorios:
 
 
 ### 5.3.3. Evaluaciones según heurísticas.
+
+# UX Heuristics & Principles Evaluation  
+**Usability – Inclusive Design – Information Architecture**  
+
+### Detalles del Proyecto  
+**CARRERA:** Ingeniería de Software  
+**CURSO:** Desarrollo de Aplicaciones Open Source  
+**SECCIÓN:** WS51  
+**PROFESORES:** Todos  
+**AUDITOR:** Grupo 3  
+**CLIENTE(s):** Nicolas Chun Alberto Ventosilla, Renzo Silva Morales  
+
+---
+
+## SITE o APP A EVALUAR  
+
+**Nido Urbano Platform**  
+
+---
+
+## TAREAS A EVALUAR  
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:  
+
+1. Publicación de una propiedad inmobiliaria  
+2. Búsqueda de una propiedad inmobiliaria  
+3. Visualización de fechas disponibles para reservar una cita  
+4. Registro de citas  
+5. Verificación de pago  
+
+---
+
+## ESCALA DE SEVERIDAD  
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:  
+
+| **Nivel** | **Descripción** |
+|-----------|-----------------|
+| **1** | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| **2** | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al siguiente release. |
+| **3** | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| **4** | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+## TABLA RESUMEN  
+
+| # | **Problema** | **Escala de severidad** | **Heurística/Principio violado(a)** |
+|---|--------------|--------------------------|-------------------------------------|
+| 1 | El diseño en conjunto de los formularios para agregar una vivienda es demasiado extenso y no está segmentado. | 3 | Usability: Aesthetic and Minimalist Design |
+| 2 | No hay internacionalización del idioma en diferentes secciones. | 2 | Usability: Consistencia y estándares |
+| 3 | No hay un control que permita regresar a la visualización del calendario de fechas disponibles durante la reservación de citas. | 2 | Usability: Libertad y control del usuario |
+| 4 | El sistema obliga al usuario a tener que recargar el calendario para que se visualicen las fechas disponibles de reservación de citas. | 3 | Usability: Libertad y control del usuario |
+| 5 | Los ítems, títulos se muestran en el front como variables sacadas del código. | 3 | Usability: Aesthetic and Minimalist Design |
+
+---
+
+## DESCRIPCIÓN DE PROBLEMAS  
+
+### PROBLEMA #1  
+**Severidad:** 3  
+**Heurística violada:** Usability: Aesthetic and Minimalist Design  
+
+**Problema:**  
+El formulario para agregar una vivienda incluye múltiples campos que se presentan de forma continua, sin segmentación en secciones. Esto genera una experiencia de usuario abrumadora, especialmente para usuarios con menor experiencia técnica, lo que podría llevar a errores o abandono del formulario.  
+
+![Formulario extenso sin segmentación](https://i.postimg.cc/kX0CRP9q/Captura-de-pantalla-2024-11-22-043444.png)  
+
+**Recomendación:**  
+Dividir el formulario en pasos o secciones lógicas, utilizando un asistente o diseño por pestañas. Esto hará que la experiencia sea más manejable y permita al usuario concentrarse en una tarea a la vez.  
+
+---
+
+### PROBLEMA #2  
+**Severidad:** 2  
+**Heurística violada:** Usability: Consistencia y estándares  
+
+**Problema:**  
+Algunas secciones del sistema están únicamente en un idioma (por ejemplo, en inglés), mientras que otras secciones están traducidas al español. Esto genera una falta de consistencia en la experiencia del usuario y puede ser confuso para usuarios que no dominen el idioma principal.  
+
+**Recomendación:**  
+Implementar soporte completo para la internacionalización, asegurando que todo el sistema ofrezca una traducción consistente y adecuada a los idiomas configurados.  
+
+---
+
+### PROBLEMA #3  
+**Severidad:** 3  
+**Heurística violada:** Usability: Libertad y control del usuario  
+
+**Problema:**  
+Una vez que el usuario abandona la visualización del calendario para realizar otra acción, no tiene una manera clara de volver al calendario sin perder los datos ingresados previamente. Esto reduce el control del usuario sobre su flujo de trabajo.  
+
+**Recomendación:**  
+Añadir un botón o enlace que permita regresar al calendario fácilmente desde cualquier parte del flujo de reservación, manteniendo los datos ingresados anteriormente.  
+
+---
+
+### PROBLEMA #4  
+**Severidad:** 3  
+**Heurística violada:** Usability: Libertad y control del usuario  
+
+**Problema:**  
+Cuando el usuario cambia algún parámetro en la búsqueda (como el rango de fechas o la ubicación), el sistema no actualiza automáticamente las fechas disponibles, obligándolo a recargar el calendario manualmente. Esto introduce fricciones innecesarias en la experiencia.  
+
+![Problema de recarga de calendario](https://i.postimg.cc/d0TTmYZ6/Captura-de-pantalla-2024-11-22-043312.png)  
+
+**Recomendación:**  
+Habilitar la actualización automática del calendario cada vez que se modifiquen los parámetros de búsqueda. Esto asegura que las fechas disponibles se actualicen dinámicamente, eliminando la necesidad de recargar manualmente.  
+
+---
+
+### PROBLEMA #5  
+**Severidad:** 3  
+**Heurística violada:** Usability: Aesthetic and Minimalist Design  
+
+**Problema:**  
+En el front-end, algunos ítems y títulos aparecen como variables o identificadores de código (por ejemplo, `reservation.id:`), en lugar de mostrarse como texto claro y comprensible para el usuario. Esto afecta la estética y la claridad del diseño, dificultando la experiencia del usuario.  
+
+![Ítems mostrados como variables de código](https://i.postimg.cc/J7sSNYpn/Captura-de-pantalla-2024-11-22-043141.png)  
+
+**Recomendación:**  
+Asegurarse de que todos los elementos visibles en el front-end estén correctamente renderizados como texto legible para el usuario. Implementar un sistema de revisión que valide que los datos mostrados en pantalla no incluyan variables o texto técnico.  
+
 
 
 ## 5.4. Video About-the-Product.
